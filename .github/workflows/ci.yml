@@ -1,0 +1,40 @@
+name: Verify NihonPath
+on:
+  pull_request:
+  push:
+    branches: [main]
+permissions:
+  contents: read
+concurrency:
+  group: verify-${{ github.ref }}
+  cancel-in-progress: true
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    env:
+      APP_ENV: test
+      BILLING_MODE: disabled
+      AI_TUTOR_ENABLED: 'false'
+      EMAIL_DELIVERY_ENABLED: 'false'
+      NEXT_PUBLIC_SITE_URL: http://localhost:3000
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v7
+        with:
+          node-version: '24'
+      - uses: pnpm/action-setup@v6
+      - run: pnpm install --frozen-lockfile
+      - run: node scripts/validate-environment.mjs
+      - run: node scripts/check-migrations.mjs
+      - run: pnpm lint
+      - run: pnpm typecheck
+      - run: pnpm test
+      - run: pnpm test:db
+      - run: pnpm build
+      - run: node scripts/check-launch.mjs --start
+      - run: pnpm exec playwright install --with-deps chromium
+      - run: pnpm test:e2e
+      # No migrations, email delivery, external charges or deployments in CI.

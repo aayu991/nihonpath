@@ -1,0 +1,180 @@
+[
+  {
+    "level": "n5",
+    "term": "水",
+    "reading": "みず",
+    "translations": { "en": "water", "ja": "飲むための水。" },
+    "example": "{水|みず}を{飲|の}みます。",
+    "exampleTranslation": "I drink water."
+  },
+  {
+    "level": "n5",
+    "term": "学校",
+    "reading": "がっこう",
+    "translations": { "en": "school", "ja": "勉強する場所。" },
+    "example": "{学校|がっこう}へ{行|い}きます。",
+    "exampleTranslation": "I go to school."
+  },
+  {
+    "level": "n5",
+    "term": "友達",
+    "reading": "ともだち",
+    "translations": { "en": "friend", "ja": "親しくしている人。" },
+    "example": "{友達|ともだち}と{話|はな}します。",
+    "exampleTranslation": "I talk with a friend."
+  },
+  {
+    "level": "n5",
+    "term": "電車",
+    "reading": "でんしゃ",
+    "translations": { "en": "train", "ja": "電気で走る乗り物。" },
+    "example": "{電車|でんしゃ}で{会社|かいしゃ}へ{行|い}きます。",
+    "exampleTranslation": "I go to work by train."
+  },
+  {
+    "level": "n5",
+    "term": "本",
+    "reading": "ほん",
+    "translations": { "en": "book", "ja": "読むための本。" },
+    "example": "{毎日|まいにち}、{本|ほん}を{読|よ}みます。",
+    "exampleTranslation": "I read a book every day."
+  },
+  {
+    "level": "n5",
+    "term": "食べる",
+    "reading": "たべる",
+    "translations": { "en": "to eat", "ja": "食べ物を口に入れること。" },
+    "example": "パンを{食|た}べます。",
+    "exampleTranslation": "I eat bread."
+  },
+  {
+    "level": "n5",
+    "term": "大きい",
+    "reading": "おおきい",
+    "translations": { "en": "big; large", "ja": "サイズが大きい。" },
+    "example": "あの{犬|いぬ}は{大|おお}きいです。",
+    "exampleTranslation": "That dog is big."
+  },
+  {
+    "level": "n5",
+    "term": "今日",
+    "reading": "きょう",
+    "translations": { "en": "today", "ja": "今、この日。" },
+    "example": "{今日|きょう}は{休|やす}みです。",
+    "exampleTranslation": "Today is a day off."
+  },
+  {
+    "level": "n5",
+    "term": "先生",
+    "reading": "せんせい",
+    "translations": { "en": "teacher", "ja": "勉強などを教える人。" },
+    "example": "{先生|せんせい}に{聞|き}きます。",
+    "exampleTranslation": "I ask the teacher."
+  },
+  {
+    "level": "n5",
+    "term": "駅",
+    "reading": "えき",
+    "translations": { "en": "station", "ja": "電車に乗る場所。" },
+    "example": "{駅|えき}は{近|ちか}いです。",
+    "exampleTranslation": "The station is nearby."
+  },
+  {
+    "level": "n4",
+    "term": "約束",
+    "reading": "やくそく",
+    "translations": { "en": "promise; arrangement", "ja": "人と決めたこと。" },
+    "example": "{友達|ともだち}と{会|あ}う{約束|やくそく}があります。",
+    "exampleTranslation": "I have arranged to meet a friend."
+  },
+  {
+    "level": "n4",
+    "term": "準備",
+    "reading": "じゅんび",
+    "translations": { "en": "preparation", "ja": "必要なものをそろえること。" },
+    "example": "{旅行|りょこう}の{準備|じゅんび}をしています。",
+    "exampleTranslation": "I am preparing for a trip."
+  },
+  {
+    "level": "n4",
+    "term": "経験",
+    "reading": "けいけん",
+    "translations": {
+      "en": "experience",
+      "ja": "実際にしたり見たりしたこと。"
+    },
+    "example": "{日本|にほん}で{働|はたら}いた{経験|けいけん}があります。",
+    "exampleTranslation": "I have experience working in Japan."
+  },
+  {
+    "level": "n4",
+    "term": "間に合う",
+    "reading": "まにあう",
+    "translations": {
+      "en": "to be in time",
+      "ja": "決まった時間までに着くこと。"
+    },
+    "example": "{急|いそ}げば、{電車|でんしゃ}に{間|ま}に{合|あ}います。",
+    "exampleTranslation": "If we hurry, we will catch the train."
+  },
+  {
+    "level": "n4",
+    "term": "続ける",
+    "reading": "つづける",
+    "translations": { "en": "to continue", "ja": "途中でやめないで行うこと。" },
+    "example": "{毎日|まいにち}、{勉強|べんきょう}を{続|つづ}けています。",
+    "exampleTranslation": "I keep studying every day."
+  },
+  {
+    "level": "n4",
+    "term": "必要",
+    "reading": "ひつよう",
+    "translations": {
+      "en": "necessary; necessity",
+      "ja": "なくては困ること。"
+    },
+    "example": "パスポートが{必要|ひつよう}です。",
+    "exampleTranslation": "A passport is necessary."
+  },
+  {
+    "level": "n4",
+    "term": "説明",
+    "reading": "せつめい",
+    "translations": { "en": "explanation", "ja": "わかるように伝えること。" },
+    "example": "{先生|せんせい}の{説明|せつめい}はわかりやすいです。",
+    "exampleTranslation": "The teacher’s explanation is easy to understand."
+  },
+  {
+    "level": "n4",
+    "term": "調べる",
+    "reading": "しらべる",
+    "translations": {
+      "en": "to look up; to investigate",
+      "ja": "知るために探して確かめること。"
+    },
+    "example": "{辞書|じしょ}で{意味|いみ}を{調|しら}べます。",
+    "exampleTranslation": "I look up the meaning in a dictionary."
+  },
+  {
+    "level": "n4",
+    "term": "残念",
+    "reading": "ざんねん",
+    "translations": {
+      "en": "disappointing; regrettable",
+      "ja": "思いどおりにならず、悲しいこと。"
+    },
+    "example": "{会|あ}えなくて{残念|ざんねん}です。",
+    "exampleTranslation": "It is a shame that we cannot meet."
+  },
+  {
+    "level": "n4",
+    "term": "安心",
+    "reading": "あんしん",
+    "translations": {
+      "en": "relief; peace of mind",
+      "ja": "心配がなくなること。"
+    },
+    "example": "{無事|ぶじ}に{着|つ}いたと{聞|き}いて、{安心|あんしん}しました。",
+    "exampleTranslation": "I felt relieved to hear that you arrived safely."
+  }
+]

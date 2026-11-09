@@ -1,0 +1,162 @@
+[
+  {
+    "prompt": "{日本|にほん}へ{行|い}った ___ があります。",
+    "options": ["こと", "もの", "ところ", "ため"],
+    "correctIndex": 0,
+    "translation": "I have been to Japan.",
+    "explanation": "Verb past plain form + ことがある describes a past experience. 行ったことがあります means ‘have been’. The other nouns do not form this experience pattern.",
+    "japaneseExplanation": "「{動詞|どうし}のた{形|けい}＋ことがある」は、{経験|けいけん}を{表|あらわ}します。"
+  },
+  {
+    "prompt": "{毎朝|まいあさ}、{音楽|おんがく}を{聞|き}き ___ {朝|あさ}ご{飯|はん}を{作|つく}ります。",
+    "options": ["まで", "ながら", "ため", "ほど"],
+    "correctIndex": 1,
+    "translation": "Every morning, I make breakfast while listening to music.",
+    "explanation": "Attach ながら to the verb’s ます-stem: 聞きます → 聞きながら. It expresses two simultaneous actions by the same person; the main action follows.",
+    "japaneseExplanation": "「{動詞|どうし}のます{形|けい}の{語幹|ごかん}＋ながら」は、{二|ふた}つの{動作|どうさ}を{同時|どうじ}にすることを{表|あらわ}します。"
+  },
+  {
+    "prompt": "{宿題|しゅくだい}をして ___ 、テレビを{見|み}ます。",
+    "options": ["まで", "より", "から", "ほど"],
+    "correctIndex": 2,
+    "translation": "I will watch TV after doing my homework.",
+    "explanation": "Verb て-form + から places the second action after completion of the first. してから means ‘after doing’. The other options cannot follow して in this sentence.",
+    "japaneseExplanation": "「て{形|けい}＋から」は、{先|さき}にすることと、その{後|あと}にすることの{順番|じゅんばん}を{表|あらわ}します。"
+  },
+  {
+    "prompt": "ここで{写真|しゃしん}を{撮|と}って ___ ですか。",
+    "options": ["ある", "いる", "する", "もいい"],
+    "correctIndex": 3,
+    "translation": "May I take a photograph here?",
+    "explanation": "Verb て-form + もいいですか asks permission. 撮ってもいいですか means ‘May I take a photograph?’ The other choices do not form a permission question.",
+    "japaneseExplanation": "「て{形|けい}＋もいいですか」は、{許可|きょか}を{求|もと}める{表現|ひょうげん}です。"
+  },
+  {
+    "prompt": "{明日|あした}は{試験|しけん}ですから、{勉強|べんきょう}しなければ ___ 。",
+    "options": ["なりません", "ありません", "できません", "しません"],
+    "correctIndex": 0,
+    "translation": "I have an exam tomorrow, so I must study.",
+    "explanation": "Verb ない-form without い + ければなりません expresses obligation. しなければなりません means ‘must do’. なりません completes this fixed construction.",
+    "japaneseExplanation": "「なければなりません」は、{必要|ひつよう}なことや{義務|ぎむ}を{表|あらわ}します。"
+  },
+  {
+    "prompt": "{病気|びょうき}なので、{今日|きょう}は{学校|がっこう}を{休|やす}む ___ です。",
+    "options": ["ながら", "つもり", "だけで", "までに"],
+    "correctIndex": 1,
+    "translation": "Because I am ill, I intend to stay home from school today.",
+    "explanation": "Verb dictionary form + つもりです states an intention. 休むつもりです means ‘intend to be absent’. ながら requires a ます-stem; the other choices do not form the required predicate.",
+    "japaneseExplanation": "「{辞書形|じしょけい}＋つもりです」は、{自分|じぶん}の{意志|いし}や{予定|よてい}を{表|あらわ}します。"
+  },
+  {
+    "prompt": "この{本|ほん}は{字|じ}が{大|おお}きくて、{読|よ}み ___ です。",
+    "options": ["ながら", "たいな", "やすい", "すぎな"],
+    "correctIndex": 2,
+    "translation": "This book has large print and is easy to read.",
+    "explanation": "Verb ます-stem + やすい means ‘easy to do’. 読みやすい describes readability. ながら cannot be followed by です this way; たいな and すぎな are not valid endings here.",
+    "japaneseExplanation": "「ます{形|けい}の{語幹|ごかん}＋やすい」は、その{動作|どうさ}が{簡単|かんたん}だという{意味|いみ}です。"
+  },
+  {
+    "prompt": "{昨日|きのう}、ケーキを{食|た}べ ___ 、おなかが{痛|いた}くなりました。",
+    "options": ["すぎます", "すぎた", "すぎる", "すぎて"],
+    "correctIndex": 3,
+    "translation": "Yesterday I ate too much cake and got a stomachache.",
+    "explanation": "Verb ます-stem + すぎる means ‘do too much’. Its て-form, すぎて, links the excessive eating to the consequence. The sentence describes excess, not ease, appearance, or simultaneous actions.",
+    "japaneseExplanation": "「ます{形|けい}の{語幹|ごかん}＋すぎる」は、{程度|ていど}が{多|おお}すぎることを{表|あらわ}します。"
+  },
+  {
+    "prompt": "{雨|あめ}が{降|ふ}り ___ ですから、{傘|かさ}を{持|も}っていきましょう。",
+    "options": ["そう", "ながら", "たいな", "やすく"],
+    "correctIndex": 0,
+    "translation": "It looks as though it will rain, so let’s take an umbrella.",
+    "explanation": "Verb ます-stem + そうです expresses an appearance or imminent event based on what one observes. 降りそうです means ‘looks like it will rain’. The verb stem cannot take the other choices here.",
+    "japaneseExplanation": "「ます{形|けい}の{語幹|ごかん}＋そうです」は、{見|み}た{様子|ようす}から{判断|はんだん}する{表現|ひょうげん}です。"
+  },
+  {
+    "prompt": "{日本語|にほんご}が{上手|じょうず}に{話|はな}せる ___ なりたいです。",
+    "options": ["ために", "ように", "ことに", "そうに"],
+    "correctIndex": 1,
+    "translation": "I want to become able to speak Japanese well.",
+    "explanation": "Potential verb + ようになる expresses gaining an ability. 話せるようになりたい means ‘want to become able to speak’. The other choices do not express this change in ability.",
+    "japaneseExplanation": "「{可能|かのう}{動詞|どうし}＋ようになる」は、できなかったことができる{変化|へんか}を{表|あらわ}します。"
+  },
+  {
+    "prompt": "{旅行|りょこう}に{行|い}く{前|まえ}に、ホテルを{予約|よやく}して ___ ます。",
+    "options": ["おき", "おいて", "おく", "おこう"],
+    "correctIndex": 0,
+    "translation": "I will reserve a hotel in advance before the trip.",
+    "explanation": "Verb て-form + おく describes preparation for later. Its polite form is ておきます. Here 予約しておきます means “reserve in advance”. Only おき connects to the printed ます ending.",
+    "japaneseExplanation": "「て{形|けい}＋おく」は、{後|あと}のために{準備|じゅんび}することを{表|あらわ}します。"
+  },
+  {
+    "prompt": "{財布|さいふ}をなくして ___ 、{困|こま}っています。",
+    "options": ["みて", "おいて", "あって", "しまって"],
+    "correctIndex": 3,
+    "translation": "I lost my wallet, and I am in trouble.",
+    "explanation": "Verb て-form + しまう can express an unwanted completed event and regret. なくしてしまって links accidentally losing the wallet to the resulting difficulty. The other forms do not express this unintended loss naturally.",
+    "japaneseExplanation": "「て{形|けい}＋しまう」は、{残念|ざんねん}な{結果|けっか}になった{気持|きも}ちを{表|あらわ}すことがあります。"
+  },
+  {
+    "prompt": "{時間|じかん}が ___ 、{一緒|いっしょ}に{映画|えいが}を{見|み}に{行|い}きませんか。",
+    "options": ["あれば", "あるときで", "あったり", "ありながらの"],
+    "correctIndex": 0,
+    "translation": "If you have time, would you like to go see a movie together?",
+    "explanation": "The conditional ば form of ある is あれば. It provides the condition ‘if there is time’. The remaining forms cannot connect grammatically to this invitation as printed.",
+    "japaneseExplanation": "「あれば」は「ある」の{条件形|じょうけんけい}です。{条件|じょうけん}を{示|しめ}します。"
+  },
+  {
+    "prompt": "{安|やす}い ___ 、このかばんを{買|か}います。",
+    "options": ["のでに", "なら", "ながら", "ためで"],
+    "correctIndex": 1,
+    "translation": "If it is inexpensive, I will buy this bag.",
+    "explanation": "い-adjective + なら gives a condition or assumption: 安いなら means ‘if it is cheap’. The other supplied expressions cannot follow 安い in this sentence.",
+    "japaneseExplanation": "「なら」は、{相手|あいて}の{話|はなし}や{仮定|かてい}を{条件|じょうけん}にする{表現|ひょうげん}です。"
+  },
+  {
+    "prompt": "{日曜日|にちようび}は、{掃除|そうじ}をしたり、{洗濯|せんたく}を ___ します。",
+    "options": ["するから", "しても", "したり", "しながら"],
+    "correctIndex": 2,
+    "translation": "On Sundays, I do things such as cleaning and laundry.",
+    "explanation": "Verb た-form + り lists representative activities. したり、したりします pairs examples, so 洗濯をしたり completes the list. Other choices break the paired listing construction.",
+    "japaneseExplanation": "「たり、たりする」は、いくつかの{動作|どうさ}を{例|れい}として{挙|あ}げます。"
+  },
+  {
+    "prompt": "{駅|えき}に{着|つ}いた ___ 、{電話|でんわ}してください。",
+    "options": ["ながら", "ために", "ように", "ら"],
+    "correctIndex": 3,
+    "translation": "Please call me when you arrive at the station.",
+    "explanation": "Verb past form + ら creates the たら conditional: 着いた + ら → 着いたら. It can mark a future condition (‘when you arrive’). The other options cannot attach to 着いた here.",
+    "japaneseExplanation": "「た{形|けい}＋ら」は、あることが{起|お}きた{後|あと}の{条件|じょうけん}を{表|あらわ}します。"
+  },
+  {
+    "prompt": "{明日|あした}は{早|はや}く{起|お}きるので、もう{寝|ね}た ___ いいです。",
+    "options": ["ほうが", "ことが", "ものが", "ためが"],
+    "correctIndex": 0,
+    "translation": "Since you will get up early tomorrow, you should go to bed now.",
+    "explanation": "Verb た-form + ほうがいい gives advice. 寝たほうがいい means ‘had better go to bed’. The other nouns do not form this advice pattern.",
+    "japaneseExplanation": "「た{形|けい}＋ほうがいい」は、{助言|じょげん}をする{表現|ひょうげん}です。"
+  },
+  {
+    "prompt": "この{料理|りょうり}を{一度|いちど}{食|た}べて ___ ください。",
+    "options": ["みます", "みて", "みる", "みた"],
+    "correctIndex": 1,
+    "translation": "Please try eating this dish once.",
+    "explanation": "Verb て-form + みる means ‘try doing something’. 食べてみてください asks someone to try the dish. The other auxiliaries do not express this trial naturally.",
+    "japaneseExplanation": "「て{形|けい}＋みる」は、{試|ため}しにすることを{表|あらわ}します。"
+  },
+  {
+    "prompt": "{母|はは}は{私|わたし}にセーターを{編|あ}んで ___ 。",
+    "options": ["あげました", "もらいました", "くれました", "ありました"],
+    "correctIndex": 2,
+    "translation": "My mother knitted a sweater for me.",
+    "explanation": "Verb て-form + くれる describes someone doing something for the speaker (or the speaker’s in-group). 母 is the giver and 私 is the beneficiary. もらう would require the receiver as subject; あげる points away from the speaker.",
+    "japaneseExplanation": "「て{形|けい}＋くれる」は、ほかの{人|ひと}が{私|わたし}のためにすることを{表|あらわ}します。"
+  },
+  {
+    "prompt": "{子供|こども}のとき、{野菜|やさい}が{嫌|きら}いでしたが、{今|いま}は{食|た}べられる ___ なりました。",
+    "options": ["そうに", "ために", "ことに", "ように"],
+    "correctIndex": 3,
+    "translation": "I disliked vegetables as a child, but now I have become able to eat them.",
+    "explanation": "Potential form + ようになる indicates a change in ability. 食べられるようになりました means ‘became able to eat’. ことになる expresses a decision or arrangement rather than this acquired ability.",
+    "japaneseExplanation": "「{可能形|かのうけい}＋ようになる」は、{能力|のうりょく}の{変化|へんか}を{表|あらわ}します。"
+  }
+]

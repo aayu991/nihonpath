@@ -1,0 +1,4874 @@
+{
+  "catalog": {
+    "categories": [
+      {
+        "id": "d8010000-0000-4000-8000-000000000001",
+        "slug": "before-arrival",
+        "title": "Before Arrival",
+        "title_ja": "来日前の準備",
+        "icon": "Plane",
+        "position": 0
+      },
+      {
+        "id": "d8010000-0000-4000-8000-000000000002",
+        "slug": "first-days",
+        "title": "First Days in Japan",
+        "title_ja": "来日直後",
+        "icon": "MapPin",
+        "position": 1
+      },
+      {
+        "id": "d8010000-0000-4000-8000-000000000003",
+        "slug": "visa-documents",
+        "title": "Visa and Documents",
+        "title_ja": "在留資格と書類",
+        "icon": "FileText",
+        "position": 2
+      },
+      {
+        "id": "d8010000-0000-4000-8000-000000000004",
+        "slug": "housing",
+        "title": "Housing and Utilities",
+        "title_ja": "住まいと生活設備",
+        "icon": "House",
+        "position": 3
+      },
+      {
+        "id": "d8010000-0000-4000-8000-000000000005",
+        "slug": "money-insurance",
+        "title": "Banking, Taxes and Insurance",
+        "title_ja": "銀行・税金・保険",
+        "icon": "Wallet",
+        "position": 4
+      },
+      {
+        "id": "d8010000-0000-4000-8000-000000000006",
+        "slug": "healthcare",
+        "title": "Healthcare",
+        "title_ja": "医療",
+        "icon": "HeartPulse",
+        "position": 5
+      },
+      {
+        "id": "d8010000-0000-4000-8000-000000000007",
+        "slug": "transport",
+        "title": "Transportation",
+        "title_ja": "交通",
+        "icon": "TrainFront",
+        "position": 6
+      },
+      {
+        "id": "d8010000-0000-4000-8000-000000000008",
+        "slug": "workplace",
+        "title": "Workplace Life and Safety",
+        "title_ja": "職場生活と安全",
+        "icon": "BriefcaseBusiness",
+        "position": 7
+      },
+      {
+        "id": "d8010000-0000-4000-8000-000000000009",
+        "slug": "culture",
+        "title": "Japanese Rules and Culture",
+        "title_ja": "日本のルールと文化",
+        "icon": "MessagesSquare",
+        "position": 8
+      },
+      {
+        "id": "d8010000-0000-4000-8000-000000000010",
+        "slug": "emergencies",
+        "title": "Emergencies and Disaster Preparation",
+        "title_ja": "緊急時・防災",
+        "icon": "ShieldCheck",
+        "position": 9
+      }
+    ],
+    "articles": [
+      {
+        "id": "d8030000-0000-4000-8000-000000000001",
+        "slug": "prepare-your-journey",
+        "category_id": "d8010000-0000-4000-8000-000000000001",
+        "title": "Prepare a calmer arrival",
+        "summary": "Plan contacts, accommodation and your first journey before departure.",
+        "content": {
+          "sections": [
+            {
+              "id": "overview",
+              "title": "Overview",
+              "text": "Plan contacts, accommodation and your first journey before departure.",
+              "kind": "suggestion"
+            },
+            {
+              "id": "applies",
+              "title": "Who this applies to",
+              "text": "Audience labels are planning preferences. Guidance depends on residence status, municipality, contract and individual circumstances; confirm with the responsible authority.",
+              "kind": "suggestion"
+            }
+          ],
+          "steps": [
+            "Keep your booking details and a way to contact your accommodation offline.",
+            "Plan your airport-to-accommodation journey and a backup if transport changes.",
+            "Check the official entry guidance for your own nationality and purpose; ask the appropriate authority if uncertain."
+          ],
+          "documents": [
+            {
+              "name": "Booking details",
+              "note": "Confirm with the responsible office whether this is needed. This is not an authoritative document list."
+            },
+            {
+              "name": "Contact list",
+              "note": "Confirm with the responsible office whether this is needed. This is not an authoritative document list."
+            }
+          ],
+          "deadline": null,
+          "phrases": [
+            {
+              "ja": "予約を確認したいです。",
+              "en": "I would like to confirm my reservation."
+            }
+          ],
+          "dialogue": [
+            {
+              "speaker": "あなた",
+              "ja": "予約を確認したいです。",
+              "en": "I would like to confirm my reservation."
+            },
+            {
+              "speaker": "担当者",
+              "ja": "はい。状況を確認しましょう。",
+              "en": "Of course. Let us check your circumstances."
+            }
+          ],
+          "roleplays": []
+        },
+        "audiences": [
+          "tourist",
+          "student",
+          "ssw",
+          "professional",
+          "resident"
+        ],
+        "stages": [
+          "before"
+        ],
+        "risk": "general",
+        "deck_id": "d8040000-0000-4000-8000-000000000001",
+        "bank_id": "d8050000-0000-4000-8000-000000000001",
+        "lesson_ids": [
+          "d8100000-0000-4000-8000-000000000001"
+        ],
+        "ai_scenario_id": null,
+        "source_ids": [
+          "d8020000-0000-4000-8000-000000000007",
+          "d8020000-0000-4000-8000-000000000008"
+        ],
+        "last_reviewed_at": null,
+        "version": 1,
+        "review_status": "draft",
+        "published": false,
+        "outdated": false,
+        "updated_at": "2026-10-25T00:00:00Z",
+        "format": "guide"
+      },
+      {
+        "id": "d8030000-0000-4000-8000-000000000002",
+        "slug": "city-hall-first-visit",
+        "category_id": "d8010000-0000-4000-8000-000000000002",
+        "title": "Plan your first city-hall visit",
+        "summary": "Find the right counter and ask which procedures apply to you.",
+        "content": {
+          "sections": [
+            {
+              "id": "overview",
+              "title": "Overview",
+              "text": "Find the right counter and ask which procedures apply to you.",
+              "kind": "municipal"
+            },
+            {
+              "id": "applies",
+              "title": "Who this applies to",
+              "text": "Audience labels are planning preferences. Guidance depends on residence status, municipality, contract and individual circumstances; confirm with the responsible authority.",
+              "kind": "municipal"
+            }
+          ],
+          "steps": [
+            "Find your municipality's official office information and language support.",
+            "Explain your arrival and living situation without assuming every procedure applies.",
+            "Ask staff to confirm the documents, appointment arrangements and any applicable deadline before you leave."
+          ],
+          "documents": [
+            {
+              "name": "Documents specifically requested by the municipal office",
+              "note": "Confirm with the responsible office whether this is needed. This is not an authoritative document list."
+            },
+            {
+              "name": "Your own questions",
+              "note": "Confirm with the responsible office whether this is needed. This is not an authoritative document list."
+            }
+          ],
+          "deadline": null,
+          "phrases": [
+            {
+              "ja": "住所の手続きは、どの窓口ですか。",
+              "en": "Which counter handles address procedures?"
+            }
+          ],
+          "dialogue": [
+            {
+              "speaker": "あなた",
+              "ja": "住所の手続きは、どの窓口ですか。",
+              "en": "Which counter handles address procedures?"
+            },
+            {
+              "speaker": "担当者",
+              "ja": "はい。状況を確認しましょう。",
+              "en": "Of course. Let us check your circumstances."
+            }
+          ],
+          "roleplays": [
+            {
+              "slug": "register-address",
+              "title": "Registering an address",
+              "title_ja": "住所の手続き",
+              "scenario_id": "d80d0000-0000-4000-8000-000000000001",
+              "dialogue": [
+                {
+                  "speaker": "担当者",
+                  "ja": "こんにちは。どのようなご相談でしょうか。",
+                  "en": "Hello. How can I help you?"
+                },
+                {
+                  "speaker": "あなた",
+                  "ja": "住所の手続きについて質問したいです。",
+                  "en": "I would like to ask about address procedures."
+                },
+                {
+                  "speaker": "担当者",
+                  "ja": "状況を確認しましょう。",
+                  "en": "Let us check the circumstances."
+                }
+              ]
+            }
+          ]
+        },
+        "audiences": [
+          "student",
+          "ssw",
+          "professional",
+          "resident"
+        ],
+        "stages": [
+          "arriving",
+          "settling"
+        ],
+        "risk": "administrative",
+        "deck_id": "d8040000-0000-4000-8000-000000000002",
+        "bank_id": "d8050000-0000-4000-8000-000000000002",
+        "lesson_ids": [
+          "d8100000-0000-4000-8000-000000000002"
+        ],
+        "ai_scenario_id": "d80d0000-0000-4000-8000-000000000001",
+        "source_ids": [
+          "d8020000-0000-4000-8000-000000000001",
+          "d8020000-0000-4000-8000-000000000003"
+        ],
+        "last_reviewed_at": null,
+        "version": 1,
+        "review_status": "draft",
+        "published": false,
+        "outdated": false,
+        "updated_at": "2026-10-25T00:00:00Z",
+        "format": "guide"
+      },
+      {
+        "id": "d8030000-0000-4000-8000-000000000003",
+        "slug": "confirm-document-requirements",
+        "category_id": "d8010000-0000-4000-8000-000000000003",
+        "title": "Confirm your document requirements",
+        "summary": "Use official instructions for your own application or procedure.",
+        "content": {
+          "sections": [
+            {
+              "id": "overview",
+              "title": "Overview",
+              "text": "Use official instructions for your own application or procedure.",
+              "kind": "law"
+            },
+            {
+              "id": "applies",
+              "title": "Who this applies to",
+              "text": "Audience labels are planning preferences. Guidance depends on residence status, municipality, contract and individual circumstances; confirm with the responsible authority.",
+              "kind": "law"
+            }
+          ],
+          "steps": [
+            "Identify the exact procedure and the authority responsible for it.",
+            "Read the current official instructions and ask about anything that depends on your circumstances.",
+            "Confirm the required originals, copies and deadline with that authority. This checklist does not decide eligibility."
+          ],
+          "documents": [
+            {
+              "name": "The authority's current document list",
+              "note": "Confirm with the responsible office whether this is needed. This is not an authoritative document list."
+            },
+            {
+              "name": "Copies only if the authority requests them",
+              "note": "Confirm with the responsible office whether this is needed. This is not an authoritative document list."
+            }
+          ],
+          "deadline": null,
+          "phrases": [
+            {
+              "ja": "必要な書類を教えていただけますか。",
+              "en": "Could you tell me which documents are needed?"
+            }
+          ],
+          "dialogue": [
+            {
+              "speaker": "あなた",
+              "ja": "必要な書類を教えていただけますか。",
+              "en": "Could you tell me which documents are needed?"
+            },
+            {
+              "speaker": "担当者",
+              "ja": "はい。状況を確認しましょう。",
+              "en": "Of course. Let us check your circumstances."
+            }
+          ],
+          "roleplays": []
+        },
+        "audiences": [
+          "student",
+          "ssw",
+          "professional",
+          "resident"
+        ],
+        "stages": [
+          "before",
+          "arriving",
+          "settling"
+        ],
+        "risk": "legal",
+        "deck_id": "d8040000-0000-4000-8000-000000000003",
+        "bank_id": "d8050000-0000-4000-8000-000000000003",
+        "lesson_ids": [
+          "d8100000-0000-4000-8000-000000000003"
+        ],
+        "ai_scenario_id": null,
+        "source_ids": [
+          "d8020000-0000-4000-8000-000000000001",
+          "d8020000-0000-4000-8000-000000000006"
+        ],
+        "last_reviewed_at": null,
+        "version": 1,
+        "review_status": "draft",
+        "published": false,
+        "outdated": false,
+        "updated_at": "2026-10-25T00:00:00Z",
+        "format": "guide"
+      },
+      {
+        "id": "d8030000-0000-4000-8000-000000000004",
+        "slug": "understand-your-housing",
+        "category_id": "d8010000-0000-4000-8000-000000000004",
+        "title": "Understand your housing arrangements",
+        "summary": "Read your own housing terms and organise utilities with the responsible provider.",
+        "content": {
+          "sections": [
+            {
+              "id": "overview",
+              "title": "Overview",
+              "text": "Read your own housing terms and organise utilities with the responsible provider.",
+              "kind": "suggestion"
+            },
+            {
+              "id": "applies",
+              "title": "Who this applies to",
+              "text": "Audience labels are planning preferences. Guidance depends on residence status, municipality, contract and individual circumstances; confirm with the responsible authority.",
+              "kind": "suggestion"
+            }
+          ],
+          "steps": [
+            "Ask your school, accommodation contact or agent about available housing and support.",
+            "Request a clear explanation of your actual contract, charges, house rules and move-in condition record before agreeing.",
+            "Confirm who arranges electricity, gas, water and internet, and which appointments or identification the provider requires."
+          ],
+          "documents": [
+            {
+              "name": "Your proposed or current housing contract",
+              "note": "Confirm with the responsible office whether this is needed. This is not an authoritative document list."
+            },
+            {
+              "name": "Provider's own requested information",
+              "note": "Confirm with the responsible office whether this is needed. This is not an authoritative document list."
+            }
+          ],
+          "deadline": null,
+          "phrases": [
+            {
+              "ja": "この費用について、説明していただけますか。",
+              "en": "Could you explain this charge?"
+            }
+          ],
+          "dialogue": [
+            {
+              "speaker": "あなた",
+              "ja": "この費用について、説明していただけますか。",
+              "en": "Could you explain this charge?"
+            },
+            {
+              "speaker": "担当者",
+              "ja": "はい。状況を確認しましょう。",
+              "en": "Of course. Let us check your circumstances."
+            }
+          ],
+          "roleplays": [
+            {
+              "slug": "talk-landlord",
+              "title": "Talking to a landlord",
+              "title_ja": "住まいの担当者と話す",
+              "scenario_id": "d80d0000-0000-4000-8000-000000000005",
+              "dialogue": [
+                {
+                  "speaker": "担当者",
+                  "ja": "こんにちは。どのようなご相談でしょうか。",
+                  "en": "Hello. How can I help you?"
+                },
+                {
+                  "speaker": "あなた",
+                  "ja": "契約について、確認したいことがあります。",
+                  "en": "I have a question about the contract."
+                },
+                {
+                  "speaker": "担当者",
+                  "ja": "状況を確認しましょう。",
+                  "en": "Let us check the circumstances."
+                }
+              ]
+            }
+          ]
+        },
+        "audiences": [
+          "student",
+          "ssw",
+          "professional",
+          "resident"
+        ],
+        "stages": [
+          "before",
+          "arriving",
+          "settling"
+        ],
+        "risk": "administrative",
+        "deck_id": "d8040000-0000-4000-8000-000000000004",
+        "bank_id": "d8050000-0000-4000-8000-000000000004",
+        "lesson_ids": [
+          "d8100000-0000-4000-8000-000000000004"
+        ],
+        "ai_scenario_id": "d80d0000-0000-4000-8000-000000000005",
+        "source_ids": [
+          "d8020000-0000-4000-8000-000000000004"
+        ],
+        "last_reviewed_at": null,
+        "version": 1,
+        "review_status": "draft",
+        "published": false,
+        "outdated": false,
+        "updated_at": "2026-10-25T00:00:00Z",
+        "format": "guide"
+      },
+      {
+        "id": "d8030000-0000-4000-8000-000000000005",
+        "slug": "money-and-insurance-questions",
+        "category_id": "d8010000-0000-4000-8000-000000000005",
+        "title": "Organise money and insurance questions",
+        "summary": "Confirm banking, tax, insurance and pension matters with the responsible institution.",
+        "content": {
+          "sections": [
+            {
+              "id": "overview",
+              "title": "Overview",
+              "text": "Confirm banking, tax, insurance and pension matters with the responsible institution.",
+              "kind": "law"
+            },
+            {
+              "id": "applies",
+              "title": "Who this applies to",
+              "text": "Audience labels are planning preferences. Guidance depends on residence status, municipality, contract and individual circumstances; confirm with the responsible authority.",
+              "kind": "law"
+            }
+          ],
+          "steps": [
+            "Ask the bank or mobile provider which services and identity checks fit your circumstances; requirements differ.",
+            "Ask your employer or municipal office which health insurance and pension arrangements apply to you.",
+            "Keep a private reminder to ask the responsible tax office about any notice or deadline you do not understand. Do not upload financial documents here."
+          ],
+          "documents": [
+            {
+              "name": "The provider's current document list",
+              "note": "Confirm with the responsible office whether this is needed. This is not an authoritative document list."
+            },
+            {
+              "name": "Questions about a notice, without uploading it",
+              "note": "Confirm with the responsible office whether this is needed. This is not an authoritative document list."
+            }
+          ],
+          "deadline": null,
+          "phrases": [
+            {
+              "ja": "私の場合、どの手続きが必要ですか。",
+              "en": "Which procedures are needed in my situation?"
+            }
+          ],
+          "dialogue": [
+            {
+              "speaker": "あなた",
+              "ja": "私の場合、どの手続きが必要ですか。",
+              "en": "Which procedures are needed in my situation?"
+            },
+            {
+              "speaker": "担当者",
+              "ja": "はい。状況を確認しましょう。",
+              "en": "Of course. Let us check your circumstances."
+            }
+          ],
+          "roleplays": [
+            {
+              "slug": "ask-insurance",
+              "title": "Asking about health insurance",
+              "title_ja": "医療保険について尋ねる",
+              "scenario_id": "d80d0000-0000-4000-8000-000000000002",
+              "dialogue": [
+                {
+                  "speaker": "担当者",
+                  "ja": "こんにちは。どのようなご相談でしょうか。",
+                  "en": "Hello. How can I help you?"
+                },
+                {
+                  "speaker": "あなた",
+                  "ja": "私の場合、保険の相談はどこでできますか。",
+                  "en": "Where can I ask about insurance in my circumstances?"
+                },
+                {
+                  "speaker": "担当者",
+                  "ja": "状況を確認しましょう。",
+                  "en": "Let us check the circumstances."
+                }
+              ]
+            },
+            {
+              "slug": "open-bank-account",
+              "title": "Opening a bank account",
+              "title_ja": "銀行口座について尋ねる",
+              "scenario_id": "d80d0000-0000-4000-8000-000000000003",
+              "dialogue": [
+                {
+                  "speaker": "担当者",
+                  "ja": "こんにちは。どのようなご相談でしょうか。",
+                  "en": "Hello. How can I help you?"
+                },
+                {
+                  "speaker": "あなた",
+                  "ja": "口座について、必要な書類を教えていただけますか。",
+                  "en": "Could you tell me which documents are needed for an account?"
+                },
+                {
+                  "speaker": "担当者",
+                  "ja": "状況を確認しましょう。",
+                  "en": "Let us check the circumstances."
+                }
+              ]
+            }
+          ]
+        },
+        "audiences": [
+          "student",
+          "ssw",
+          "professional",
+          "resident"
+        ],
+        "stages": [
+          "arriving",
+          "settling"
+        ],
+        "risk": "legal",
+        "deck_id": "d8040000-0000-4000-8000-000000000005",
+        "bank_id": "d8050000-0000-4000-8000-000000000005",
+        "lesson_ids": [
+          "d8100000-0000-4000-8000-000000000005"
+        ],
+        "ai_scenario_id": "d80d0000-0000-4000-8000-000000000002",
+        "source_ids": [
+          "d8020000-0000-4000-8000-000000000002",
+          "d8020000-0000-4000-8000-000000000005"
+        ],
+        "last_reviewed_at": null,
+        "version": 1,
+        "review_status": "draft",
+        "published": false,
+        "outdated": false,
+        "updated_at": "2026-10-25T00:00:00Z",
+        "format": "guide"
+      },
+      {
+        "id": "d8030000-0000-4000-8000-000000000006",
+        "slug": "prepare-for-a-clinic-visit",
+        "category_id": "d8010000-0000-4000-8000-000000000006",
+        "title": "Prepare for a clinic visit",
+        "summary": "Prepare a short explanation and confirm the clinic's arrangements.",
+        "content": {
+          "sections": [
+            {
+              "id": "overview",
+              "title": "Overview",
+              "text": "Prepare a short explanation and confirm the clinic's arrangements.",
+              "kind": "suggestion"
+            },
+            {
+              "id": "applies",
+              "title": "Who this applies to",
+              "text": "Audience labels are planning preferences. Guidance depends on residence status, municipality, contract and individual circumstances; confirm with the responsible authority.",
+              "kind": "suggestion"
+            }
+          ],
+          "steps": [
+            "For a planned visit, confirm the clinic's hours, language support, appointment and payment arrangements.",
+            "Prepare a short description of your concern and any information a qualified clinician asks for; do not enter private medical details in this app.",
+            "Ask the provider or insurer what evidence of coverage is accepted now. For urgent help, use official emergency services rather than this learning page."
+          ],
+          "documents": [
+            {
+              "name": "Items the clinic asks you to bring",
+              "note": "Confirm with the responsible office whether this is needed. This is not an authoritative document list."
+            },
+            {
+              "name": "Insurance or payment questions for the provider",
+              "note": "Confirm with the responsible office whether this is needed. This is not an authoritative document list."
+            }
+          ],
+          "deadline": null,
+          "phrases": [
+            {
+              "ja": "予約が必要ですか。",
+              "en": "Do I need an appointment?"
+            }
+          ],
+          "dialogue": [
+            {
+              "speaker": "あなた",
+              "ja": "予約が必要ですか。",
+              "en": "Do I need an appointment?"
+            },
+            {
+              "speaker": "担当者",
+              "ja": "はい。状況を確認しましょう。",
+              "en": "Of course. Let us check your circumstances."
+            }
+          ],
+          "roleplays": [
+            {
+              "slug": "visit-clinic",
+              "title": "Visiting a clinic",
+              "title_ja": "診療所で話す",
+              "scenario_id": "d80d0000-0000-4000-8000-000000000006",
+              "dialogue": [
+                {
+                  "speaker": "担当者",
+                  "ja": "こんにちは。どのようなご相談でしょうか。",
+                  "en": "Hello. How can I help you?"
+                },
+                {
+                  "speaker": "あなた",
+                  "ja": "予約の方法を教えてください。",
+                  "en": "Please explain how to make an appointment."
+                },
+                {
+                  "speaker": "担当者",
+                  "ja": "状況を確認しましょう。",
+                  "en": "Let us check the circumstances."
+                }
+              ]
+            }
+          ]
+        },
+        "audiences": [
+          "tourist",
+          "student",
+          "ssw",
+          "professional",
+          "resident"
+        ],
+        "stages": [
+          "before",
+          "arriving",
+          "settling"
+        ],
+        "risk": "safety",
+        "deck_id": "d8040000-0000-4000-8000-000000000006",
+        "bank_id": "d8050000-0000-4000-8000-000000000006",
+        "lesson_ids": [
+          "d8100000-0000-4000-8000-000000000006"
+        ],
+        "ai_scenario_id": "d80d0000-0000-4000-8000-000000000006",
+        "source_ids": [
+          "d8020000-0000-4000-8000-000000000008",
+          "d8020000-0000-4000-8000-000000000005"
+        ],
+        "last_reviewed_at": null,
+        "version": 1,
+        "review_status": "draft",
+        "published": false,
+        "outdated": false,
+        "updated_at": "2026-10-25T00:00:00Z",
+        "format": "guide"
+      },
+      {
+        "id": "d8030000-0000-4000-8000-000000000007",
+        "slug": "plan-your-daily-journey",
+        "category_id": "d8010000-0000-4000-8000-000000000007",
+        "title": "Plan your daily journey",
+        "summary": "Check your route, signs and operator guidance before travelling.",
+        "content": {
+          "sections": [
+            {
+              "id": "overview",
+              "title": "Overview",
+              "text": "Check your route, signs and operator guidance before travelling.",
+              "kind": "culture"
+            },
+            {
+              "id": "applies",
+              "title": "Who this applies to",
+              "text": "Audience labels are planning preferences. Guidance depends on residence status, municipality, contract and individual circumstances; confirm with the responsible authority.",
+              "kind": "culture"
+            }
+          ],
+          "steps": [
+            "Check your destination, route and last connection with the transport operator.",
+            "Follow posted boarding directions, keep access clear and ask staff if a sign is unclear.",
+            "For walking or cycling, check current official road rules and local signs. Etiquette suggestions are different from traffic laws."
+          ],
+          "documents": [
+            {
+              "name": "Your route and destination details",
+              "note": "Confirm with the responsible office whether this is needed. This is not an authoritative document list."
+            }
+          ],
+          "deadline": null,
+          "phrases": [
+            {
+              "ja": "この電車は、ここに止まりますか。",
+              "en": "Does this train stop here?"
+            }
+          ],
+          "dialogue": [
+            {
+              "speaker": "あなた",
+              "ja": "この電車は、ここに止まりますか。",
+              "en": "Does this train stop here?"
+            },
+            {
+              "speaker": "担当者",
+              "ja": "はい。状況を確認しましょう。",
+              "en": "Of course. Let us check your circumstances."
+            }
+          ],
+          "roleplays": [
+            {
+              "slug": "ask-directions",
+              "title": "Asking for directions",
+              "title_ja": "道を尋ねる",
+              "scenario_id": "d80d0000-0000-4000-8000-000000000004",
+              "dialogue": [
+                {
+                  "speaker": "担当者",
+                  "ja": "こんにちは。どのようなご相談でしょうか。",
+                  "en": "Hello. How can I help you?"
+                },
+                {
+                  "speaker": "あなた",
+                  "ja": "すみません、駅の出口はどちらですか。",
+                  "en": "Excuse me, which way is the station exit?"
+                },
+                {
+                  "speaker": "担当者",
+                  "ja": "状況を確認しましょう。",
+                  "en": "Let us check the circumstances."
+                }
+              ]
+            }
+          ]
+        },
+        "audiences": [
+          "tourist",
+          "student",
+          "ssw",
+          "professional",
+          "resident"
+        ],
+        "stages": [
+          "before",
+          "arriving",
+          "settling"
+        ],
+        "risk": "general",
+        "deck_id": "d8040000-0000-4000-8000-000000000007",
+        "bank_id": "d8050000-0000-4000-8000-000000000007",
+        "lesson_ids": [
+          "d8100000-0000-4000-8000-000000000007"
+        ],
+        "ai_scenario_id": "d80d0000-0000-4000-8000-000000000004",
+        "source_ids": [
+          "d8020000-0000-4000-8000-000000000007"
+        ],
+        "last_reviewed_at": null,
+        "version": 1,
+        "review_status": "draft",
+        "published": false,
+        "outdated": false,
+        "updated_at": "2026-10-25T00:00:00Z",
+        "format": "guide"
+      },
+      {
+        "id": "d8030000-0000-4000-8000-000000000008",
+        "slug": "workplace-orientation",
+        "category_id": "d8010000-0000-4000-8000-000000000008",
+        "title": "Get ready for workplace orientation",
+        "summary": "Learn who to ask and how to confirm instructions before acting.",
+        "content": {
+          "sections": [
+            {
+              "id": "overview",
+              "title": "Overview",
+              "text": "Learn who to ask and how to confirm instructions before acting.",
+              "kind": "workplace"
+            },
+            {
+              "id": "applies",
+              "title": "Who this applies to",
+              "text": "Audience labels are planning preferences. Guidance depends on residence status, municipality, contract and individual circumstances; confirm with the responsible authority.",
+              "kind": "workplace"
+            }
+          ],
+          "steps": [
+            "Ask your supervisor who provides induction, language support and task-specific safety training.",
+            "Before unfamiliar work, ask for a demonstration and check your understanding with the qualified person responsible.",
+            "Find the reporting route for uncertainty or a concern. These language exercises are not safety certification or permission to operate equipment."
+          ],
+          "documents": [
+            {
+              "name": "Your employer's induction information",
+              "note": "Confirm with the responsible office whether this is needed. This is not an authoritative document list."
+            },
+            {
+              "name": "Questions to ask your supervisor",
+              "note": "Confirm with the responsible office whether this is needed. This is not an authoritative document list."
+            }
+          ],
+          "deadline": null,
+          "phrases": [
+            {
+              "ja": "分からないので、もう一度教えてください。",
+              "en": "I do not understand; please explain again."
+            }
+          ],
+          "dialogue": [
+            {
+              "speaker": "あなた",
+              "ja": "分からないので、もう一度教えてください。",
+              "en": "I do not understand; please explain again."
+            },
+            {
+              "speaker": "担当者",
+              "ja": "はい。状況を確認しましょう。",
+              "en": "Of course. Let us check your circumstances."
+            }
+          ],
+          "roleplays": [
+            {
+              "slug": "speak-supervisor",
+              "title": "Speaking with a supervisor",
+              "title_ja": "上司に確認する",
+              "scenario_id": "d80d0000-0000-4000-8000-000000000007",
+              "dialogue": [
+                {
+                  "speaker": "担当者",
+                  "ja": "こんにちは。どのようなご相談でしょうか。",
+                  "en": "Hello. How can I help you?"
+                },
+                {
+                  "speaker": "あなた",
+                  "ja": "作業の前に、もう一度確認してもよろしいですか。",
+                  "en": "May I check once more before starting the task?"
+                },
+                {
+                  "speaker": "担当者",
+                  "ja": "状況を確認しましょう。",
+                  "en": "Let us check the circumstances."
+                }
+              ]
+            }
+          ]
+        },
+        "audiences": [
+          "ssw",
+          "professional",
+          "resident"
+        ],
+        "stages": [
+          "before",
+          "arriving",
+          "settling"
+        ],
+        "risk": "safety",
+        "deck_id": "d8040000-0000-4000-8000-000000000008",
+        "bank_id": "d8050000-0000-4000-8000-000000000008",
+        "lesson_ids": [
+          "d8100000-0000-4000-8000-000000000008"
+        ],
+        "ai_scenario_id": "d80d0000-0000-4000-8000-000000000007",
+        "source_ids": [
+          "d8020000-0000-4000-8000-000000000002"
+        ],
+        "last_reviewed_at": null,
+        "version": 1,
+        "review_status": "draft",
+        "published": false,
+        "outdated": false,
+        "updated_at": "2026-10-25T00:00:00Z",
+        "format": "guide"
+      },
+      {
+        "id": "d8030000-0000-4000-8000-000000000009",
+        "slug": "rules-and-cultural-context",
+        "category_id": "d8010000-0000-4000-8000-000000000009",
+        "title": "Understand rules in context",
+        "summary": "Separate laws, local arrangements, workplace policies and considerate customs.",
+        "content": {
+          "sections": [
+            {
+              "id": "overview",
+              "title": "Overview",
+              "text": "Separate laws, local arrangements, workplace policies and considerate customs.",
+              "kind": "culture"
+            },
+            {
+              "id": "applies",
+              "title": "Who this applies to",
+              "text": "Audience labels are planning preferences. Guidance depends on residence status, municipality, contract and individual circumstances; confirm with the responsible authority.",
+              "kind": "culture"
+            }
+          ],
+          "steps": [
+            "Look for the authority behind a notice: a municipality, operator, workplace or venue.",
+            "Ask what the rule means in this setting rather than assuming it is the same everywhere.",
+            "Use the short culture lessons below to practise considerate responses. Common customs are not automatically legal duties."
+          ],
+          "documents": [
+            {
+              "name": "The actual notice or local guide to read privately",
+              "note": "Confirm with the responsible office whether this is needed. This is not an authoritative document list."
+            }
+          ],
+          "deadline": null,
+          "phrases": [
+            {
+              "ja": "こちらのルールを教えてください。",
+              "en": "Please explain the rules here."
+            }
+          ],
+          "dialogue": [
+            {
+              "speaker": "あなた",
+              "ja": "こちらのルールを教えてください。",
+              "en": "Please explain the rules here."
+            },
+            {
+              "speaker": "担当者",
+              "ja": "はい。状況を確認しましょう。",
+              "en": "Of course. Let us check your circumstances."
+            }
+          ],
+          "roleplays": []
+        },
+        "audiences": [
+          "tourist",
+          "student",
+          "ssw",
+          "professional",
+          "resident"
+        ],
+        "stages": [
+          "before",
+          "arriving",
+          "settling"
+        ],
+        "risk": "general",
+        "deck_id": "d8040000-0000-4000-8000-000000000009",
+        "bank_id": "d8050000-0000-4000-8000-000000000009",
+        "lesson_ids": [
+          "d8100000-0000-4000-8000-000000000009"
+        ],
+        "ai_scenario_id": null,
+        "source_ids": [
+          "d8020000-0000-4000-8000-000000000007"
+        ],
+        "last_reviewed_at": null,
+        "version": 1,
+        "review_status": "draft",
+        "published": false,
+        "outdated": false,
+        "updated_at": "2026-10-25T00:00:00Z",
+        "format": "guide"
+      },
+      {
+        "id": "d8030000-0000-4000-8000-000000000010",
+        "slug": "prepare-for-disruptions",
+        "category_id": "d8010000-0000-4000-8000-000000000010",
+        "title": "Prepare for emergencies and disruptions",
+        "summary": "Know where official information and local help can be found.",
+        "content": {
+          "sections": [
+            {
+              "id": "overview",
+              "title": "Overview",
+              "text": "Know where official information and local help can be found.",
+              "kind": "suggestion"
+            },
+            {
+              "id": "applies",
+              "title": "Who this applies to",
+              "text": "Audience labels are planning preferences. Guidance depends on residence status, municipality, contract and individual circumstances; confirm with the responsible authority.",
+              "kind": "suggestion"
+            }
+          ],
+          "steps": [
+            "Read your accommodation's emergency information and locate the indicated evacuation routes.",
+            "Find your municipality's official disaster information and decide how to receive current alerts.",
+            "Agree a contact plan with people you trust. During an incident, follow current official instructions and qualified local staff, not a saved learning example."
+          ],
+          "documents": [
+            {
+              "name": "Your private emergency contact plan",
+              "note": "Confirm with the responsible office whether this is needed. This is not an authoritative document list."
+            },
+            {
+              "name": "Official local evacuation information",
+              "note": "Confirm with the responsible office whether this is needed. This is not an authoritative document list."
+            }
+          ],
+          "deadline": null,
+          "phrases": [
+            {
+              "ja": "避難する場所はどこですか。",
+              "en": "Where is the evacuation location?"
+            }
+          ],
+          "dialogue": [
+            {
+              "speaker": "あなた",
+              "ja": "避難する場所はどこですか。",
+              "en": "Where is the evacuation location?"
+            },
+            {
+              "speaker": "担当者",
+              "ja": "はい。状況を確認しましょう。",
+              "en": "Of course. Let us check your circumstances."
+            }
+          ],
+          "roleplays": []
+        },
+        "audiences": [
+          "tourist",
+          "student",
+          "ssw",
+          "professional",
+          "resident"
+        ],
+        "stages": [
+          "before",
+          "arriving",
+          "settling"
+        ],
+        "risk": "safety",
+        "deck_id": "d8040000-0000-4000-8000-000000000010",
+        "bank_id": "d8050000-0000-4000-8000-000000000010",
+        "lesson_ids": [
+          "d8100000-0000-4000-8000-000000000010"
+        ],
+        "ai_scenario_id": null,
+        "source_ids": [
+          "d8020000-0000-4000-8000-000000000008"
+        ],
+        "last_reviewed_at": null,
+        "version": 1,
+        "review_status": "draft",
+        "published": false,
+        "outdated": false,
+        "updated_at": "2026-10-25T00:00:00Z",
+        "format": "guide"
+      },
+      {
+        "id": "d8030000-0000-4000-8000-000000000011",
+        "slug": "transport-etiquette",
+        "category_id": "d8010000-0000-4000-8000-000000000007",
+        "title": "Public transport etiquette",
+        "summary": "Keep access clear and follow the operator's signs. Consider other passengers when speaking or using a phone.",
+        "content": {
+          "sections": [
+            {
+              "id": "lesson",
+              "title": "Public transport etiquette",
+              "text": "Keep access clear and follow the operator's signs. Consider other passengers when speaking or using a phone.",
+              "kind": "culture"
+            }
+          ],
+          "steps": [
+            "Check the actual notice or responsible person's explanation, then reflect with a short quiz."
+          ],
+          "documents": [],
+          "deadline": null,
+          "phrases": [
+            {
+              "ja": "もう一度、説明していただけますか。",
+              "en": "Could you explain once more?"
+            }
+          ],
+          "dialogue": [],
+          "roleplays": []
+        },
+        "audiences": [
+          "tourist",
+          "student",
+          "ssw",
+          "professional",
+          "resident"
+        ],
+        "stages": [
+          "before",
+          "arriving",
+          "settling"
+        ],
+        "risk": "general",
+        "deck_id": null,
+        "bank_id": "d8050000-0000-4000-8000-000000000011",
+        "lesson_ids": [
+          "d8100000-0000-4000-8000-000000000011"
+        ],
+        "ai_scenario_id": null,
+        "source_ids": [
+          "d8020000-0000-4000-8000-000000000007"
+        ],
+        "last_reviewed_at": null,
+        "version": 1,
+        "review_status": "draft",
+        "published": false,
+        "outdated": false,
+        "updated_at": "2026-10-25T00:00:00Z",
+        "format": "lesson"
+      },
+      {
+        "id": "d8030000-0000-4000-8000-000000000012",
+        "slug": "apartment-rules",
+        "category_id": "d8010000-0000-4000-8000-000000000004",
+        "title": "Apartment rules",
+        "summary": "Read your own lease and building notices. Ask the manager about unclear arrangements rather than applying another building's rules.",
+        "content": {
+          "sections": [
+            {
+              "id": "lesson",
+              "title": "Apartment rules",
+              "text": "Read your own lease and building notices. Ask the manager about unclear arrangements rather than applying another building's rules.",
+              "kind": "suggestion"
+            }
+          ],
+          "steps": [
+            "Check the actual notice or responsible person's explanation, then reflect with a short quiz."
+          ],
+          "documents": [],
+          "deadline": null,
+          "phrases": [
+            {
+              "ja": "もう一度、説明していただけますか。",
+              "en": "Could you explain once more?"
+            }
+          ],
+          "dialogue": [],
+          "roleplays": []
+        },
+        "audiences": [
+          "tourist",
+          "student",
+          "ssw",
+          "professional",
+          "resident"
+        ],
+        "stages": [
+          "before",
+          "arriving",
+          "settling"
+        ],
+        "risk": "general",
+        "deck_id": null,
+        "bank_id": "d8050000-0000-4000-8000-000000000012",
+        "lesson_ids": [
+          "d8100000-0000-4000-8000-000000000012"
+        ],
+        "ai_scenario_id": null,
+        "source_ids": [
+          "d8020000-0000-4000-8000-000000000004"
+        ],
+        "last_reviewed_at": null,
+        "version": 1,
+        "review_status": "draft",
+        "published": false,
+        "outdated": false,
+        "updated_at": "2026-10-25T00:00:00Z",
+        "format": "lesson"
+      },
+      {
+        "id": "d8030000-0000-4000-8000-000000000013",
+        "slug": "rubbish-separation",
+        "category_id": "d8010000-0000-4000-8000-000000000004",
+        "title": "Rubbish separation",
+        "summary": "Check your municipality's sorting guidance and collection schedule, plus your building's collection point. Do not assume dates or bag rules are nationwide.",
+        "content": {
+          "sections": [
+            {
+              "id": "lesson",
+              "title": "Rubbish separation",
+              "text": "Check your municipality's sorting guidance and collection schedule, plus your building's collection point. Do not assume dates or bag rules are nationwide.",
+              "kind": "municipal"
+            }
+          ],
+          "steps": [
+            "Check the actual notice or responsible person's explanation, then reflect with a short quiz."
+          ],
+          "documents": [],
+          "deadline": null,
+          "phrases": [
+            {
+              "ja": "もう一度、説明していただけますか。",
+              "en": "Could you explain once more?"
+            }
+          ],
+          "dialogue": [],
+          "roleplays": []
+        },
+        "audiences": [
+          "tourist",
+          "student",
+          "ssw",
+          "professional",
+          "resident"
+        ],
+        "stages": [
+          "before",
+          "arriving",
+          "settling"
+        ],
+        "risk": "general",
+        "deck_id": null,
+        "bank_id": "d8050000-0000-4000-8000-000000000013",
+        "lesson_ids": [
+          "d8100000-0000-4000-8000-000000000013"
+        ],
+        "ai_scenario_id": null,
+        "source_ids": [
+          "d8020000-0000-4000-8000-000000000007"
+        ],
+        "last_reviewed_at": null,
+        "version": 1,
+        "review_status": "draft",
+        "published": false,
+        "outdated": false,
+        "updated_at": "2026-10-25T00:00:00Z",
+        "format": "lesson"
+      },
+      {
+        "id": "d8030000-0000-4000-8000-000000000014",
+        "slug": "road-safety",
+        "category_id": "d8010000-0000-4000-8000-000000000007",
+        "title": "Bicycle and pedestrian safety",
+        "summary": "Use official road-safety information and current signs. This short language activity is not a complete statement of traffic law or riding instruction.",
+        "content": {
+          "sections": [
+            {
+              "id": "lesson",
+              "title": "Bicycle and pedestrian safety",
+              "text": "Use official road-safety information and current signs. This short language activity is not a complete statement of traffic law or riding instruction.",
+              "kind": "law"
+            }
+          ],
+          "steps": [
+            "Check the actual notice or responsible person's explanation, then reflect with a short quiz."
+          ],
+          "documents": [],
+          "deadline": null,
+          "phrases": [
+            {
+              "ja": "もう一度、説明していただけますか。",
+              "en": "Could you explain once more?"
+            }
+          ],
+          "dialogue": [],
+          "roleplays": []
+        },
+        "audiences": [
+          "tourist",
+          "student",
+          "ssw",
+          "professional",
+          "resident"
+        ],
+        "stages": [
+          "before",
+          "arriving",
+          "settling"
+        ],
+        "risk": "legal",
+        "deck_id": null,
+        "bank_id": "d8050000-0000-4000-8000-000000000014",
+        "lesson_ids": [
+          "d8100000-0000-4000-8000-000000000014"
+        ],
+        "ai_scenario_id": null,
+        "source_ids": [
+          "d8020000-0000-4000-8000-000000000007"
+        ],
+        "last_reviewed_at": null,
+        "version": 1,
+        "review_status": "draft",
+        "published": false,
+        "outdated": false,
+        "updated_at": "2026-10-25T00:00:00Z",
+        "format": "lesson"
+      },
+      {
+        "id": "d8030000-0000-4000-8000-000000000015",
+        "slug": "workplace-etiquette",
+        "category_id": "d8010000-0000-4000-8000-000000000008",
+        "title": "Workplace etiquette",
+        "summary": "Confirm your team's communication and reporting practices with your supervisor. Workplace policies and statutory duties are different categories.",
+        "content": {
+          "sections": [
+            {
+              "id": "lesson",
+              "title": "Workplace etiquette",
+              "text": "Confirm your team's communication and reporting practices with your supervisor. Workplace policies and statutory duties are different categories.",
+              "kind": "workplace"
+            }
+          ],
+          "steps": [
+            "Check the actual notice or responsible person's explanation, then reflect with a short quiz."
+          ],
+          "documents": [],
+          "deadline": null,
+          "phrases": [
+            {
+              "ja": "もう一度、説明していただけますか。",
+              "en": "Could you explain once more?"
+            }
+          ],
+          "dialogue": [],
+          "roleplays": []
+        },
+        "audiences": [
+          "tourist",
+          "student",
+          "ssw",
+          "professional",
+          "resident"
+        ],
+        "stages": [
+          "before",
+          "arriving",
+          "settling"
+        ],
+        "risk": "safety",
+        "deck_id": null,
+        "bank_id": "d8050000-0000-4000-8000-000000000015",
+        "lesson_ids": [
+          "d8100000-0000-4000-8000-000000000015"
+        ],
+        "ai_scenario_id": null,
+        "source_ids": [
+          "d8020000-0000-4000-8000-000000000007"
+        ],
+        "last_reviewed_at": null,
+        "version": 1,
+        "review_status": "draft",
+        "published": false,
+        "outdated": false,
+        "updated_at": "2026-10-25T00:00:00Z",
+        "format": "lesson"
+      },
+      {
+        "id": "d8030000-0000-4000-8000-000000000016",
+        "slug": "greetings",
+        "category_id": "d8010000-0000-4000-8000-000000000009",
+        "title": "Greetings and communication",
+        "summary": "Choose a greeting that fits the relationship and situation. A polite alternative can improve register without making the casual original grammatically wrong.",
+        "content": {
+          "sections": [
+            {
+              "id": "lesson",
+              "title": "Greetings and communication",
+              "text": "Choose a greeting that fits the relationship and situation. A polite alternative can improve register without making the casual original grammatically wrong.",
+              "kind": "culture"
+            }
+          ],
+          "steps": [
+            "Check the actual notice or responsible person's explanation, then reflect with a short quiz."
+          ],
+          "documents": [],
+          "deadline": null,
+          "phrases": [
+            {
+              "ja": "もう一度、説明していただけますか。",
+              "en": "Could you explain once more?"
+            }
+          ],
+          "dialogue": [],
+          "roleplays": []
+        },
+        "audiences": [
+          "tourist",
+          "student",
+          "ssw",
+          "professional",
+          "resident"
+        ],
+        "stages": [
+          "before",
+          "arriving",
+          "settling"
+        ],
+        "risk": "general",
+        "deck_id": null,
+        "bank_id": "d8050000-0000-4000-8000-000000000016",
+        "lesson_ids": [
+          "d8100000-0000-4000-8000-000000000016"
+        ],
+        "ai_scenario_id": null,
+        "source_ids": [
+          "d8020000-0000-4000-8000-000000000007"
+        ],
+        "last_reviewed_at": null,
+        "version": 1,
+        "review_status": "draft",
+        "published": false,
+        "outdated": false,
+        "updated_at": "2026-10-25T00:00:00Z",
+        "format": "lesson"
+      },
+      {
+        "id": "d8030000-0000-4000-8000-000000000017",
+        "slug": "cultural-customs",
+        "category_id": "d8010000-0000-4000-8000-000000000009",
+        "title": "Cultural customs",
+        "summary": "Observe the setting and ask respectfully when unsure. Customs vary among people and places; avoid turning stereotypes into universal obligations.",
+        "content": {
+          "sections": [
+            {
+              "id": "lesson",
+              "title": "Cultural customs",
+              "text": "Observe the setting and ask respectfully when unsure. Customs vary among people and places; avoid turning stereotypes into universal obligations.",
+              "kind": "culture"
+            }
+          ],
+          "steps": [
+            "Check the actual notice or responsible person's explanation, then reflect with a short quiz."
+          ],
+          "documents": [],
+          "deadline": null,
+          "phrases": [
+            {
+              "ja": "もう一度、説明していただけますか。",
+              "en": "Could you explain once more?"
+            }
+          ],
+          "dialogue": [],
+          "roleplays": []
+        },
+        "audiences": [
+          "tourist",
+          "student",
+          "ssw",
+          "professional",
+          "resident"
+        ],
+        "stages": [
+          "before",
+          "arriving",
+          "settling"
+        ],
+        "risk": "general",
+        "deck_id": null,
+        "bank_id": "d8050000-0000-4000-8000-000000000017",
+        "lesson_ids": [
+          "d8100000-0000-4000-8000-000000000017"
+        ],
+        "ai_scenario_id": null,
+        "source_ids": [
+          "d8020000-0000-4000-8000-000000000007"
+        ],
+        "last_reviewed_at": null,
+        "version": 1,
+        "review_status": "draft",
+        "published": false,
+        "outdated": false,
+        "updated_at": "2026-10-25T00:00:00Z",
+        "format": "lesson"
+      },
+      {
+        "id": "d8030000-0000-4000-8000-000000000018",
+        "slug": "emergency-preparedness",
+        "category_id": "d8010000-0000-4000-8000-000000000010",
+        "title": "Emergency preparedness",
+        "summary": "Read the local emergency information before you need it. Follow current official alerts and local instructions during an incident.",
+        "content": {
+          "sections": [
+            {
+              "id": "lesson",
+              "title": "Emergency preparedness",
+              "text": "Read the local emergency information before you need it. Follow current official alerts and local instructions during an incident.",
+              "kind": "suggestion"
+            }
+          ],
+          "steps": [
+            "Check the actual notice or responsible person's explanation, then reflect with a short quiz."
+          ],
+          "documents": [],
+          "deadline": null,
+          "phrases": [
+            {
+              "ja": "もう一度、説明していただけますか。",
+              "en": "Could you explain once more?"
+            }
+          ],
+          "dialogue": [],
+          "roleplays": []
+        },
+        "audiences": [
+          "tourist",
+          "student",
+          "ssw",
+          "professional",
+          "resident"
+        ],
+        "stages": [
+          "before",
+          "arriving",
+          "settling"
+        ],
+        "risk": "safety",
+        "deck_id": null,
+        "bank_id": "d8050000-0000-4000-8000-000000000018",
+        "lesson_ids": [
+          "d8100000-0000-4000-8000-000000000018"
+        ],
+        "ai_scenario_id": null,
+        "source_ids": [
+          "d8020000-0000-4000-8000-000000000008"
+        ],
+        "last_reviewed_at": null,
+        "version": 1,
+        "review_status": "draft",
+        "published": false,
+        "outdated": false,
+        "updated_at": "2026-10-25T00:00:00Z",
+        "format": "lesson"
+      }
+    ],
+    "translations": [
+      {
+        "id": "d8060000-0000-4000-8000-000000000001",
+        "article_id": "d8030000-0000-4000-8000-000000000001",
+        "locale": "ja",
+        "title": "安心して来日するために",
+        "summary": "出発前に連絡先、宿泊先、最初の移動を整理します。",
+        "content": {
+          "sections": [
+            {
+              "id": "overview",
+              "title": "概要",
+              "text": "出発前に連絡先、宿泊先、最初の移動を整理します。",
+              "kind": "suggestion"
+            },
+            {
+              "id": "applies",
+              "title": "対象と確認先",
+              "text": "対象は選んだ学習目的の目安です。在留資格、自治体、契約、個別の状況によって案内が変わります。担当の公式機関に確認してください。",
+              "kind": "suggestion"
+            }
+          ],
+          "steps": [
+            "予約の内容と宿泊先への連絡方法を、通信がなくても見られるようにします。",
+            "空港から宿泊先までの移動と、交通が変わった場合の代案を考えます。",
+            "国籍と目的に合う入国案内を公式機関で確認し、不明な点を問い合わせます。"
+          ],
+          "documents": [
+            {
+              "name": "予約の内容",
+              "note": "持参が必要か担当者に確認してください。これは確定した必要書類一覧ではありません。"
+            },
+            {
+              "name": "連絡先一覧",
+              "note": "持参が必要か担当者に確認してください。これは確定した必要書類一覧ではありません。"
+            }
+          ],
+          "deadline": null,
+          "phrases": [
+            {
+              "ja": "予約を確認したいです。",
+              "en": "I would like to confirm my reservation."
+            }
+          ],
+          "dialogue": [
+            {
+              "speaker": "あなた",
+              "ja": "予約を確認したいです。",
+              "en": "I would like to confirm my reservation."
+            },
+            {
+              "speaker": "担当者",
+              "ja": "はい。状況を確認しましょう。",
+              "en": "Of course. Let us check your circumstances."
+            }
+          ],
+          "roleplays": []
+        },
+        "review_status": "draft",
+        "updated_at": "2026-10-25T00:00:00Z"
+      },
+      {
+        "id": "d8060000-0000-4000-8000-000000000002",
+        "article_id": "d8030000-0000-4000-8000-000000000002",
+        "locale": "ja",
+        "title": "市役所への最初の訪問",
+        "summary": "担当窓口を調べ、自分に必要な手続きを確認します。",
+        "content": {
+          "sections": [
+            {
+              "id": "overview",
+              "title": "概要",
+              "text": "担当窓口を調べ、自分に必要な手続きを確認します。",
+              "kind": "municipal"
+            },
+            {
+              "id": "applies",
+              "title": "対象と確認先",
+              "text": "対象は選んだ学習目的の目安です。在留資格、自治体、契約、個別の状況によって案内が変わります。担当の公式機関に確認してください。",
+              "kind": "municipal"
+            }
+          ],
+          "steps": [
+            "住む自治体の公式な窓口情報と通訳などの支援を調べます。",
+            "来日や生活の状況を説明します。すべての手続きが必要とは限りません。",
+            "必要な書類、予約の要否、該当する期限を担当者に確認します。"
+          ],
+          "documents": [
+            {
+              "name": "自治体の窓口から案内された書類",
+              "note": "持参が必要か担当者に確認してください。これは確定した必要書類一覧ではありません。"
+            },
+            {
+              "name": "質問のメモ",
+              "note": "持参が必要か担当者に確認してください。これは確定した必要書類一覧ではありません。"
+            }
+          ],
+          "deadline": null,
+          "phrases": [
+            {
+              "ja": "住所の手続きは、どの窓口ですか。",
+              "en": "Which counter handles address procedures?"
+            }
+          ],
+          "dialogue": [
+            {
+              "speaker": "あなた",
+              "ja": "住所の手続きは、どの窓口ですか。",
+              "en": "Which counter handles address procedures?"
+            },
+            {
+              "speaker": "担当者",
+              "ja": "はい。状況を確認しましょう。",
+              "en": "Of course. Let us check your circumstances."
+            }
+          ],
+          "roleplays": [
+            {
+              "slug": "register-address",
+              "title": "Registering an address",
+              "title_ja": "住所の手続き",
+              "scenario_id": "d80d0000-0000-4000-8000-000000000001",
+              "dialogue": [
+                {
+                  "speaker": "担当者",
+                  "ja": "こんにちは。どのようなご相談でしょうか。",
+                  "en": "Hello. How can I help you?"
+                },
+                {
+                  "speaker": "あなた",
+                  "ja": "住所の手続きについて質問したいです。",
+                  "en": "I would like to ask about address procedures."
+                },
+                {
+                  "speaker": "担当者",
+                  "ja": "状況を確認しましょう。",
+                  "en": "Let us check the circumstances."
+                }
+              ]
+            }
+          ]
+        },
+        "review_status": "draft",
+        "updated_at": "2026-10-25T00:00:00Z"
+      },
+      {
+        "id": "d8060000-0000-4000-8000-000000000003",
+        "article_id": "d8030000-0000-4000-8000-000000000003",
+        "locale": "ja",
+        "title": "必要な書類を確認する",
+        "summary": "自分の申請や手続きに合う公式の案内を確認します。",
+        "content": {
+          "sections": [
+            {
+              "id": "overview",
+              "title": "概要",
+              "text": "自分の申請や手続きに合う公式の案内を確認します。",
+              "kind": "law"
+            },
+            {
+              "id": "applies",
+              "title": "対象と確認先",
+              "text": "対象は選んだ学習目的の目安です。在留資格、自治体、契約、個別の状況によって案内が変わります。担当の公式機関に確認してください。",
+              "kind": "law"
+            }
+          ],
+          "steps": [
+            "どの手続きなのか、担当する公式機関はどこかを確かめます。",
+            "最新の公式案内を読み、個別の事情で変わる点を問い合わせます。",
+            "原本・写し・期限を担当機関に確認します。このチェックリストは資格の有無を判断しません。"
+          ],
+          "documents": [
+            {
+              "name": "担当機関の最新の必要書類一覧",
+              "note": "持参が必要か担当者に確認してください。これは確定した必要書類一覧ではありません。"
+            },
+            {
+              "name": "担当機関が求める場合の写し",
+              "note": "持参が必要か担当者に確認してください。これは確定した必要書類一覧ではありません。"
+            }
+          ],
+          "deadline": null,
+          "phrases": [
+            {
+              "ja": "必要な書類を教えていただけますか。",
+              "en": "Could you tell me which documents are needed?"
+            }
+          ],
+          "dialogue": [
+            {
+              "speaker": "あなた",
+              "ja": "必要な書類を教えていただけますか。",
+              "en": "Could you tell me which documents are needed?"
+            },
+            {
+              "speaker": "担当者",
+              "ja": "はい。状況を確認しましょう。",
+              "en": "Of course. Let us check your circumstances."
+            }
+          ],
+          "roleplays": []
+        },
+        "review_status": "draft",
+        "updated_at": "2026-10-25T00:00:00Z"
+      },
+      {
+        "id": "d8060000-0000-4000-8000-000000000004",
+        "article_id": "d8030000-0000-4000-8000-000000000004",
+        "locale": "ja",
+        "title": "住まいの条件を確認する",
+        "summary": "住まいの契約条件と設備の手続きを担当者に確認します。",
+        "content": {
+          "sections": [
+            {
+              "id": "overview",
+              "title": "概要",
+              "text": "住まいの契約条件と設備の手続きを担当者に確認します。",
+              "kind": "suggestion"
+            },
+            {
+              "id": "applies",
+              "title": "対象と確認先",
+              "text": "対象は選んだ学習目的の目安です。在留資格、自治体、契約、個別の状況によって案内が変わります。担当の公式機関に確認してください。",
+              "kind": "suggestion"
+            }
+          ],
+          "steps": [
+            "学校、宿泊先の担当者、不動産会社に住まいや支援について尋ねます。",
+            "同意する前に、自分の契約、費用、建物のルール、入居時の状態確認を説明してもらいます。",
+            "電気・ガス・水道・インターネットを誰が手配するか、予約や本人確認の要件を確認します。"
+          ],
+          "documents": [
+            {
+              "name": "検討中または現在の住まいの契約",
+              "note": "持参が必要か担当者に確認してください。これは確定した必要書類一覧ではありません。"
+            },
+            {
+              "name": "各事業者が求める情報",
+              "note": "持参が必要か担当者に確認してください。これは確定した必要書類一覧ではありません。"
+            }
+          ],
+          "deadline": null,
+          "phrases": [
+            {
+              "ja": "この費用について、説明していただけますか。",
+              "en": "Could you explain this charge?"
+            }
+          ],
+          "dialogue": [
+            {
+              "speaker": "あなた",
+              "ja": "この費用について、説明していただけますか。",
+              "en": "Could you explain this charge?"
+            },
+            {
+              "speaker": "担当者",
+              "ja": "はい。状況を確認しましょう。",
+              "en": "Of course. Let us check your circumstances."
+            }
+          ],
+          "roleplays": [
+            {
+              "slug": "talk-landlord",
+              "title": "Talking to a landlord",
+              "title_ja": "住まいの担当者と話す",
+              "scenario_id": "d80d0000-0000-4000-8000-000000000005",
+              "dialogue": [
+                {
+                  "speaker": "担当者",
+                  "ja": "こんにちは。どのようなご相談でしょうか。",
+                  "en": "Hello. How can I help you?"
+                },
+                {
+                  "speaker": "あなた",
+                  "ja": "契約について、確認したいことがあります。",
+                  "en": "I have a question about the contract."
+                },
+                {
+                  "speaker": "担当者",
+                  "ja": "状況を確認しましょう。",
+                  "en": "Let us check the circumstances."
+                }
+              ]
+            }
+          ]
+        },
+        "review_status": "draft",
+        "updated_at": "2026-10-25T00:00:00Z"
+      },
+      {
+        "id": "d8060000-0000-4000-8000-000000000005",
+        "article_id": "d8030000-0000-4000-8000-000000000005",
+        "locale": "ja",
+        "title": "お金と保険の質問を整理する",
+        "summary": "銀行・税金・保険・年金について担当機関に確認します。",
+        "content": {
+          "sections": [
+            {
+              "id": "overview",
+              "title": "概要",
+              "text": "銀行・税金・保険・年金について担当機関に確認します。",
+              "kind": "law"
+            },
+            {
+              "id": "applies",
+              "title": "対象と確認先",
+              "text": "対象は選んだ学習目的の目安です。在留資格、自治体、契約、個別の状況によって案内が変わります。担当の公式機関に確認してください。",
+              "kind": "law"
+            }
+          ],
+          "steps": [
+            "銀行や携帯電話会社に、自分の状況で利用できるサービスと本人確認を尋ねます。要件は異なります。",
+            "勤務先や自治体に、自分に該当する医療保険や年金の手続きを確認します。",
+            "分からない税の通知や期限は担当窓口に尋ねる予定を記録します。金融関係の書類をこのサイトに送らないでください。"
+          ],
+          "documents": [
+            {
+              "name": "事業者の最新の必要書類一覧",
+              "note": "持参が必要か担当者に確認してください。これは確定した必要書類一覧ではありません。"
+            },
+            {
+              "name": "通知についての質問（書類のアップロードは不要）",
+              "note": "持参が必要か担当者に確認してください。これは確定した必要書類一覧ではありません。"
+            }
+          ],
+          "deadline": null,
+          "phrases": [
+            {
+              "ja": "私の場合、どの手続きが必要ですか。",
+              "en": "Which procedures are needed in my situation?"
+            }
+          ],
+          "dialogue": [
+            {
+              "speaker": "あなた",
+              "ja": "私の場合、どの手続きが必要ですか。",
+              "en": "Which procedures are needed in my situation?"
+            },
+            {
+              "speaker": "担当者",
+              "ja": "はい。状況を確認しましょう。",
+              "en": "Of course. Let us check your circumstances."
+            }
+          ],
+          "roleplays": [
+            {
+              "slug": "ask-insurance",
+              "title": "Asking about health insurance",
+              "title_ja": "医療保険について尋ねる",
+              "scenario_id": "d80d0000-0000-4000-8000-000000000002",
+              "dialogue": [
+                {
+                  "speaker": "担当者",
+                  "ja": "こんにちは。どのようなご相談でしょうか。",
+                  "en": "Hello. How can I help you?"
+                },
+                {
+                  "speaker": "あなた",
+                  "ja": "私の場合、保険の相談はどこでできますか。",
+                  "en": "Where can I ask about insurance in my circumstances?"
+                },
+                {
+                  "speaker": "担当者",
+                  "ja": "状況を確認しましょう。",
+                  "en": "Let us check the circumstances."
+                }
+              ]
+            },
+            {
+              "slug": "open-bank-account",
+              "title": "Opening a bank account",
+              "title_ja": "銀行口座について尋ねる",
+              "scenario_id": "d80d0000-0000-4000-8000-000000000003",
+              "dialogue": [
+                {
+                  "speaker": "担当者",
+                  "ja": "こんにちは。どのようなご相談でしょうか。",
+                  "en": "Hello. How can I help you?"
+                },
+                {
+                  "speaker": "あなた",
+                  "ja": "口座について、必要な書類を教えていただけますか。",
+                  "en": "Could you tell me which documents are needed for an account?"
+                },
+                {
+                  "speaker": "担当者",
+                  "ja": "状況を確認しましょう。",
+                  "en": "Let us check the circumstances."
+                }
+              ]
+            }
+          ]
+        },
+        "review_status": "draft",
+        "updated_at": "2026-10-25T00:00:00Z"
+      },
+      {
+        "id": "d8060000-0000-4000-8000-000000000006",
+        "article_id": "d8030000-0000-4000-8000-000000000006",
+        "locale": "ja",
+        "title": "診療所への訪問を準備する",
+        "summary": "症状を伝える言葉を準備し、医療機関の案内を確認します。",
+        "content": {
+          "sections": [
+            {
+              "id": "overview",
+              "title": "概要",
+              "text": "症状を伝える言葉を準備し、医療機関の案内を確認します。",
+              "kind": "suggestion"
+            },
+            {
+              "id": "applies",
+              "title": "対象と確認先",
+              "text": "対象は選んだ学習目的の目安です。在留資格、自治体、契約、個別の状況によって案内が変わります。担当の公式機関に確認してください。",
+              "kind": "suggestion"
+            }
+          ],
+          "steps": [
+            "予定の受診では、診療時間、言語支援、予約、支払い方法を確認します。",
+            "困っていることを短く説明する準備をし、医療者が求める情報を用意します。個人的な医療情報をこのサイトに入力しないでください。",
+            "現在受け付ける保険資格の確認方法を医療機関や保険者に確認します。緊急時は学習ページではなく公的な緊急支援を利用してください。"
+          ],
+          "documents": [
+            {
+              "name": "医療機関が持参を求めるもの",
+              "note": "持参が必要か担当者に確認してください。これは確定した必要書類一覧ではありません。"
+            },
+            {
+              "name": "保険や支払いについての質問",
+              "note": "持参が必要か担当者に確認してください。これは確定した必要書類一覧ではありません。"
+            }
+          ],
+          "deadline": null,
+          "phrases": [
+            {
+              "ja": "予約が必要ですか。",
+              "en": "Do I need an appointment?"
+            }
+          ],
+          "dialogue": [
+            {
+              "speaker": "あなた",
+              "ja": "予約が必要ですか。",
+              "en": "Do I need an appointment?"
+            },
+            {
+              "speaker": "担当者",
+              "ja": "はい。状況を確認しましょう。",
+              "en": "Of course. Let us check your circumstances."
+            }
+          ],
+          "roleplays": [
+            {
+              "slug": "visit-clinic",
+              "title": "Visiting a clinic",
+              "title_ja": "診療所で話す",
+              "scenario_id": "d80d0000-0000-4000-8000-000000000006",
+              "dialogue": [
+                {
+                  "speaker": "担当者",
+                  "ja": "こんにちは。どのようなご相談でしょうか。",
+                  "en": "Hello. How can I help you?"
+                },
+                {
+                  "speaker": "あなた",
+                  "ja": "予約の方法を教えてください。",
+                  "en": "Please explain how to make an appointment."
+                },
+                {
+                  "speaker": "担当者",
+                  "ja": "状況を確認しましょう。",
+                  "en": "Let us check the circumstances."
+                }
+              ]
+            }
+          ]
+        },
+        "review_status": "draft",
+        "updated_at": "2026-10-25T00:00:00Z"
+      },
+      {
+        "id": "d8060000-0000-4000-8000-000000000007",
+        "article_id": "d8030000-0000-4000-8000-000000000007",
+        "locale": "ja",
+        "title": "毎日の移動を考える",
+        "summary": "移動前に経路、案内表示、交通機関の案内を確認します。",
+        "content": {
+          "sections": [
+            {
+              "id": "overview",
+              "title": "概要",
+              "text": "移動前に経路、案内表示、交通機関の案内を確認します。",
+              "kind": "culture"
+            },
+            {
+              "id": "applies",
+              "title": "対象と確認先",
+              "text": "対象は選んだ学習目的の目安です。在留資格、自治体、契約、個別の状況によって案内が変わります。担当の公式機関に確認してください。",
+              "kind": "culture"
+            }
+          ],
+          "steps": [
+            "目的地、経路、最終の乗り継ぎを交通機関の案内で確認します。",
+            "乗車の案内に従い、通路をふさがず、分からない表示は係員に尋ねます。",
+            "徒歩や自転車では、現在の公式の交通ルールと現地の標識を確認します。マナーと法律は区別します。"
+          ],
+          "documents": [
+            {
+              "name": "経路と目的地の情報",
+              "note": "持参が必要か担当者に確認してください。これは確定した必要書類一覧ではありません。"
+            }
+          ],
+          "deadline": null,
+          "phrases": [
+            {
+              "ja": "この電車は、ここに止まりますか。",
+              "en": "Does this train stop here?"
+            }
+          ],
+          "dialogue": [
+            {
+              "speaker": "あなた",
+              "ja": "この電車は、ここに止まりますか。",
+              "en": "Does this train stop here?"
+            },
+            {
+              "speaker": "担当者",
+              "ja": "はい。状況を確認しましょう。",
+              "en": "Of course. Let us check your circumstances."
+            }
+          ],
+          "roleplays": [
+            {
+              "slug": "ask-directions",
+              "title": "Asking for directions",
+              "title_ja": "道を尋ねる",
+              "scenario_id": "d80d0000-0000-4000-8000-000000000004",
+              "dialogue": [
+                {
+                  "speaker": "担当者",
+                  "ja": "こんにちは。どのようなご相談でしょうか。",
+                  "en": "Hello. How can I help you?"
+                },
+                {
+                  "speaker": "あなた",
+                  "ja": "すみません、駅の出口はどちらですか。",
+                  "en": "Excuse me, which way is the station exit?"
+                },
+                {
+                  "speaker": "担当者",
+                  "ja": "状況を確認しましょう。",
+                  "en": "Let us check the circumstances."
+                }
+              ]
+            }
+          ]
+        },
+        "review_status": "draft",
+        "updated_at": "2026-10-25T00:00:00Z"
+      },
+      {
+        "id": "d8060000-0000-4000-8000-000000000008",
+        "article_id": "d8030000-0000-4000-8000-000000000008",
+        "locale": "ja",
+        "title": "職場の説明を受ける準備",
+        "summary": "作業の前に、質問先と指示の確認方法を学びます。",
+        "content": {
+          "sections": [
+            {
+              "id": "overview",
+              "title": "概要",
+              "text": "作業の前に、質問先と指示の確認方法を学びます。",
+              "kind": "workplace"
+            },
+            {
+              "id": "applies",
+              "title": "対象と確認先",
+              "text": "対象は選んだ学習目的の目安です。在留資格、自治体、契約、個別の状況によって案内が変わります。担当の公式機関に確認してください。",
+              "kind": "workplace"
+            }
+          ],
+          "steps": [
+            "研修、言語支援、作業に必要な安全教育の担当者を上司に確認します。",
+            "初めての作業では、担当の有資格者などに実演を求め、理解が合っているか確かめます。",
+            "不明点や心配なことの報告先を調べます。この日本語練習は安全資格や機械の操作許可ではありません。"
+          ],
+          "documents": [
+            {
+              "name": "勤務先の研修案内",
+              "note": "持参が必要か担当者に確認してください。これは確定した必要書類一覧ではありません。"
+            },
+            {
+              "name": "上司への質問",
+              "note": "持参が必要か担当者に確認してください。これは確定した必要書類一覧ではありません。"
+            }
+          ],
+          "deadline": null,
+          "phrases": [
+            {
+              "ja": "分からないので、もう一度教えてください。",
+              "en": "I do not understand; please explain again."
+            }
+          ],
+          "dialogue": [
+            {
+              "speaker": "あなた",
+              "ja": "分からないので、もう一度教えてください。",
+              "en": "I do not understand; please explain again."
+            },
+            {
+              "speaker": "担当者",
+              "ja": "はい。状況を確認しましょう。",
+              "en": "Of course. Let us check your circumstances."
+            }
+          ],
+          "roleplays": [
+            {
+              "slug": "speak-supervisor",
+              "title": "Speaking with a supervisor",
+              "title_ja": "上司に確認する",
+              "scenario_id": "d80d0000-0000-4000-8000-000000000007",
+              "dialogue": [
+                {
+                  "speaker": "担当者",
+                  "ja": "こんにちは。どのようなご相談でしょうか。",
+                  "en": "Hello. How can I help you?"
+                },
+                {
+                  "speaker": "あなた",
+                  "ja": "作業の前に、もう一度確認してもよろしいですか。",
+                  "en": "May I check once more before starting the task?"
+                },
+                {
+                  "speaker": "担当者",
+                  "ja": "状況を確認しましょう。",
+                  "en": "Let us check the circumstances."
+                }
+              ]
+            }
+          ]
+        },
+        "review_status": "draft",
+        "updated_at": "2026-10-25T00:00:00Z"
+      },
+      {
+        "id": "d8060000-0000-4000-8000-000000000009",
+        "article_id": "d8030000-0000-4000-8000-000000000009",
+        "locale": "ja",
+        "title": "ルールの違いを理解する",
+        "summary": "法律、地域のルール、職場の方針、配慮の習慣を区別します。",
+        "content": {
+          "sections": [
+            {
+              "id": "overview",
+              "title": "概要",
+              "text": "法律、地域のルール、職場の方針、配慮の習慣を区別します。",
+              "kind": "culture"
+            },
+            {
+              "id": "applies",
+              "title": "対象と確認先",
+              "text": "対象は選んだ学習目的の目安です。在留資格、自治体、契約、個別の状況によって案内が変わります。担当の公式機関に確認してください。",
+              "kind": "culture"
+            }
+          ],
+          "steps": [
+            "掲示の発信元が自治体、交通機関、勤務先、施設のどこかを確かめます。",
+            "どこでも同じと思い込まず、その場所での意味を尋ねます。",
+            "短い文化レッスンで配慮のある対応を練習します。一般的な習慣が法律上の義務とは限りません。"
+          ],
+          "documents": [
+            {
+              "name": "自分で確認する現地の掲示や案内",
+              "note": "持参が必要か担当者に確認してください。これは確定した必要書類一覧ではありません。"
+            }
+          ],
+          "deadline": null,
+          "phrases": [
+            {
+              "ja": "こちらのルールを教えてください。",
+              "en": "Please explain the rules here."
+            }
+          ],
+          "dialogue": [
+            {
+              "speaker": "あなた",
+              "ja": "こちらのルールを教えてください。",
+              "en": "Please explain the rules here."
+            },
+            {
+              "speaker": "担当者",
+              "ja": "はい。状況を確認しましょう。",
+              "en": "Of course. Let us check your circumstances."
+            }
+          ],
+          "roleplays": []
+        },
+        "review_status": "draft",
+        "updated_at": "2026-10-25T00:00:00Z"
+      },
+      {
+        "id": "d8060000-0000-4000-8000-000000000010",
+        "article_id": "d8030000-0000-4000-8000-000000000010",
+        "locale": "ja",
+        "title": "緊急時や災害に備える",
+        "summary": "公式情報と地域の支援先を確認しておきます。",
+        "content": {
+          "sections": [
+            {
+              "id": "overview",
+              "title": "概要",
+              "text": "公式情報と地域の支援先を確認しておきます。",
+              "kind": "suggestion"
+            },
+            {
+              "id": "applies",
+              "title": "対象と確認先",
+              "text": "対象は選んだ学習目的の目安です。在留資格、自治体、契約、個別の状況によって案内が変わります。担当の公式機関に確認してください。",
+              "kind": "suggestion"
+            }
+          ],
+          "steps": [
+            "宿泊先や住まいの緊急時の案内を読み、示された避難経路を確認します。",
+            "自治体の公式な防災情報と、最新の警報を受け取る方法を調べます。",
+            "信頼できる人と連絡方法を決めます。災害時は保存した例文ではなく、最新の公式指示や現地の担当者の案内に従います。"
+          ],
+          "documents": [
+            {
+              "name": "自分で保管する緊急連絡の計画",
+              "note": "持参が必要か担当者に確認してください。これは確定した必要書類一覧ではありません。"
+            },
+            {
+              "name": "地域の公式な避難情報",
+              "note": "持参が必要か担当者に確認してください。これは確定した必要書類一覧ではありません。"
+            }
+          ],
+          "deadline": null,
+          "phrases": [
+            {
+              "ja": "避難する場所はどこですか。",
+              "en": "Where is the evacuation location?"
+            }
+          ],
+          "dialogue": [
+            {
+              "speaker": "あなた",
+              "ja": "避難する場所はどこですか。",
+              "en": "Where is the evacuation location?"
+            },
+            {
+              "speaker": "担当者",
+              "ja": "はい。状況を確認しましょう。",
+              "en": "Of course. Let us check your circumstances."
+            }
+          ],
+          "roleplays": []
+        },
+        "review_status": "draft",
+        "updated_at": "2026-10-25T00:00:00Z"
+      },
+      {
+        "id": "d8060000-0000-4000-8000-000000000011",
+        "article_id": "d8030000-0000-4000-8000-000000000011",
+        "locale": "ja",
+        "title": "公共交通のマナー",
+        "summary": "通路をふさがず、交通機関の掲示に従います。会話や携帯電話の利用では周りの人に配慮します。",
+        "content": {
+          "sections": [
+            {
+              "id": "lesson",
+              "title": "公共交通のマナー",
+              "text": "通路をふさがず、交通機関の掲示に従います。会話や携帯電話の利用では周りの人に配慮します。",
+              "kind": "culture"
+            }
+          ],
+          "steps": [
+            "掲示や担当者の説明を確認し、短いクイズで理解を振り返りましょう。"
+          ],
+          "documents": [],
+          "deadline": null,
+          "phrases": [
+            {
+              "ja": "もう一度、説明していただけますか。",
+              "en": "Could you explain once more?"
+            }
+          ],
+          "dialogue": [],
+          "roleplays": []
+        },
+        "review_status": "draft",
+        "updated_at": "2026-10-25T00:00:00Z"
+      },
+      {
+        "id": "d8060000-0000-4000-8000-000000000012",
+        "article_id": "d8030000-0000-4000-8000-000000000012",
+        "locale": "ja",
+        "title": "住まいのルール",
+        "summary": "自分の契約と建物の掲示を読みます。別の建物のルールを当てはめず、分からないことは管理者に尋ねます。",
+        "content": {
+          "sections": [
+            {
+              "id": "lesson",
+              "title": "住まいのルール",
+              "text": "自分の契約と建物の掲示を読みます。別の建物のルールを当てはめず、分からないことは管理者に尋ねます。",
+              "kind": "suggestion"
+            }
+          ],
+          "steps": [
+            "掲示や担当者の説明を確認し、短いクイズで理解を振り返りましょう。"
+          ],
+          "documents": [],
+          "deadline": null,
+          "phrases": [
+            {
+              "ja": "もう一度、説明していただけますか。",
+              "en": "Could you explain once more?"
+            }
+          ],
+          "dialogue": [],
+          "roleplays": []
+        },
+        "review_status": "draft",
+        "updated_at": "2026-10-25T00:00:00Z"
+      },
+      {
+        "id": "d8060000-0000-4000-8000-000000000013",
+        "article_id": "d8030000-0000-4000-8000-000000000013",
+        "locale": "ja",
+        "title": "ごみの分別",
+        "summary": "自治体の分別案内・収集日と、建物の集積所を確認します。曜日や袋の決まりが全国共通とは限りません。",
+        "content": {
+          "sections": [
+            {
+              "id": "lesson",
+              "title": "ごみの分別",
+              "text": "自治体の分別案内・収集日と、建物の集積所を確認します。曜日や袋の決まりが全国共通とは限りません。",
+              "kind": "municipal"
+            }
+          ],
+          "steps": [
+            "掲示や担当者の説明を確認し、短いクイズで理解を振り返りましょう。"
+          ],
+          "documents": [],
+          "deadline": null,
+          "phrases": [
+            {
+              "ja": "もう一度、説明していただけますか。",
+              "en": "Could you explain once more?"
+            }
+          ],
+          "dialogue": [],
+          "roleplays": []
+        },
+        "review_status": "draft",
+        "updated_at": "2026-10-25T00:00:00Z"
+      },
+      {
+        "id": "d8060000-0000-4000-8000-000000000014",
+        "article_id": "d8030000-0000-4000-8000-000000000014",
+        "locale": "ja",
+        "title": "自転車と歩行の安全",
+        "summary": "公式の交通安全情報と現地の標識を確認します。この短い日本語練習は交通法規のすべてや運転方法を説明するものではありません。",
+        "content": {
+          "sections": [
+            {
+              "id": "lesson",
+              "title": "自転車と歩行の安全",
+              "text": "公式の交通安全情報と現地の標識を確認します。この短い日本語練習は交通法規のすべてや運転方法を説明するものではありません。",
+              "kind": "law"
+            }
+          ],
+          "steps": [
+            "掲示や担当者の説明を確認し、短いクイズで理解を振り返りましょう。"
+          ],
+          "documents": [],
+          "deadline": null,
+          "phrases": [
+            {
+              "ja": "もう一度、説明していただけますか。",
+              "en": "Could you explain once more?"
+            }
+          ],
+          "dialogue": [],
+          "roleplays": []
+        },
+        "review_status": "draft",
+        "updated_at": "2026-10-25T00:00:00Z"
+      },
+      {
+        "id": "d8060000-0000-4000-8000-000000000015",
+        "article_id": "d8030000-0000-4000-8000-000000000015",
+        "locale": "ja",
+        "title": "職場のマナー",
+        "summary": "職場の連絡・報告の方法を上司に確認します。職場の方針と法律上の義務は区別します。",
+        "content": {
+          "sections": [
+            {
+              "id": "lesson",
+              "title": "職場のマナー",
+              "text": "職場の連絡・報告の方法を上司に確認します。職場の方針と法律上の義務は区別します。",
+              "kind": "workplace"
+            }
+          ],
+          "steps": [
+            "掲示や担当者の説明を確認し、短いクイズで理解を振り返りましょう。"
+          ],
+          "documents": [],
+          "deadline": null,
+          "phrases": [
+            {
+              "ja": "もう一度、説明していただけますか。",
+              "en": "Could you explain once more?"
+            }
+          ],
+          "dialogue": [],
+          "roleplays": []
+        },
+        "review_status": "draft",
+        "updated_at": "2026-10-25T00:00:00Z"
+      },
+      {
+        "id": "d8060000-0000-4000-8000-000000000016",
+        "article_id": "d8030000-0000-4000-8000-000000000016",
+        "locale": "ja",
+        "title": "挨拶と伝え方",
+        "summary": "関係や場面に合う挨拶を選びます。丁寧な言い方が合う場合でも、カジュアルな文が文法的に誤りとは限りません。",
+        "content": {
+          "sections": [
+            {
+              "id": "lesson",
+              "title": "挨拶と伝え方",
+              "text": "関係や場面に合う挨拶を選びます。丁寧な言い方が合う場合でも、カジュアルな文が文法的に誤りとは限りません。",
+              "kind": "culture"
+            }
+          ],
+          "steps": [
+            "掲示や担当者の説明を確認し、短いクイズで理解を振り返りましょう。"
+          ],
+          "documents": [],
+          "deadline": null,
+          "phrases": [
+            {
+              "ja": "もう一度、説明していただけますか。",
+              "en": "Could you explain once more?"
+            }
+          ],
+          "dialogue": [],
+          "roleplays": []
+        },
+        "review_status": "draft",
+        "updated_at": "2026-10-25T00:00:00Z"
+      },
+      {
+        "id": "d8060000-0000-4000-8000-000000000017",
+        "article_id": "d8030000-0000-4000-8000-000000000017",
+        "locale": "ja",
+        "title": "文化と習慣",
+        "summary": "その場の様子を見て、分からないときは丁寧に尋ねます。習慣は人や場所で異なり、思い込みを一律の義務にしません。",
+        "content": {
+          "sections": [
+            {
+              "id": "lesson",
+              "title": "文化と習慣",
+              "text": "その場の様子を見て、分からないときは丁寧に尋ねます。習慣は人や場所で異なり、思い込みを一律の義務にしません。",
+              "kind": "culture"
+            }
+          ],
+          "steps": [
+            "掲示や担当者の説明を確認し、短いクイズで理解を振り返りましょう。"
+          ],
+          "documents": [],
+          "deadline": null,
+          "phrases": [
+            {
+              "ja": "もう一度、説明していただけますか。",
+              "en": "Could you explain once more?"
+            }
+          ],
+          "dialogue": [],
+          "roleplays": []
+        },
+        "review_status": "draft",
+        "updated_at": "2026-10-25T00:00:00Z"
+      },
+      {
+        "id": "d8060000-0000-4000-8000-000000000018",
+        "article_id": "d8030000-0000-4000-8000-000000000018",
+        "locale": "ja",
+        "title": "防災の準備",
+        "summary": "緊急時の地域の案内を事前に読みます。災害時は最新の公式警報と現地の指示に従います。",
+        "content": {
+          "sections": [
+            {
+              "id": "lesson",
+              "title": "防災の準備",
+              "text": "緊急時の地域の案内を事前に読みます。災害時は最新の公式警報と現地の指示に従います。",
+              "kind": "suggestion"
+            }
+          ],
+          "steps": [
+            "掲示や担当者の説明を確認し、短いクイズで理解を振り返りましょう。"
+          ],
+          "documents": [],
+          "deadline": null,
+          "phrases": [
+            {
+              "ja": "もう一度、説明していただけますか。",
+              "en": "Could you explain once more?"
+            }
+          ],
+          "dialogue": [],
+          "roleplays": []
+        },
+        "review_status": "draft",
+        "updated_at": "2026-10-25T00:00:00Z"
+      }
+    ],
+    "sources": [
+      {
+        "id": "d8020000-0000-4000-8000-000000000001",
+        "title": "ISA · New entrant guidance",
+        "url": "https://www.moj.go.jp/isa/support/guidance/index.html?hl=en",
+        "jurisdiction": "Japan · Immigration Services Agency",
+        "publication_date": null,
+        "reviewed_at": "2026-10-25",
+        "verified_at": null,
+        "review_status": "draft",
+        "published": false
+      },
+      {
+        "id": "d8020000-0000-4000-8000-000000000002",
+        "title": "ISA · Living and Working Guidebook",
+        "url": "https://www.moj.go.jp/isa/support/portal/guidebook_all.html",
+        "jurisdiction": "Japan · Immigration Services Agency",
+        "publication_date": null,
+        "reviewed_at": "2026-10-25",
+        "verified_at": null,
+        "review_status": "draft",
+        "published": false
+      },
+      {
+        "id": "d8020000-0000-4000-8000-000000000003",
+        "title": "JASSO · Life in Japan",
+        "url": "https://www.studyinjapan.go.jp/en/life/",
+        "jurisdiction": "Japan · International students",
+        "publication_date": null,
+        "reviewed_at": "2026-10-25",
+        "verified_at": "2026-10-25",
+        "review_status": "draft",
+        "published": false
+      },
+      {
+        "id": "d8020000-0000-4000-8000-000000000004",
+        "title": "JASSO · Accommodation",
+        "url": "https://www.studyinjapan.go.jp/en/life/accomodation/",
+        "jurisdiction": "Japan · Student housing; contracts vary",
+        "publication_date": null,
+        "reviewed_at": "2026-10-25",
+        "verified_at": "2026-10-25",
+        "review_status": "draft",
+        "published": false
+      },
+      {
+        "id": "d8020000-0000-4000-8000-000000000005",
+        "title": "JASSO · Insurance",
+        "url": "https://www.studyinjapan.go.jp/en/life/insurance/",
+        "jurisdiction": "Japan · International students; confirm current local arrangements",
+        "publication_date": null,
+        "reviewed_at": "2026-10-25",
+        "verified_at": "2026-10-25",
+        "review_status": "draft",
+        "published": false
+      },
+      {
+        "id": "d8020000-0000-4000-8000-000000000006",
+        "title": "JASSO · Status of residence",
+        "url": "https://www.studyinjapan.go.jp/en/life/residing-in-japan/",
+        "jurisdiction": "Japan · Student residence; individual circumstances",
+        "publication_date": null,
+        "reviewed_at": "2026-10-25",
+        "verified_at": "2026-10-25",
+        "review_status": "draft",
+        "published": false
+      },
+      {
+        "id": "d8020000-0000-4000-8000-000000000007",
+        "title": "JNTO · Planning your trip",
+        "url": "https://www.japan.travel/en/plan/",
+        "jurisdiction": "Japan · Visitor orientation",
+        "publication_date": null,
+        "reviewed_at": "2026-10-25",
+        "verified_at": "2026-10-25",
+        "review_status": "draft",
+        "published": false
+      },
+      {
+        "id": "d8020000-0000-4000-8000-000000000008",
+        "title": "JNTO · Staying safe in Japan",
+        "url": "https://www.japan.travel/en/plan/emergencies/",
+        "jurisdiction": "Japan · Visitor emergency preparation",
+        "publication_date": null,
+        "reviewed_at": "2026-10-25",
+        "verified_at": "2026-10-25",
+        "review_status": "draft",
+        "published": false
+      }
+    ],
+    "templates": [
+      {
+        "id": "d80b0000-0000-4000-8000-000000000001",
+        "title": "Pre-departure preparation",
+        "title_ja": "出発前の準備",
+        "guide_category_id": "d8010000-0000-4000-8000-000000000001",
+        "audiences": [
+          "tourist",
+          "student",
+          "ssw",
+          "professional",
+          "resident"
+        ],
+        "stages": [
+          "before"
+        ],
+        "source_id": "d8020000-0000-4000-8000-000000000007",
+        "review_status": "draft",
+        "published": false,
+        "updated_at": "2026-10-25T00:00:00Z"
+      },
+      {
+        "id": "d80b0000-0000-4000-8000-000000000002",
+        "title": "Arrival checklist",
+        "title_ja": "来日直後の確認",
+        "guide_category_id": "d8010000-0000-4000-8000-000000000002",
+        "audiences": [
+          "student",
+          "ssw",
+          "professional",
+          "resident"
+        ],
+        "stages": [
+          "arriving"
+        ],
+        "source_id": "d8020000-0000-4000-8000-000000000001",
+        "review_status": "draft",
+        "published": false,
+        "updated_at": "2026-10-25T00:00:00Z"
+      },
+      {
+        "id": "d80b0000-0000-4000-8000-000000000003",
+        "title": "Municipal procedures",
+        "title_ja": "自治体の手続き",
+        "guide_category_id": "d8010000-0000-4000-8000-000000000002",
+        "audiences": [
+          "student",
+          "ssw",
+          "professional",
+          "resident"
+        ],
+        "stages": [
+          "arriving",
+          "settling"
+        ],
+        "source_id": "d8020000-0000-4000-8000-000000000001",
+        "review_status": "draft",
+        "published": false,
+        "updated_at": "2026-10-25T00:00:00Z"
+      },
+      {
+        "id": "d80b0000-0000-4000-8000-000000000004",
+        "title": "School or employment onboarding",
+        "title_ja": "学校や職場での案内",
+        "guide_category_id": "d8010000-0000-4000-8000-000000000008",
+        "audiences": [
+          "student",
+          "ssw",
+          "professional"
+        ],
+        "stages": [
+          "before",
+          "arriving",
+          "settling"
+        ],
+        "source_id": "d8020000-0000-4000-8000-000000000002",
+        "review_status": "draft",
+        "published": false,
+        "updated_at": "2026-10-25T00:00:00Z"
+      },
+      {
+        "id": "d80b0000-0000-4000-8000-000000000005",
+        "title": "Housing arrangements",
+        "title_ja": "住まいの準備",
+        "guide_category_id": "d8010000-0000-4000-8000-000000000004",
+        "audiences": [
+          "tourist",
+          "student",
+          "ssw",
+          "professional",
+          "resident"
+        ],
+        "stages": [
+          "before",
+          "arriving",
+          "settling"
+        ],
+        "source_id": "d8020000-0000-4000-8000-000000000004",
+        "review_status": "draft",
+        "published": false,
+        "updated_at": "2026-10-25T00:00:00Z"
+      },
+      {
+        "id": "d80b0000-0000-4000-8000-000000000006",
+        "title": "Banking and mobile service",
+        "title_ja": "銀行と携帯電話",
+        "guide_category_id": "d8010000-0000-4000-8000-000000000005",
+        "audiences": [
+          "tourist",
+          "student",
+          "ssw",
+          "professional",
+          "resident"
+        ],
+        "stages": [
+          "before",
+          "arriving",
+          "settling"
+        ],
+        "source_id": "d8020000-0000-4000-8000-000000000002",
+        "review_status": "draft",
+        "published": false,
+        "updated_at": "2026-10-25T00:00:00Z"
+      },
+      {
+        "id": "d80b0000-0000-4000-8000-000000000007",
+        "title": "Insurance and pension preparation",
+        "title_ja": "保険と年金の準備",
+        "guide_category_id": "d8010000-0000-4000-8000-000000000005",
+        "audiences": [
+          "student",
+          "ssw",
+          "professional",
+          "resident"
+        ],
+        "stages": [
+          "before",
+          "arriving",
+          "settling"
+        ],
+        "source_id": "d8020000-0000-4000-8000-000000000002",
+        "review_status": "draft",
+        "published": false,
+        "updated_at": "2026-10-25T00:00:00Z"
+      },
+      {
+        "id": "d80b0000-0000-4000-8000-000000000008",
+        "title": "Transport and daily life",
+        "title_ja": "交通と日常生活",
+        "guide_category_id": "d8010000-0000-4000-8000-000000000007",
+        "audiences": [
+          "tourist",
+          "student",
+          "ssw",
+          "professional",
+          "resident"
+        ],
+        "stages": [
+          "before",
+          "arriving",
+          "settling"
+        ],
+        "source_id": "d8020000-0000-4000-8000-000000000007",
+        "review_status": "draft",
+        "published": false,
+        "updated_at": "2026-10-25T00:00:00Z"
+      },
+      {
+        "id": "d80b0000-0000-4000-8000-000000000009",
+        "title": "Workplace safety orientation",
+        "title_ja": "職場の安全研修",
+        "guide_category_id": "d8010000-0000-4000-8000-000000000008",
+        "audiences": [
+          "ssw",
+          "professional"
+        ],
+        "stages": [
+          "before",
+          "arriving",
+          "settling"
+        ],
+        "source_id": "d8020000-0000-4000-8000-000000000002",
+        "review_status": "draft",
+        "published": false,
+        "updated_at": "2026-10-25T00:00:00Z"
+      }
+    ],
+    "items": [
+      {
+        "id": "d80c0000-0000-4000-8000-000000000001",
+        "template_id": "d80b0000-0000-4000-8000-000000000001",
+        "title": "Keep your booking details and a way to contact your accommodation offline.",
+        "title_ja": "予約の内容と宿泊先への連絡方法を、通信がなくても見られるようにします。",
+        "note": "Personal planning reminder. Confirm whether any official procedure applies to your circumstances; checking this box does not establish legal compliance.",
+        "note_ja": "個人の準備メモです。該当する公式な手続きは担当者に確認してください。チェックしても法令上の義務を満たしたことにはなりません。",
+        "kind": "suggestion",
+        "circumstance": "all",
+        "audiences": [
+          "tourist",
+          "student",
+          "ssw",
+          "professional",
+          "resident"
+        ],
+        "position": 0,
+        "guide_id": "d8030000-0000-4000-8000-000000000001"
+      },
+      {
+        "id": "d80c0000-0000-4000-8000-000000000002",
+        "template_id": "d80b0000-0000-4000-8000-000000000001",
+        "title": "Plan your airport-to-accommodation journey and a backup if transport changes.",
+        "title_ja": "空港から宿泊先までの移動と、交通が変わった場合の代案を考えます。",
+        "note": "Personal planning reminder. Confirm whether any official procedure applies to your circumstances; checking this box does not establish legal compliance.",
+        "note_ja": "個人の準備メモです。該当する公式な手続きは担当者に確認してください。チェックしても法令上の義務を満たしたことにはなりません。",
+        "kind": "suggestion",
+        "circumstance": "all",
+        "audiences": [
+          "tourist",
+          "student",
+          "ssw",
+          "professional",
+          "resident"
+        ],
+        "position": 1,
+        "guide_id": "d8030000-0000-4000-8000-000000000001"
+      },
+      {
+        "id": "d80c0000-0000-4000-8000-000000000003",
+        "template_id": "d80b0000-0000-4000-8000-000000000001",
+        "title": "Check the official entry guidance for your own nationality and purpose; ask the appropriate authority if uncertain.",
+        "title_ja": "国籍と目的に合う入国案内を公式機関で確認し、不明な点を問い合わせます。",
+        "note": "Personal planning reminder. Confirm whether any official procedure applies to your circumstances; checking this box does not establish legal compliance.",
+        "note_ja": "個人の準備メモです。該当する公式な手続きは担当者に確認してください。チェックしても法令上の義務を満たしたことにはなりません。",
+        "kind": "suggestion",
+        "circumstance": "all",
+        "audiences": [
+          "tourist",
+          "student",
+          "ssw",
+          "professional",
+          "resident"
+        ],
+        "position": 2,
+        "guide_id": "d8030000-0000-4000-8000-000000000001"
+      },
+      {
+        "id": "d80c0000-0000-4000-8000-000000000004",
+        "template_id": "d80b0000-0000-4000-8000-000000000002",
+        "title": "Confirm your accommodation contact and arrival arrangements.",
+        "title_ja": "宿泊先の連絡先と到着時の案内を確認します。",
+        "note": "Personal planning reminder. Confirm whether any official procedure applies to your circumstances; checking this box does not establish legal compliance.",
+        "note_ja": "個人の準備メモです。該当する公式な手続きは担当者に確認してください。チェックしても法令上の義務を満たしたことにはなりません。",
+        "kind": "suggestion",
+        "circumstance": "all",
+        "audiences": [
+          "student",
+          "ssw",
+          "professional",
+          "resident"
+        ],
+        "position": 0,
+        "guide_id": "d8030000-0000-4000-8000-000000000002"
+      },
+      {
+        "id": "d80c0000-0000-4000-8000-000000000005",
+        "template_id": "d80b0000-0000-4000-8000-000000000002",
+        "title": "Check the route from your arrival point to your accommodation.",
+        "title_ja": "到着地点から宿泊先までの経路を確認します。",
+        "note": "Personal planning reminder. Confirm whether any official procedure applies to your circumstances; checking this box does not establish legal compliance.",
+        "note_ja": "個人の準備メモです。該当する公式な手続きは担当者に確認してください。チェックしても法令上の義務を満たしたことにはなりません。",
+        "kind": "suggestion",
+        "circumstance": "all",
+        "audiences": [
+          "student",
+          "ssw",
+          "professional",
+          "resident"
+        ],
+        "position": 1,
+        "guide_id": "d8030000-0000-4000-8000-000000000002"
+      },
+      {
+        "id": "d80c0000-0000-4000-8000-000000000006",
+        "template_id": "d80b0000-0000-4000-8000-000000000002",
+        "title": "Ask your school or employer about the first orientation contact.",
+        "title_ja": "学校や勤務先に最初の案内の連絡先を尋ねます。",
+        "note": "Personal planning reminder. Confirm whether any official procedure applies to your circumstances; checking this box does not establish legal compliance.",
+        "note_ja": "個人の準備メモです。該当する公式な手続きは担当者に確認してください。チェックしても法令上の義務を満たしたことにはなりません。",
+        "kind": "suggestion",
+        "circumstance": "all",
+        "audiences": [
+          "student",
+          "ssw",
+          "professional",
+          "resident"
+        ],
+        "position": 2,
+        "guide_id": "d8030000-0000-4000-8000-000000000002"
+      },
+      {
+        "id": "d80c0000-0000-4000-8000-000000000007",
+        "template_id": "d80b0000-0000-4000-8000-000000000003",
+        "title": "Find your municipality's official office information and language support.",
+        "title_ja": "住む自治体の公式な窓口情報と通訳などの支援を調べます。",
+        "note": "Personal planning reminder. Confirm whether any official procedure applies to your circumstances; checking this box does not establish legal compliance.",
+        "note_ja": "個人の準備メモです。該当する公式な手続きは担当者に確認してください。チェックしても法令上の義務を満たしたことにはなりません。",
+        "kind": "municipal",
+        "circumstance": "all",
+        "audiences": [
+          "student",
+          "ssw",
+          "professional",
+          "resident"
+        ],
+        "position": 0,
+        "guide_id": "d8030000-0000-4000-8000-000000000002"
+      },
+      {
+        "id": "d80c0000-0000-4000-8000-000000000008",
+        "template_id": "d80b0000-0000-4000-8000-000000000003",
+        "title": "Explain your arrival and living situation without assuming every procedure applies.",
+        "title_ja": "来日や生活の状況を説明します。すべての手続きが必要とは限りません。",
+        "note": "Personal planning reminder. Confirm whether any official procedure applies to your circumstances; checking this box does not establish legal compliance.",
+        "note_ja": "個人の準備メモです。該当する公式な手続きは担当者に確認してください。チェックしても法令上の義務を満たしたことにはなりません。",
+        "kind": "municipal",
+        "circumstance": "all",
+        "audiences": [
+          "student",
+          "ssw",
+          "professional",
+          "resident"
+        ],
+        "position": 1,
+        "guide_id": "d8030000-0000-4000-8000-000000000002"
+      },
+      {
+        "id": "d80c0000-0000-4000-8000-000000000009",
+        "template_id": "d80b0000-0000-4000-8000-000000000003",
+        "title": "Ask staff to confirm the documents, appointment arrangements and any applicable deadline before you leave.",
+        "title_ja": "必要な書類、予約の要否、該当する期限を担当者に確認します。",
+        "note": "Personal planning reminder. Confirm whether any official procedure applies to your circumstances; checking this box does not establish legal compliance.",
+        "note_ja": "個人の準備メモです。該当する公式な手続きは担当者に確認してください。チェックしても法令上の義務を満たしたことにはなりません。",
+        "kind": "municipal",
+        "circumstance": "all",
+        "audiences": [
+          "student",
+          "ssw",
+          "professional",
+          "resident"
+        ],
+        "position": 2,
+        "guide_id": "d8030000-0000-4000-8000-000000000002"
+      },
+      {
+        "id": "d80c0000-0000-4000-8000-000000000010",
+        "template_id": "d80b0000-0000-4000-8000-000000000004",
+        "title": "Ask your school's international office about its orientation schedule.",
+        "title_ja": "学校の留学生担当窓口に、オリエンテーションの日程を尋ねます。",
+        "note": "Personal planning reminder. Confirm whether any official procedure applies to your circumstances; checking this box does not establish legal compliance.",
+        "note_ja": "個人の準備メモです。該当する公式な手続きは担当者に確認してください。チェックしても法令上の義務を満たしたことにはなりません。",
+        "kind": "suggestion",
+        "circumstance": "all",
+        "audiences": [
+          "student"
+        ],
+        "position": 0,
+        "guide_id": null
+      },
+      {
+        "id": "d80c0000-0000-4000-8000-000000000011",
+        "template_id": "d80b0000-0000-4000-8000-000000000004",
+        "title": "Ask your employer who provides induction and language support.",
+        "title_ja": "勤務先に、研修と言語支援の担当者を確認します。",
+        "note": "Personal planning reminder. Confirm whether any official procedure applies to your circumstances; checking this box does not establish legal compliance.",
+        "note_ja": "個人の準備メモです。該当する公式な手続きは担当者に確認してください。チェックしても法令上の義務を満たしたことにはなりません。",
+        "kind": "suggestion",
+        "circumstance": "all",
+        "audiences": [
+          "ssw",
+          "professional"
+        ],
+        "position": 1,
+        "guide_id": "d8030000-0000-4000-8000-000000000008"
+      },
+      {
+        "id": "d80c0000-0000-4000-8000-000000000012",
+        "template_id": "d80b0000-0000-4000-8000-000000000004",
+        "title": "Prepare questions and confirm your school or employer's own instructions.",
+        "title_ja": "質問を準備し、学校や勤務先の案内を確認します。",
+        "note": "Personal planning reminder. Confirm whether any official procedure applies to your circumstances; checking this box does not establish legal compliance.",
+        "note_ja": "個人の準備メモです。該当する公式な手続きは担当者に確認してください。チェックしても法令上の義務を満たしたことにはなりません。",
+        "kind": "suggestion",
+        "circumstance": "all",
+        "audiences": [
+          "student",
+          "ssw",
+          "professional"
+        ],
+        "position": 2,
+        "guide_id": "d8030000-0000-4000-8000-000000000008"
+      },
+      {
+        "id": "d80c0000-0000-4000-8000-000000000013",
+        "template_id": "d80b0000-0000-4000-8000-000000000005",
+        "title": "Ask your school, accommodation contact or agent about available housing and support.",
+        "title_ja": "学校、宿泊先の担当者、不動産会社に住まいや支援について尋ねます。",
+        "note": "Personal planning reminder. Confirm whether any official procedure applies to your circumstances; checking this box does not establish legal compliance.",
+        "note_ja": "個人の準備メモです。該当する公式な手続きは担当者に確認してください。チェックしても法令上の義務を満たしたことにはなりません。",
+        "kind": "suggestion",
+        "circumstance": "renting",
+        "audiences": [
+          "tourist",
+          "student",
+          "ssw",
+          "professional",
+          "resident"
+        ],
+        "position": 0,
+        "guide_id": "d8030000-0000-4000-8000-000000000004"
+      },
+      {
+        "id": "d80c0000-0000-4000-8000-000000000014",
+        "template_id": "d80b0000-0000-4000-8000-000000000005",
+        "title": "Request a clear explanation of your actual contract, charges, house rules and move-in condition record before agreeing.",
+        "title_ja": "同意する前に、自分の契約、費用、建物のルール、入居時の状態確認を説明してもらいます。",
+        "note": "Personal planning reminder. Confirm whether any official procedure applies to your circumstances; checking this box does not establish legal compliance.",
+        "note_ja": "個人の準備メモです。該当する公式な手続きは担当者に確認してください。チェックしても法令上の義務を満たしたことにはなりません。",
+        "kind": "suggestion",
+        "circumstance": "renting",
+        "audiences": [
+          "tourist",
+          "student",
+          "ssw",
+          "professional",
+          "resident"
+        ],
+        "position": 1,
+        "guide_id": "d8030000-0000-4000-8000-000000000004"
+      },
+      {
+        "id": "d80c0000-0000-4000-8000-000000000015",
+        "template_id": "d80b0000-0000-4000-8000-000000000005",
+        "title": "Confirm who arranges electricity, gas, water and internet, and which appointments or identification the provider requires.",
+        "title_ja": "電気・ガス・水道・インターネットを誰が手配するか、予約や本人確認の要件を確認します。",
+        "note": "Personal planning reminder. Confirm whether any official procedure applies to your circumstances; checking this box does not establish legal compliance.",
+        "note_ja": "個人の準備メモです。該当する公式な手続きは担当者に確認してください。チェックしても法令上の義務を満たしたことにはなりません。",
+        "kind": "suggestion",
+        "circumstance": "renting",
+        "audiences": [
+          "tourist",
+          "student",
+          "ssw",
+          "professional",
+          "resident"
+        ],
+        "position": 2,
+        "guide_id": "d8030000-0000-4000-8000-000000000004"
+      },
+      {
+        "id": "d80c0000-0000-4000-8000-000000000016",
+        "template_id": "d80b0000-0000-4000-8000-000000000006",
+        "title": "Ask the bank or mobile provider which services and identity checks fit your circumstances; requirements differ.",
+        "title_ja": "銀行や携帯電話会社に、自分の状況で利用できるサービスと本人確認を尋ねます。要件は異なります。",
+        "note": "Personal planning reminder. Confirm whether any official procedure applies to your circumstances; checking this box does not establish legal compliance.",
+        "note_ja": "個人の準備メモです。該当する公式な手続きは担当者に確認してください。チェックしても法令上の義務を満たしたことにはなりません。",
+        "kind": "law",
+        "circumstance": "banking",
+        "audiences": [
+          "tourist",
+          "student",
+          "ssw",
+          "professional",
+          "resident"
+        ],
+        "position": 0,
+        "guide_id": "d8030000-0000-4000-8000-000000000005"
+      },
+      {
+        "id": "d80c0000-0000-4000-8000-000000000017",
+        "template_id": "d80b0000-0000-4000-8000-000000000006",
+        "title": "Ask your employer or municipal office which health insurance and pension arrangements apply to you.",
+        "title_ja": "勤務先や自治体に、自分に該当する医療保険や年金の手続きを確認します。",
+        "note": "Personal planning reminder. Confirm whether any official procedure applies to your circumstances; checking this box does not establish legal compliance.",
+        "note_ja": "個人の準備メモです。該当する公式な手続きは担当者に確認してください。チェックしても法令上の義務を満たしたことにはなりません。",
+        "kind": "law",
+        "circumstance": "banking",
+        "audiences": [
+          "tourist",
+          "student",
+          "ssw",
+          "professional",
+          "resident"
+        ],
+        "position": 1,
+        "guide_id": "d8030000-0000-4000-8000-000000000005"
+      },
+      {
+        "id": "d80c0000-0000-4000-8000-000000000018",
+        "template_id": "d80b0000-0000-4000-8000-000000000006",
+        "title": "Keep a private reminder to ask the responsible tax office about any notice or deadline you do not understand. Do not upload financial documents here.",
+        "title_ja": "分からない税の通知や期限は担当窓口に尋ねる予定を記録します。金融関係の書類をこのサイトに送らないでください。",
+        "note": "Personal planning reminder. Confirm whether any official procedure applies to your circumstances; checking this box does not establish legal compliance.",
+        "note_ja": "個人の準備メモです。該当する公式な手続きは担当者に確認してください。チェックしても法令上の義務を満たしたことにはなりません。",
+        "kind": "law",
+        "circumstance": "banking",
+        "audiences": [
+          "tourist",
+          "student",
+          "ssw",
+          "professional",
+          "resident"
+        ],
+        "position": 2,
+        "guide_id": "d8030000-0000-4000-8000-000000000005"
+      },
+      {
+        "id": "d80c0000-0000-4000-8000-000000000019",
+        "template_id": "d80b0000-0000-4000-8000-000000000007",
+        "title": "Ask which health-insurance arrangements apply to your circumstances.",
+        "title_ja": "自分に該当する医療保険の取り扱いを担当者に確認します。",
+        "note": "Personal planning reminder. Confirm whether any official procedure applies to your circumstances; checking this box does not establish legal compliance.",
+        "note_ja": "個人の準備メモです。該当する公式な手続きは担当者に確認してください。チェックしても法令上の義務を満たしたことにはなりません。",
+        "kind": "suggestion",
+        "circumstance": "all",
+        "audiences": [
+          "student",
+          "ssw",
+          "professional",
+          "resident"
+        ],
+        "position": 0,
+        "guide_id": "d8030000-0000-4000-8000-000000000005"
+      },
+      {
+        "id": "d80c0000-0000-4000-8000-000000000020",
+        "template_id": "d80b0000-0000-4000-8000-000000000007",
+        "title": "Ask the responsible pension contact whether any procedure applies to you.",
+        "title_ja": "年金の担当窓口に、自分に必要な手続きがあるか尋ねます。",
+        "note": "Personal planning reminder. Confirm whether any official procedure applies to your circumstances; checking this box does not establish legal compliance.",
+        "note_ja": "個人の準備メモです。該当する公式な手続きは担当者に確認してください。チェックしても法令上の義務を満たしたことにはなりません。",
+        "kind": "suggestion",
+        "circumstance": "all",
+        "audiences": [
+          "student",
+          "ssw",
+          "professional",
+          "resident"
+        ],
+        "position": 1,
+        "guide_id": "d8030000-0000-4000-8000-000000000005"
+      },
+      {
+        "id": "d80c0000-0000-4000-8000-000000000021",
+        "template_id": "d80b0000-0000-4000-8000-000000000007",
+        "title": "Record a personal reminder to follow the responsible office's instructions.",
+        "title_ja": "担当窓口の案内を確認するため、個人の予定を記録します。",
+        "note": "Personal planning reminder. Confirm whether any official procedure applies to your circumstances; checking this box does not establish legal compliance.",
+        "note_ja": "個人の準備メモです。該当する公式な手続きは担当者に確認してください。チェックしても法令上の義務を満たしたことにはなりません。",
+        "kind": "suggestion",
+        "circumstance": "all",
+        "audiences": [
+          "student",
+          "ssw",
+          "professional",
+          "resident"
+        ],
+        "position": 2,
+        "guide_id": "d8030000-0000-4000-8000-000000000005"
+      },
+      {
+        "id": "d80c0000-0000-4000-8000-000000000022",
+        "template_id": "d80b0000-0000-4000-8000-000000000008",
+        "title": "Check your destination, route and last connection with the transport operator.",
+        "title_ja": "目的地、経路、最終の乗り継ぎを交通機関の案内で確認します。",
+        "note": "Personal planning reminder. Confirm whether any official procedure applies to your circumstances; checking this box does not establish legal compliance.",
+        "note_ja": "個人の準備メモです。該当する公式な手続きは担当者に確認してください。チェックしても法令上の義務を満たしたことにはなりません。",
+        "kind": "culture",
+        "circumstance": "all",
+        "audiences": [
+          "tourist",
+          "student",
+          "ssw",
+          "professional",
+          "resident"
+        ],
+        "position": 0,
+        "guide_id": "d8030000-0000-4000-8000-000000000007"
+      },
+      {
+        "id": "d80c0000-0000-4000-8000-000000000023",
+        "template_id": "d80b0000-0000-4000-8000-000000000008",
+        "title": "Follow posted boarding directions, keep access clear and ask staff if a sign is unclear.",
+        "title_ja": "乗車の案内に従い、通路をふさがず、分からない表示は係員に尋ねます。",
+        "note": "Personal planning reminder. Confirm whether any official procedure applies to your circumstances; checking this box does not establish legal compliance.",
+        "note_ja": "個人の準備メモです。該当する公式な手続きは担当者に確認してください。チェックしても法令上の義務を満たしたことにはなりません。",
+        "kind": "culture",
+        "circumstance": "all",
+        "audiences": [
+          "tourist",
+          "student",
+          "ssw",
+          "professional",
+          "resident"
+        ],
+        "position": 1,
+        "guide_id": "d8030000-0000-4000-8000-000000000007"
+      },
+      {
+        "id": "d80c0000-0000-4000-8000-000000000024",
+        "template_id": "d80b0000-0000-4000-8000-000000000008",
+        "title": "For walking or cycling, check current official road rules and local signs. Etiquette suggestions are different from traffic laws.",
+        "title_ja": "徒歩や自転車では、現在の公式の交通ルールと現地の標識を確認します。マナーと法律は区別します。",
+        "note": "Personal planning reminder. Confirm whether any official procedure applies to your circumstances; checking this box does not establish legal compliance.",
+        "note_ja": "個人の準備メモです。該当する公式な手続きは担当者に確認してください。チェックしても法令上の義務を満たしたことにはなりません。",
+        "kind": "culture",
+        "circumstance": "all",
+        "audiences": [
+          "tourist",
+          "student",
+          "ssw",
+          "professional",
+          "resident"
+        ],
+        "position": 2,
+        "guide_id": "d8030000-0000-4000-8000-000000000007"
+      },
+      {
+        "id": "d80c0000-0000-4000-8000-000000000025",
+        "template_id": "d80b0000-0000-4000-8000-000000000009",
+        "title": "Ask your supervisor who provides induction, language support and task-specific safety training.",
+        "title_ja": "研修、言語支援、作業に必要な安全教育の担当者を上司に確認します。",
+        "note": "Personal planning reminder. Confirm whether any official procedure applies to your circumstances; checking this box does not establish legal compliance.",
+        "note_ja": "個人の準備メモです。該当する公式な手続きは担当者に確認してください。チェックしても法令上の義務を満たしたことにはなりません。",
+        "kind": "workplace",
+        "circumstance": "all",
+        "audiences": [
+          "ssw",
+          "professional"
+        ],
+        "position": 0,
+        "guide_id": "d8030000-0000-4000-8000-000000000008"
+      },
+      {
+        "id": "d80c0000-0000-4000-8000-000000000026",
+        "template_id": "d80b0000-0000-4000-8000-000000000009",
+        "title": "Before unfamiliar work, ask for a demonstration and check your understanding with the qualified person responsible.",
+        "title_ja": "初めての作業では、担当の有資格者などに実演を求め、理解が合っているか確かめます。",
+        "note": "Personal planning reminder. Confirm whether any official procedure applies to your circumstances; checking this box does not establish legal compliance.",
+        "note_ja": "個人の準備メモです。該当する公式な手続きは担当者に確認してください。チェックしても法令上の義務を満たしたことにはなりません。",
+        "kind": "workplace",
+        "circumstance": "all",
+        "audiences": [
+          "ssw",
+          "professional"
+        ],
+        "position": 1,
+        "guide_id": "d8030000-0000-4000-8000-000000000008"
+      },
+      {
+        "id": "d80c0000-0000-4000-8000-000000000027",
+        "template_id": "d80b0000-0000-4000-8000-000000000009",
+        "title": "Find the reporting route for uncertainty or a concern. These language exercises are not safety certification or permission to operate equipment.",
+        "title_ja": "不明点や心配なことの報告先を調べます。この日本語練習は安全資格や機械の操作許可ではありません。",
+        "note": "Personal planning reminder. Confirm whether any official procedure applies to your circumstances; checking this box does not establish legal compliance.",
+        "note_ja": "個人の準備メモです。該当する公式な手続きは担当者に確認してください。チェックしても法令上の義務を満たしたことにはなりません。",
+        "kind": "workplace",
+        "circumstance": "all",
+        "audiences": [
+          "ssw",
+          "professional"
+        ],
+        "position": 2,
+        "guide_id": "d8030000-0000-4000-8000-000000000008"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "id": "d8070000-0000-4000-8000-000000000001",
+      "vocabularyId": "d8080000-0000-4000-8000-000000000001",
+      "deckId": "d8040000-0000-4000-8000-000000000001",
+      "level": "japan-life",
+      "programLabel": "Japan Life Guide",
+      "category": "Prepare a calmer arrival",
+      "term": "予約",
+      "reading": "よやく",
+      "translations": {
+        "en": "Reservation",
+        "ja": "予約"
+      },
+      "example": "「予約」について確認したいです。",
+      "exampleTranslation": "I would like to ask about reservation."
+    },
+    {
+      "id": "d8070000-0000-4000-8000-000000000002",
+      "vocabularyId": "d8080000-0000-4000-8000-000000000002",
+      "deckId": "d8040000-0000-4000-8000-000000000001",
+      "level": "japan-life",
+      "programLabel": "Japan Life Guide",
+      "category": "Prepare a calmer arrival",
+      "term": "到着",
+      "reading": "とうちゃく",
+      "translations": {
+        "en": "Arrival",
+        "ja": "到着"
+      },
+      "example": "「到着」について確認したいです。",
+      "exampleTranslation": "I would like to ask about arrival."
+    },
+    {
+      "id": "d8070000-0000-4000-8000-000000000003",
+      "vocabularyId": "d8080000-0000-4000-8000-000000000003",
+      "deckId": "d8040000-0000-4000-8000-000000000001",
+      "level": "japan-life",
+      "programLabel": "Japan Life Guide",
+      "category": "Prepare a calmer arrival",
+      "term": "連絡先",
+      "reading": "れんらくさき",
+      "translations": {
+        "en": "Contact details",
+        "ja": "連絡先"
+      },
+      "example": "「連絡先」について確認したいです。",
+      "exampleTranslation": "I would like to ask about contact details."
+    },
+    {
+      "id": "d8070000-0000-4000-8000-000000000004",
+      "vocabularyId": "d8080000-0000-4000-8000-000000000004",
+      "deckId": "d8040000-0000-4000-8000-000000000002",
+      "level": "japan-life",
+      "programLabel": "Japan Life Guide",
+      "category": "Plan your first city-hall visit",
+      "term": "市役所",
+      "reading": "しやくしょ",
+      "translations": {
+        "en": "City hall",
+        "ja": "市役所"
+      },
+      "example": "「市役所」について確認したいです。",
+      "exampleTranslation": "I would like to ask about city hall."
+    },
+    {
+      "id": "d8070000-0000-4000-8000-000000000005",
+      "vocabularyId": "d8080000-0000-4000-8000-000000000005",
+      "deckId": "d8040000-0000-4000-8000-000000000002",
+      "level": "japan-life",
+      "programLabel": "Japan Life Guide",
+      "category": "Plan your first city-hall visit",
+      "term": "住所",
+      "reading": "じゅうしょ",
+      "translations": {
+        "en": "Address",
+        "ja": "住所"
+      },
+      "example": "「住所」について確認したいです。",
+      "exampleTranslation": "I would like to ask about address."
+    },
+    {
+      "id": "d8070000-0000-4000-8000-000000000006",
+      "vocabularyId": "d8080000-0000-4000-8000-000000000006",
+      "deckId": "d8040000-0000-4000-8000-000000000002",
+      "level": "japan-life",
+      "programLabel": "Japan Life Guide",
+      "category": "Plan your first city-hall visit",
+      "term": "窓口",
+      "reading": "まどぐち",
+      "translations": {
+        "en": "Service counter",
+        "ja": "窓口"
+      },
+      "example": "「窓口」について確認したいです。",
+      "exampleTranslation": "I would like to ask about service counter."
+    },
+    {
+      "id": "d8070000-0000-4000-8000-000000000007",
+      "vocabularyId": "d8080000-0000-4000-8000-000000000007",
+      "deckId": "d8040000-0000-4000-8000-000000000003",
+      "level": "japan-life",
+      "programLabel": "Japan Life Guide",
+      "category": "Confirm your document requirements",
+      "term": "書類",
+      "reading": "しょるい",
+      "translations": {
+        "en": "Documents",
+        "ja": "書類"
+      },
+      "example": "「書類」について確認したいです。",
+      "exampleTranslation": "I would like to ask about documents."
+    },
+    {
+      "id": "d8070000-0000-4000-8000-000000000008",
+      "vocabularyId": "d8080000-0000-4000-8000-000000000008",
+      "deckId": "d8040000-0000-4000-8000-000000000003",
+      "level": "japan-life",
+      "programLabel": "Japan Life Guide",
+      "category": "Confirm your document requirements",
+      "term": "申請",
+      "reading": "しんせい",
+      "translations": {
+        "en": "Application",
+        "ja": "申請"
+      },
+      "example": "「申請」について確認したいです。",
+      "exampleTranslation": "I would like to ask about application."
+    },
+    {
+      "id": "d8070000-0000-4000-8000-000000000009",
+      "vocabularyId": "d8080000-0000-4000-8000-000000000009",
+      "deckId": "d8040000-0000-4000-8000-000000000003",
+      "level": "japan-life",
+      "programLabel": "Japan Life Guide",
+      "category": "Confirm your document requirements",
+      "term": "確認",
+      "reading": "かくにん",
+      "translations": {
+        "en": "Confirmation",
+        "ja": "確認"
+      },
+      "example": "「確認」について確認したいです。",
+      "exampleTranslation": "I would like to ask about confirmation."
+    },
+    {
+      "id": "d8070000-0000-4000-8000-000000000010",
+      "vocabularyId": "d8080000-0000-4000-8000-000000000010",
+      "deckId": "d8040000-0000-4000-8000-000000000004",
+      "level": "japan-life",
+      "programLabel": "Japan Life Guide",
+      "category": "Understand your housing arrangements",
+      "term": "家賃",
+      "reading": "やちん",
+      "translations": {
+        "en": "Rent",
+        "ja": "家賃"
+      },
+      "example": "「家賃」について確認したいです。",
+      "exampleTranslation": "I would like to ask about rent."
+    },
+    {
+      "id": "d8070000-0000-4000-8000-000000000011",
+      "vocabularyId": "d8080000-0000-4000-8000-000000000011",
+      "deckId": "d8040000-0000-4000-8000-000000000004",
+      "level": "japan-life",
+      "programLabel": "Japan Life Guide",
+      "category": "Understand your housing arrangements",
+      "term": "契約",
+      "reading": "けいやく",
+      "translations": {
+        "en": "Contract",
+        "ja": "契約"
+      },
+      "example": "「契約」について確認したいです。",
+      "exampleTranslation": "I would like to ask about contract."
+    },
+    {
+      "id": "d8070000-0000-4000-8000-000000000012",
+      "vocabularyId": "d8080000-0000-4000-8000-000000000012",
+      "deckId": "d8040000-0000-4000-8000-000000000004",
+      "level": "japan-life",
+      "programLabel": "Japan Life Guide",
+      "category": "Understand your housing arrangements",
+      "term": "水道",
+      "reading": "すいどう",
+      "translations": {
+        "en": "Water service",
+        "ja": "水道"
+      },
+      "example": "「水道」について確認したいです。",
+      "exampleTranslation": "I would like to ask about water service."
+    },
+    {
+      "id": "d8070000-0000-4000-8000-000000000013",
+      "vocabularyId": "d8080000-0000-4000-8000-000000000013",
+      "deckId": "d8040000-0000-4000-8000-000000000005",
+      "level": "japan-life",
+      "programLabel": "Japan Life Guide",
+      "category": "Organise money and insurance questions",
+      "term": "口座",
+      "reading": "こうざ",
+      "translations": {
+        "en": "Bank account",
+        "ja": "口座"
+      },
+      "example": "「口座」について確認したいです。",
+      "exampleTranslation": "I would like to ask about bank account."
+    },
+    {
+      "id": "d8070000-0000-4000-8000-000000000014",
+      "vocabularyId": "d8080000-0000-4000-8000-000000000014",
+      "deckId": "d8040000-0000-4000-8000-000000000005",
+      "level": "japan-life",
+      "programLabel": "Japan Life Guide",
+      "category": "Organise money and insurance questions",
+      "term": "保険",
+      "reading": "ほけん",
+      "translations": {
+        "en": "Insurance",
+        "ja": "保険"
+      },
+      "example": "「保険」について確認したいです。",
+      "exampleTranslation": "I would like to ask about insurance."
+    },
+    {
+      "id": "d8070000-0000-4000-8000-000000000015",
+      "vocabularyId": "d8080000-0000-4000-8000-000000000015",
+      "deckId": "d8040000-0000-4000-8000-000000000005",
+      "level": "japan-life",
+      "programLabel": "Japan Life Guide",
+      "category": "Organise money and insurance questions",
+      "term": "年金",
+      "reading": "ねんきん",
+      "translations": {
+        "en": "Pension",
+        "ja": "年金"
+      },
+      "example": "「年金」について確認したいです。",
+      "exampleTranslation": "I would like to ask about pension."
+    },
+    {
+      "id": "d8070000-0000-4000-8000-000000000016",
+      "vocabularyId": "d8080000-0000-4000-8000-000000000016",
+      "deckId": "d8040000-0000-4000-8000-000000000006",
+      "level": "japan-life",
+      "programLabel": "Japan Life Guide",
+      "category": "Prepare for a clinic visit",
+      "term": "病院",
+      "reading": "びょういん",
+      "translations": {
+        "en": "Hospital",
+        "ja": "病院"
+      },
+      "example": "「病院」について確認したいです。",
+      "exampleTranslation": "I would like to ask about hospital."
+    },
+    {
+      "id": "d8070000-0000-4000-8000-000000000017",
+      "vocabularyId": "d8080000-0000-4000-8000-000000000017",
+      "deckId": "d8040000-0000-4000-8000-000000000006",
+      "level": "japan-life",
+      "programLabel": "Japan Life Guide",
+      "category": "Prepare for a clinic visit",
+      "term": "受付",
+      "reading": "うけつけ",
+      "translations": {
+        "en": "Reception",
+        "ja": "受付"
+      },
+      "example": "「受付」について確認したいです。",
+      "exampleTranslation": "I would like to ask about reception."
+    },
+    {
+      "id": "d8070000-0000-4000-8000-000000000018",
+      "vocabularyId": "d8080000-0000-4000-8000-000000000018",
+      "deckId": "d8040000-0000-4000-8000-000000000006",
+      "level": "japan-life",
+      "programLabel": "Japan Life Guide",
+      "category": "Prepare for a clinic visit",
+      "term": "予約",
+      "reading": "よやく",
+      "translations": {
+        "en": "Appointment",
+        "ja": "予約"
+      },
+      "example": "「予約」について確認したいです。",
+      "exampleTranslation": "I would like to ask about appointment."
+    },
+    {
+      "id": "d8070000-0000-4000-8000-000000000019",
+      "vocabularyId": "d8080000-0000-4000-8000-000000000019",
+      "deckId": "d8040000-0000-4000-8000-000000000007",
+      "level": "japan-life",
+      "programLabel": "Japan Life Guide",
+      "category": "Plan your daily journey",
+      "term": "駅",
+      "reading": "えき",
+      "translations": {
+        "en": "Station",
+        "ja": "駅"
+      },
+      "example": "「駅」について確認したいです。",
+      "exampleTranslation": "I would like to ask about station."
+    },
+    {
+      "id": "d8070000-0000-4000-8000-000000000020",
+      "vocabularyId": "d8080000-0000-4000-8000-000000000020",
+      "deckId": "d8040000-0000-4000-8000-000000000007",
+      "level": "japan-life",
+      "programLabel": "Japan Life Guide",
+      "category": "Plan your daily journey",
+      "term": "乗り換え",
+      "reading": "のりかえ",
+      "translations": {
+        "en": "Transfer",
+        "ja": "乗り換え"
+      },
+      "example": "「乗り換え」について確認したいです。",
+      "exampleTranslation": "I would like to ask about transfer."
+    },
+    {
+      "id": "d8070000-0000-4000-8000-000000000021",
+      "vocabularyId": "d8080000-0000-4000-8000-000000000021",
+      "deckId": "d8040000-0000-4000-8000-000000000007",
+      "level": "japan-life",
+      "programLabel": "Japan Life Guide",
+      "category": "Plan your daily journey",
+      "term": "出口",
+      "reading": "でぐち",
+      "translations": {
+        "en": "Exit",
+        "ja": "出口"
+      },
+      "example": "「出口」について確認したいです。",
+      "exampleTranslation": "I would like to ask about exit."
+    },
+    {
+      "id": "d8070000-0000-4000-8000-000000000022",
+      "vocabularyId": "d8080000-0000-4000-8000-000000000022",
+      "deckId": "d8040000-0000-4000-8000-000000000008",
+      "level": "japan-life",
+      "programLabel": "Japan Life Guide",
+      "category": "Get ready for workplace orientation",
+      "term": "安全",
+      "reading": "あんぜん",
+      "translations": {
+        "en": "Safety",
+        "ja": "安全"
+      },
+      "example": "「安全」について確認したいです。",
+      "exampleTranslation": "I would like to ask about safety."
+    },
+    {
+      "id": "d8070000-0000-4000-8000-000000000023",
+      "vocabularyId": "d8080000-0000-4000-8000-000000000023",
+      "deckId": "d8040000-0000-4000-8000-000000000008",
+      "level": "japan-life",
+      "programLabel": "Japan Life Guide",
+      "category": "Get ready for workplace orientation",
+      "term": "作業",
+      "reading": "さぎょう",
+      "translations": {
+        "en": "Task / work",
+        "ja": "作業"
+      },
+      "example": "「作業」について確認したいです。",
+      "exampleTranslation": "I would like to ask about task / work."
+    },
+    {
+      "id": "d8070000-0000-4000-8000-000000000024",
+      "vocabularyId": "d8080000-0000-4000-8000-000000000024",
+      "deckId": "d8040000-0000-4000-8000-000000000008",
+      "level": "japan-life",
+      "programLabel": "Japan Life Guide",
+      "category": "Get ready for workplace orientation",
+      "term": "報告",
+      "reading": "ほうこく",
+      "translations": {
+        "en": "Report",
+        "ja": "報告"
+      },
+      "example": "「報告」について確認したいです。",
+      "exampleTranslation": "I would like to ask about report."
+    },
+    {
+      "id": "d8070000-0000-4000-8000-000000000025",
+      "vocabularyId": "d8080000-0000-4000-8000-000000000025",
+      "deckId": "d8040000-0000-4000-8000-000000000009",
+      "level": "japan-life",
+      "programLabel": "Japan Life Guide",
+      "category": "Understand rules in context",
+      "term": "分別",
+      "reading": "ぶんべつ",
+      "translations": {
+        "en": "Sorting",
+        "ja": "分別"
+      },
+      "example": "「分別」について確認したいです。",
+      "exampleTranslation": "I would like to ask about sorting."
+    },
+    {
+      "id": "d8070000-0000-4000-8000-000000000026",
+      "vocabularyId": "d8080000-0000-4000-8000-000000000026",
+      "deckId": "d8040000-0000-4000-8000-000000000009",
+      "level": "japan-life",
+      "programLabel": "Japan Life Guide",
+      "category": "Understand rules in context",
+      "term": "挨拶",
+      "reading": "あいさつ",
+      "translations": {
+        "en": "Greeting",
+        "ja": "挨拶"
+      },
+      "example": "「挨拶」について確認したいです。",
+      "exampleTranslation": "I would like to ask about greeting."
+    },
+    {
+      "id": "d8070000-0000-4000-8000-000000000027",
+      "vocabularyId": "d8080000-0000-4000-8000-000000000027",
+      "deckId": "d8040000-0000-4000-8000-000000000009",
+      "level": "japan-life",
+      "programLabel": "Japan Life Guide",
+      "category": "Understand rules in context",
+      "term": "規則",
+      "reading": "きそく",
+      "translations": {
+        "en": "Rule",
+        "ja": "規則"
+      },
+      "example": "「規則」について確認したいです。",
+      "exampleTranslation": "I would like to ask about rule."
+    },
+    {
+      "id": "d8070000-0000-4000-8000-000000000028",
+      "vocabularyId": "d8080000-0000-4000-8000-000000000028",
+      "deckId": "d8040000-0000-4000-8000-000000000010",
+      "level": "japan-life",
+      "programLabel": "Japan Life Guide",
+      "category": "Prepare for emergencies and disruptions",
+      "term": "避難",
+      "reading": "ひなん",
+      "translations": {
+        "en": "Evacuation",
+        "ja": "避難"
+      },
+      "example": "「避難」について確認したいです。",
+      "exampleTranslation": "I would like to ask about evacuation."
+    },
+    {
+      "id": "d8070000-0000-4000-8000-000000000029",
+      "vocabularyId": "d8080000-0000-4000-8000-000000000029",
+      "deckId": "d8040000-0000-4000-8000-000000000010",
+      "level": "japan-life",
+      "programLabel": "Japan Life Guide",
+      "category": "Prepare for emergencies and disruptions",
+      "term": "地震",
+      "reading": "じしん",
+      "translations": {
+        "en": "Earthquake",
+        "ja": "地震"
+      },
+      "example": "「地震」について確認したいです。",
+      "exampleTranslation": "I would like to ask about earthquake."
+    },
+    {
+      "id": "d8070000-0000-4000-8000-000000000030",
+      "vocabularyId": "d8080000-0000-4000-8000-000000000030",
+      "deckId": "d8040000-0000-4000-8000-000000000010",
+      "level": "japan-life",
+      "programLabel": "Japan Life Guide",
+      "category": "Prepare for emergencies and disruptions",
+      "term": "案内",
+      "reading": "あんない",
+      "translations": {
+        "en": "Guidance",
+        "ja": "案内"
+      },
+      "example": "「案内」について確認したいです。",
+      "exampleTranslation": "I would like to ask about guidance."
+    }
+  ],
+  "banks": [
+    {
+      "id": "d8050000-0000-4000-8000-000000000001",
+      "articleId": "d8030000-0000-4000-8000-000000000001",
+      "title": "Prepare a calmer arrival · vocabulary",
+      "questions": [
+        {
+          "id": "d8090000-0000-4000-8000-000000000001",
+          "prompt": "「予約（よやく）」の意味はどれですか。",
+          "options": [
+            "Contact details",
+            "Reservation",
+            "Arrival"
+          ],
+          "optionIds": [
+            "d80a0000-0000-4000-8000-000000000003",
+            "d80a0000-0000-4000-8000-000000000004",
+            "d80a0000-0000-4000-8000-000000000005"
+          ],
+          "correctIndex": 1,
+          "explanation": "予約 (よやく) means reservation. Practise using it when asking for clarification.",
+          "japaneseExplanation": "「予約」の意味を確認しましょう。分からないときは担当者に尋ねます。",
+          "translation": "Choose the English meaning of 予約."
+        },
+        {
+          "id": "d8090000-0000-4000-8000-000000000002",
+          "prompt": "「到着（とうちゃく）」の意味はどれですか。",
+          "options": [
+            "Contact details",
+            "Reservation",
+            "Arrival"
+          ],
+          "optionIds": [
+            "d80a0000-0000-4000-8000-000000000006",
+            "d80a0000-0000-4000-8000-000000000007",
+            "d80a0000-0000-4000-8000-000000000008"
+          ],
+          "correctIndex": 2,
+          "explanation": "到着 (とうちゃく) means arrival. Practise using it when asking for clarification.",
+          "japaneseExplanation": "「到着」の意味を確認しましょう。分からないときは担当者に尋ねます。",
+          "translation": "Choose the English meaning of 到着."
+        },
+        {
+          "id": "d8090000-0000-4000-8000-000000000003",
+          "prompt": "「連絡先（れんらくさき）」の意味はどれですか。",
+          "options": [
+            "Contact details",
+            "Reservation",
+            "Arrival"
+          ],
+          "optionIds": [
+            "d80a0000-0000-4000-8000-000000000009",
+            "d80a0000-0000-4000-8000-000000000010",
+            "d80a0000-0000-4000-8000-000000000011"
+          ],
+          "correctIndex": 0,
+          "explanation": "連絡先 (れんらくさき) means contact details. Practise using it when asking for clarification.",
+          "japaneseExplanation": "「連絡先」の意味を確認しましょう。分からないときは担当者に尋ねます。",
+          "translation": "Choose the English meaning of 連絡先."
+        }
+      ]
+    },
+    {
+      "id": "d8050000-0000-4000-8000-000000000002",
+      "articleId": "d8030000-0000-4000-8000-000000000002",
+      "title": "Plan your first city-hall visit · vocabulary",
+      "questions": [
+        {
+          "id": "d8090000-0000-4000-8000-000000000004",
+          "prompt": "「市役所（しやくしょ）」の意味はどれですか。",
+          "options": [
+            "Service counter",
+            "City hall",
+            "Address"
+          ],
+          "optionIds": [
+            "d80a0000-0000-4000-8000-000000000012",
+            "d80a0000-0000-4000-8000-000000000013",
+            "d80a0000-0000-4000-8000-000000000014"
+          ],
+          "correctIndex": 1,
+          "explanation": "市役所 (しやくしょ) means city hall. Practise using it when asking for clarification.",
+          "japaneseExplanation": "「市役所」の意味を確認しましょう。分からないときは担当者に尋ねます。",
+          "translation": "Choose the English meaning of 市役所."
+        },
+        {
+          "id": "d8090000-0000-4000-8000-000000000005",
+          "prompt": "「住所（じゅうしょ）」の意味はどれですか。",
+          "options": [
+            "Service counter",
+            "City hall",
+            "Address"
+          ],
+          "optionIds": [
+            "d80a0000-0000-4000-8000-000000000015",
+            "d80a0000-0000-4000-8000-000000000016",
+            "d80a0000-0000-4000-8000-000000000017"
+          ],
+          "correctIndex": 2,
+          "explanation": "住所 (じゅうしょ) means address. Practise using it when asking for clarification.",
+          "japaneseExplanation": "「住所」の意味を確認しましょう。分からないときは担当者に尋ねます。",
+          "translation": "Choose the English meaning of 住所."
+        },
+        {
+          "id": "d8090000-0000-4000-8000-000000000006",
+          "prompt": "「窓口（まどぐち）」の意味はどれですか。",
+          "options": [
+            "Service counter",
+            "City hall",
+            "Address"
+          ],
+          "optionIds": [
+            "d80a0000-0000-4000-8000-000000000018",
+            "d80a0000-0000-4000-8000-000000000019",
+            "d80a0000-0000-4000-8000-000000000020"
+          ],
+          "correctIndex": 0,
+          "explanation": "窓口 (まどぐち) means service counter. Practise using it when asking for clarification.",
+          "japaneseExplanation": "「窓口」の意味を確認しましょう。分からないときは担当者に尋ねます。",
+          "translation": "Choose the English meaning of 窓口."
+        }
+      ]
+    },
+    {
+      "id": "d8050000-0000-4000-8000-000000000003",
+      "articleId": "d8030000-0000-4000-8000-000000000003",
+      "title": "Confirm your document requirements · vocabulary",
+      "questions": [
+        {
+          "id": "d8090000-0000-4000-8000-000000000007",
+          "prompt": "「書類（しょるい）」の意味はどれですか。",
+          "options": [
+            "Confirmation",
+            "Documents",
+            "Application"
+          ],
+          "optionIds": [
+            "d80a0000-0000-4000-8000-000000000021",
+            "d80a0000-0000-4000-8000-000000000022",
+            "d80a0000-0000-4000-8000-000000000023"
+          ],
+          "correctIndex": 1,
+          "explanation": "書類 (しょるい) means documents. Practise using it when asking for clarification.",
+          "japaneseExplanation": "「書類」の意味を確認しましょう。分からないときは担当者に尋ねます。",
+          "translation": "Choose the English meaning of 書類."
+        },
+        {
+          "id": "d8090000-0000-4000-8000-000000000008",
+          "prompt": "「申請（しんせい）」の意味はどれですか。",
+          "options": [
+            "Confirmation",
+            "Documents",
+            "Application"
+          ],
+          "optionIds": [
+            "d80a0000-0000-4000-8000-000000000024",
+            "d80a0000-0000-4000-8000-000000000025",
+            "d80a0000-0000-4000-8000-000000000026"
+          ],
+          "correctIndex": 2,
+          "explanation": "申請 (しんせい) means application. Practise using it when asking for clarification.",
+          "japaneseExplanation": "「申請」の意味を確認しましょう。分からないときは担当者に尋ねます。",
+          "translation": "Choose the English meaning of 申請."
+        },
+        {
+          "id": "d8090000-0000-4000-8000-000000000009",
+          "prompt": "「確認（かくにん）」の意味はどれですか。",
+          "options": [
+            "Confirmation",
+            "Documents",
+            "Application"
+          ],
+          "optionIds": [
+            "d80a0000-0000-4000-8000-000000000027",
+            "d80a0000-0000-4000-8000-000000000028",
+            "d80a0000-0000-4000-8000-000000000029"
+          ],
+          "correctIndex": 0,
+          "explanation": "確認 (かくにん) means confirmation. Practise using it when asking for clarification.",
+          "japaneseExplanation": "「確認」の意味を確認しましょう。分からないときは担当者に尋ねます。",
+          "translation": "Choose the English meaning of 確認."
+        }
+      ]
+    },
+    {
+      "id": "d8050000-0000-4000-8000-000000000004",
+      "articleId": "d8030000-0000-4000-8000-000000000004",
+      "title": "Understand your housing arrangements · vocabulary",
+      "questions": [
+        {
+          "id": "d8090000-0000-4000-8000-000000000010",
+          "prompt": "「家賃（やちん）」の意味はどれですか。",
+          "options": [
+            "Water service",
+            "Rent",
+            "Contract"
+          ],
+          "optionIds": [
+            "d80a0000-0000-4000-8000-000000000030",
+            "d80a0000-0000-4000-8000-000000000031",
+            "d80a0000-0000-4000-8000-000000000032"
+          ],
+          "correctIndex": 1,
+          "explanation": "家賃 (やちん) means rent. Practise using it when asking for clarification.",
+          "japaneseExplanation": "「家賃」の意味を確認しましょう。分からないときは担当者に尋ねます。",
+          "translation": "Choose the English meaning of 家賃."
+        },
+        {
+          "id": "d8090000-0000-4000-8000-000000000011",
+          "prompt": "「契約（けいやく）」の意味はどれですか。",
+          "options": [
+            "Water service",
+            "Rent",
+            "Contract"
+          ],
+          "optionIds": [
+            "d80a0000-0000-4000-8000-000000000033",
+            "d80a0000-0000-4000-8000-000000000034",
+            "d80a0000-0000-4000-8000-000000000035"
+          ],
+          "correctIndex": 2,
+          "explanation": "契約 (けいやく) means contract. Practise using it when asking for clarification.",
+          "japaneseExplanation": "「契約」の意味を確認しましょう。分からないときは担当者に尋ねます。",
+          "translation": "Choose the English meaning of 契約."
+        },
+        {
+          "id": "d8090000-0000-4000-8000-000000000012",
+          "prompt": "「水道（すいどう）」の意味はどれですか。",
+          "options": [
+            "Water service",
+            "Rent",
+            "Contract"
+          ],
+          "optionIds": [
+            "d80a0000-0000-4000-8000-000000000036",
+            "d80a0000-0000-4000-8000-000000000037",
+            "d80a0000-0000-4000-8000-000000000038"
+          ],
+          "correctIndex": 0,
+          "explanation": "水道 (すいどう) means water service. Practise using it when asking for clarification.",
+          "japaneseExplanation": "「水道」の意味を確認しましょう。分からないときは担当者に尋ねます。",
+          "translation": "Choose the English meaning of 水道."
+        }
+      ]
+    },
+    {
+      "id": "d8050000-0000-4000-8000-000000000005",
+      "articleId": "d8030000-0000-4000-8000-000000000005",
+      "title": "Organise money and insurance questions · vocabulary",
+      "questions": [
+        {
+          "id": "d8090000-0000-4000-8000-000000000013",
+          "prompt": "「口座（こうざ）」の意味はどれですか。",
+          "options": [
+            "Pension",
+            "Bank account",
+            "Insurance"
+          ],
+          "optionIds": [
+            "d80a0000-0000-4000-8000-000000000039",
+            "d80a0000-0000-4000-8000-000000000040",
+            "d80a0000-0000-4000-8000-000000000041"
+          ],
+          "correctIndex": 1,
+          "explanation": "口座 (こうざ) means bank account. Practise using it when asking for clarification.",
+          "japaneseExplanation": "「口座」の意味を確認しましょう。分からないときは担当者に尋ねます。",
+          "translation": "Choose the English meaning of 口座."
+        },
+        {
+          "id": "d8090000-0000-4000-8000-000000000014",
+          "prompt": "「保険（ほけん）」の意味はどれですか。",
+          "options": [
+            "Pension",
+            "Bank account",
+            "Insurance"
+          ],
+          "optionIds": [
+            "d80a0000-0000-4000-8000-000000000042",
+            "d80a0000-0000-4000-8000-000000000043",
+            "d80a0000-0000-4000-8000-000000000044"
+          ],
+          "correctIndex": 2,
+          "explanation": "保険 (ほけん) means insurance. Practise using it when asking for clarification.",
+          "japaneseExplanation": "「保険」の意味を確認しましょう。分からないときは担当者に尋ねます。",
+          "translation": "Choose the English meaning of 保険."
+        },
+        {
+          "id": "d8090000-0000-4000-8000-000000000015",
+          "prompt": "「年金（ねんきん）」の意味はどれですか。",
+          "options": [
+            "Pension",
+            "Bank account",
+            "Insurance"
+          ],
+          "optionIds": [
+            "d80a0000-0000-4000-8000-000000000045",
+            "d80a0000-0000-4000-8000-000000000046",
+            "d80a0000-0000-4000-8000-000000000047"
+          ],
+          "correctIndex": 0,
+          "explanation": "年金 (ねんきん) means pension. Practise using it when asking for clarification.",
+          "japaneseExplanation": "「年金」の意味を確認しましょう。分からないときは担当者に尋ねます。",
+          "translation": "Choose the English meaning of 年金."
+        }
+      ]
+    },
+    {
+      "id": "d8050000-0000-4000-8000-000000000006",
+      "articleId": "d8030000-0000-4000-8000-000000000006",
+      "title": "Prepare for a clinic visit · vocabulary",
+      "questions": [
+        {
+          "id": "d8090000-0000-4000-8000-000000000016",
+          "prompt": "「病院（びょういん）」の意味はどれですか。",
+          "options": [
+            "Appointment",
+            "Hospital",
+            "Reception"
+          ],
+          "optionIds": [
+            "d80a0000-0000-4000-8000-000000000048",
+            "d80a0000-0000-4000-8000-000000000049",
+            "d80a0000-0000-4000-8000-000000000050"
+          ],
+          "correctIndex": 1,
+          "explanation": "病院 (びょういん) means hospital. Practise using it when asking for clarification.",
+          "japaneseExplanation": "「病院」の意味を確認しましょう。分からないときは担当者に尋ねます。",
+          "translation": "Choose the English meaning of 病院."
+        },
+        {
+          "id": "d8090000-0000-4000-8000-000000000017",
+          "prompt": "「受付（うけつけ）」の意味はどれですか。",
+          "options": [
+            "Appointment",
+            "Hospital",
+            "Reception"
+          ],
+          "optionIds": [
+            "d80a0000-0000-4000-8000-000000000051",
+            "d80a0000-0000-4000-8000-000000000052",
+            "d80a0000-0000-4000-8000-000000000053"
+          ],
+          "correctIndex": 2,
+          "explanation": "受付 (うけつけ) means reception. Practise using it when asking for clarification.",
+          "japaneseExplanation": "「受付」の意味を確認しましょう。分からないときは担当者に尋ねます。",
+          "translation": "Choose the English meaning of 受付."
+        },
+        {
+          "id": "d8090000-0000-4000-8000-000000000018",
+          "prompt": "「予約（よやく）」の意味はどれですか。",
+          "options": [
+            "Appointment",
+            "Hospital",
+            "Reception"
+          ],
+          "optionIds": [
+            "d80a0000-0000-4000-8000-000000000054",
+            "d80a0000-0000-4000-8000-000000000055",
+            "d80a0000-0000-4000-8000-000000000056"
+          ],
+          "correctIndex": 0,
+          "explanation": "予約 (よやく) means appointment. Practise using it when asking for clarification.",
+          "japaneseExplanation": "「予約」の意味を確認しましょう。分からないときは担当者に尋ねます。",
+          "translation": "Choose the English meaning of 予約."
+        }
+      ]
+    },
+    {
+      "id": "d8050000-0000-4000-8000-000000000007",
+      "articleId": "d8030000-0000-4000-8000-000000000007",
+      "title": "Plan your daily journey · vocabulary",
+      "questions": [
+        {
+          "id": "d8090000-0000-4000-8000-000000000019",
+          "prompt": "「駅（えき）」の意味はどれですか。",
+          "options": [
+            "Exit",
+            "Station",
+            "Transfer"
+          ],
+          "optionIds": [
+            "d80a0000-0000-4000-8000-000000000057",
+            "d80a0000-0000-4000-8000-000000000058",
+            "d80a0000-0000-4000-8000-000000000059"
+          ],
+          "correctIndex": 1,
+          "explanation": "駅 (えき) means station. Practise using it when asking for clarification.",
+          "japaneseExplanation": "「駅」の意味を確認しましょう。分からないときは担当者に尋ねます。",
+          "translation": "Choose the English meaning of 駅."
+        },
+        {
+          "id": "d8090000-0000-4000-8000-000000000020",
+          "prompt": "「乗り換え（のりかえ）」の意味はどれですか。",
+          "options": [
+            "Exit",
+            "Station",
+            "Transfer"
+          ],
+          "optionIds": [
+            "d80a0000-0000-4000-8000-000000000060",
+            "d80a0000-0000-4000-8000-000000000061",
+            "d80a0000-0000-4000-8000-000000000062"
+          ],
+          "correctIndex": 2,
+          "explanation": "乗り換え (のりかえ) means transfer. Practise using it when asking for clarification.",
+          "japaneseExplanation": "「乗り換え」の意味を確認しましょう。分からないときは担当者に尋ねます。",
+          "translation": "Choose the English meaning of 乗り換え."
+        },
+        {
+          "id": "d8090000-0000-4000-8000-000000000021",
+          "prompt": "「出口（でぐち）」の意味はどれですか。",
+          "options": [
+            "Exit",
+            "Station",
+            "Transfer"
+          ],
+          "optionIds": [
+            "d80a0000-0000-4000-8000-000000000063",
+            "d80a0000-0000-4000-8000-000000000064",
+            "d80a0000-0000-4000-8000-000000000065"
+          ],
+          "correctIndex": 0,
+          "explanation": "出口 (でぐち) means exit. Practise using it when asking for clarification.",
+          "japaneseExplanation": "「出口」の意味を確認しましょう。分からないときは担当者に尋ねます。",
+          "translation": "Choose the English meaning of 出口."
+        }
+      ]
+    },
+    {
+      "id": "d8050000-0000-4000-8000-000000000008",
+      "articleId": "d8030000-0000-4000-8000-000000000008",
+      "title": "Get ready for workplace orientation · vocabulary",
+      "questions": [
+        {
+          "id": "d8090000-0000-4000-8000-000000000022",
+          "prompt": "「安全（あんぜん）」の意味はどれですか。",
+          "options": [
+            "Report",
+            "Safety",
+            "Task / work"
+          ],
+          "optionIds": [
+            "d80a0000-0000-4000-8000-000000000066",
+            "d80a0000-0000-4000-8000-000000000067",
+            "d80a0000-0000-4000-8000-000000000068"
+          ],
+          "correctIndex": 1,
+          "explanation": "安全 (あんぜん) means safety. Practise using it when asking for clarification.",
+          "japaneseExplanation": "「安全」の意味を確認しましょう。分からないときは担当者に尋ねます。",
+          "translation": "Choose the English meaning of 安全."
+        },
+        {
+          "id": "d8090000-0000-4000-8000-000000000023",
+          "prompt": "「作業（さぎょう）」の意味はどれですか。",
+          "options": [
+            "Report",
+            "Safety",
+            "Task / work"
+          ],
+          "optionIds": [
+            "d80a0000-0000-4000-8000-000000000069",
+            "d80a0000-0000-4000-8000-000000000070",
+            "d80a0000-0000-4000-8000-000000000071"
+          ],
+          "correctIndex": 2,
+          "explanation": "作業 (さぎょう) means task / work. Practise using it when asking for clarification.",
+          "japaneseExplanation": "「作業」の意味を確認しましょう。分からないときは担当者に尋ねます。",
+          "translation": "Choose the English meaning of 作業."
+        },
+        {
+          "id": "d8090000-0000-4000-8000-000000000024",
+          "prompt": "「報告（ほうこく）」の意味はどれですか。",
+          "options": [
+            "Report",
+            "Safety",
+            "Task / work"
+          ],
+          "optionIds": [
+            "d80a0000-0000-4000-8000-000000000072",
+            "d80a0000-0000-4000-8000-000000000073",
+            "d80a0000-0000-4000-8000-000000000074"
+          ],
+          "correctIndex": 0,
+          "explanation": "報告 (ほうこく) means report. Practise using it when asking for clarification.",
+          "japaneseExplanation": "「報告」の意味を確認しましょう。分からないときは担当者に尋ねます。",
+          "translation": "Choose the English meaning of 報告."
+        }
+      ]
+    },
+    {
+      "id": "d8050000-0000-4000-8000-000000000009",
+      "articleId": "d8030000-0000-4000-8000-000000000009",
+      "title": "Understand rules in context · vocabulary",
+      "questions": [
+        {
+          "id": "d8090000-0000-4000-8000-000000000025",
+          "prompt": "「分別（ぶんべつ）」の意味はどれですか。",
+          "options": [
+            "Rule",
+            "Sorting",
+            "Greeting"
+          ],
+          "optionIds": [
+            "d80a0000-0000-4000-8000-000000000075",
+            "d80a0000-0000-4000-8000-000000000076",
+            "d80a0000-0000-4000-8000-000000000077"
+          ],
+          "correctIndex": 1,
+          "explanation": "分別 (ぶんべつ) means sorting. Practise using it when asking for clarification.",
+          "japaneseExplanation": "「分別」の意味を確認しましょう。分からないときは担当者に尋ねます。",
+          "translation": "Choose the English meaning of 分別."
+        },
+        {
+          "id": "d8090000-0000-4000-8000-000000000026",
+          "prompt": "「挨拶（あいさつ）」の意味はどれですか。",
+          "options": [
+            "Rule",
+            "Sorting",
+            "Greeting"
+          ],
+          "optionIds": [
+            "d80a0000-0000-4000-8000-000000000078",
+            "d80a0000-0000-4000-8000-000000000079",
+            "d80a0000-0000-4000-8000-000000000080"
+          ],
+          "correctIndex": 2,
+          "explanation": "挨拶 (あいさつ) means greeting. Practise using it when asking for clarification.",
+          "japaneseExplanation": "「挨拶」の意味を確認しましょう。分からないときは担当者に尋ねます。",
+          "translation": "Choose the English meaning of 挨拶."
+        },
+        {
+          "id": "d8090000-0000-4000-8000-000000000027",
+          "prompt": "「規則（きそく）」の意味はどれですか。",
+          "options": [
+            "Rule",
+            "Sorting",
+            "Greeting"
+          ],
+          "optionIds": [
+            "d80a0000-0000-4000-8000-000000000081",
+            "d80a0000-0000-4000-8000-000000000082",
+            "d80a0000-0000-4000-8000-000000000083"
+          ],
+          "correctIndex": 0,
+          "explanation": "規則 (きそく) means rule. Practise using it when asking for clarification.",
+          "japaneseExplanation": "「規則」の意味を確認しましょう。分からないときは担当者に尋ねます。",
+          "translation": "Choose the English meaning of 規則."
+        }
+      ]
+    },
+    {
+      "id": "d8050000-0000-4000-8000-000000000010",
+      "articleId": "d8030000-0000-4000-8000-000000000010",
+      "title": "Prepare for emergencies and disruptions · vocabulary",
+      "questions": [
+        {
+          "id": "d8090000-0000-4000-8000-000000000028",
+          "prompt": "「避難（ひなん）」の意味はどれですか。",
+          "options": [
+            "Guidance",
+            "Evacuation",
+            "Earthquake"
+          ],
+          "optionIds": [
+            "d80a0000-0000-4000-8000-000000000084",
+            "d80a0000-0000-4000-8000-000000000085",
+            "d80a0000-0000-4000-8000-000000000086"
+          ],
+          "correctIndex": 1,
+          "explanation": "避難 (ひなん) means evacuation. Practise using it when asking for clarification.",
+          "japaneseExplanation": "「避難」の意味を確認しましょう。分からないときは担当者に尋ねます。",
+          "translation": "Choose the English meaning of 避難."
+        },
+        {
+          "id": "d8090000-0000-4000-8000-000000000029",
+          "prompt": "「地震（じしん）」の意味はどれですか。",
+          "options": [
+            "Guidance",
+            "Evacuation",
+            "Earthquake"
+          ],
+          "optionIds": [
+            "d80a0000-0000-4000-8000-000000000087",
+            "d80a0000-0000-4000-8000-000000000088",
+            "d80a0000-0000-4000-8000-000000000089"
+          ],
+          "correctIndex": 2,
+          "explanation": "地震 (じしん) means earthquake. Practise using it when asking for clarification.",
+          "japaneseExplanation": "「地震」の意味を確認しましょう。分からないときは担当者に尋ねます。",
+          "translation": "Choose the English meaning of 地震."
+        },
+        {
+          "id": "d8090000-0000-4000-8000-000000000030",
+          "prompt": "「案内（あんない）」の意味はどれですか。",
+          "options": [
+            "Guidance",
+            "Evacuation",
+            "Earthquake"
+          ],
+          "optionIds": [
+            "d80a0000-0000-4000-8000-000000000090",
+            "d80a0000-0000-4000-8000-000000000091",
+            "d80a0000-0000-4000-8000-000000000092"
+          ],
+          "correctIndex": 0,
+          "explanation": "案内 (あんない) means guidance. Practise using it when asking for clarification.",
+          "japaneseExplanation": "「案内」の意味を確認しましょう。分からないときは担当者に尋ねます。",
+          "translation": "Choose the English meaning of 案内."
+        }
+      ]
+    },
+    {
+      "id": "d8050000-0000-4000-8000-000000000011",
+      "articleId": "d8030000-0000-4000-8000-000000000011",
+      "title": "Public transport etiquette",
+      "questions": [
+        {
+          "id": "d8090000-0000-4000-8000-000000000100",
+          "prompt": "電車の表示が分からないとき、どうしますか。",
+          "options": [
+            "Ask the operator's staff",
+            "Assume every railway has identical rules",
+            "Ignore all signs"
+          ],
+          "optionIds": [
+            "d80a0000-0000-4000-8000-000000000300",
+            "d80a0000-0000-4000-8000-000000000301",
+            "d80a0000-0000-4000-8000-000000000302"
+          ],
+          "correctIndex": 0,
+          "explanation": "Keep access clear and follow the operator's signs. Consider other passengers when speaking or using a phone.",
+          "japaneseExplanation": "表示が分からないときは係員に確認します。",
+          "translation": "A train sign is unclear. What should you do?"
+        }
+      ]
+    },
+    {
+      "id": "d8050000-0000-4000-8000-000000000012",
+      "articleId": "d8030000-0000-4000-8000-000000000012",
+      "title": "Apartment rules",
+      "questions": [
+        {
+          "id": "d8090000-0000-4000-8000-000000000101",
+          "prompt": "建物のルールは、どこで確認しますか。",
+          "options": [
+            "A social media guess",
+            "Your contract and building manager",
+            "A rule from an unrelated building"
+          ],
+          "optionIds": [
+            "d80a0000-0000-4000-8000-000000000303",
+            "d80a0000-0000-4000-8000-000000000304",
+            "d80a0000-0000-4000-8000-000000000305"
+          ],
+          "correctIndex": 1,
+          "explanation": "Read your own lease and building notices. Ask the manager about unclear arrangements rather than applying another building's rules.",
+          "japaneseExplanation": "契約や建物の担当者に確認します。",
+          "translation": "Where should you confirm your building's arrangements?"
+        }
+      ]
+    },
+    {
+      "id": "d8050000-0000-4000-8000-000000000013",
+      "articleId": "d8030000-0000-4000-8000-000000000013",
+      "title": "Rubbish separation",
+      "questions": [
+        {
+          "id": "d8090000-0000-4000-8000-000000000102",
+          "prompt": "ごみの収集日は、どこで確認しますか。",
+          "options": [
+            "Any city's calendar",
+            "Your preferred day",
+            "The municipality's official guidance"
+          ],
+          "optionIds": [
+            "d80a0000-0000-4000-8000-000000000306",
+            "d80a0000-0000-4000-8000-000000000307",
+            "d80a0000-0000-4000-8000-000000000308"
+          ],
+          "correctIndex": 2,
+          "explanation": "Check your municipality's sorting guidance and collection schedule, plus your building's collection point. Do not assume dates or bag rules are nationwide.",
+          "japaneseExplanation": "収集日は住む自治体の公式案内で確認します。",
+          "translation": "Where do you check your local rubbish schedule?"
+        }
+      ]
+    },
+    {
+      "id": "d8050000-0000-4000-8000-000000000014",
+      "articleId": "d8030000-0000-4000-8000-000000000014",
+      "title": "Bicycle and pedestrian safety",
+      "questions": [
+        {
+          "id": "d8090000-0000-4000-8000-000000000103",
+          "prompt": "交通ルールは、どこで確かめますか。",
+          "options": [
+            "Check the responsible official road-safety authority",
+            "Treat a custom as the complete law",
+            "Follow an unverified comment"
+          ],
+          "optionIds": [
+            "d80a0000-0000-4000-8000-000000000309",
+            "d80a0000-0000-4000-8000-000000000310",
+            "d80a0000-0000-4000-8000-000000000311"
+          ],
+          "correctIndex": 0,
+          "explanation": "Use official road-safety information and current signs. This short language activity is not a complete statement of traffic law or riding instruction.",
+          "japaneseExplanation": "交通ルールは担当する公式機関で確認します。",
+          "translation": "How should you verify a traffic rule?"
+        }
+      ]
+    },
+    {
+      "id": "d8050000-0000-4000-8000-000000000015",
+      "articleId": "d8030000-0000-4000-8000-000000000015",
+      "title": "Workplace etiquette",
+      "questions": [
+        {
+          "id": "d8090000-0000-4000-8000-000000000104",
+          "prompt": "作業の指示が分からないとき、どうしますか。",
+          "options": [
+            "Invent your own safety procedure",
+            "Ask for clarification before acting",
+            "Pretend to understand"
+          ],
+          "optionIds": [
+            "d80a0000-0000-4000-8000-000000000312",
+            "d80a0000-0000-4000-8000-000000000313",
+            "d80a0000-0000-4000-8000-000000000314"
+          ],
+          "correctIndex": 1,
+          "explanation": "Confirm your team's communication and reporting practices with your supervisor. Workplace policies and statutory duties are different categories.",
+          "japaneseExplanation": "分からない指示は行動する前に確認します。",
+          "translation": "You do not understand an instruction. What is the useful response?"
+        }
+      ]
+    },
+    {
+      "id": "d8050000-0000-4000-8000-000000000016",
+      "articleId": "d8030000-0000-4000-8000-000000000016",
+      "title": "Greetings and communication",
+      "questions": [
+        {
+          "id": "d8090000-0000-4000-8000-000000000105",
+          "prompt": "より丁寧な表現があると、元の文法は必ず誤りですか。",
+          "options": [
+            "Yes, always",
+            "Only if written in kanji",
+            "No; register and grammar are different"
+          ],
+          "optionIds": [
+            "d80a0000-0000-4000-8000-000000000315",
+            "d80a0000-0000-4000-8000-000000000316",
+            "d80a0000-0000-4000-8000-000000000317"
+          ],
+          "correctIndex": 2,
+          "explanation": "Choose a greeting that fits the relationship and situation. A polite alternative can improve register without making the casual original grammatically wrong.",
+          "japaneseExplanation": "丁寧さと文法の正しさは別です。",
+          "translation": "Does a more polite alternative always mean the original grammar was wrong?"
+        }
+      ]
+    },
+    {
+      "id": "d8050000-0000-4000-8000-000000000017",
+      "articleId": "d8030000-0000-4000-8000-000000000017",
+      "title": "Cultural customs",
+      "questions": [
+        {
+          "id": "d8090000-0000-4000-8000-000000000106",
+          "prompt": "習慣が分からないとき、どうしますか。",
+          "options": [
+            "Ask respectfully in that setting",
+            "Assume everyone has the same preference",
+            "Describe every custom as a law"
+          ],
+          "optionIds": [
+            "d80a0000-0000-4000-8000-000000000318",
+            "d80a0000-0000-4000-8000-000000000319",
+            "d80a0000-0000-4000-8000-000000000320"
+          ],
+          "correctIndex": 0,
+          "explanation": "Observe the setting and ask respectfully when unsure. Customs vary among people and places; avoid turning stereotypes into universal obligations.",
+          "japaneseExplanation": "分からない習慣は、その場で丁寧に尋ねます。",
+          "translation": "You are unsure about a custom. What helps?"
+        }
+      ]
+    },
+    {
+      "id": "d8050000-0000-4000-8000-000000000018",
+      "articleId": "d8030000-0000-4000-8000-000000000018",
+      "title": "Emergency preparedness",
+      "questions": [
+        {
+          "id": "d8090000-0000-4000-8000-000000000107",
+          "prompt": "災害時には、どの情報を確認しますか。",
+          "options": [
+            "An invented universal schedule",
+            "Current official alerts and local instructions",
+            "An old practice dialogue"
+          ],
+          "optionIds": [
+            "d80a0000-0000-4000-8000-000000000321",
+            "d80a0000-0000-4000-8000-000000000322",
+            "d80a0000-0000-4000-8000-000000000323"
+          ],
+          "correctIndex": 1,
+          "explanation": "Read the local emergency information before you need it. Follow current official alerts and local instructions during an incident.",
+          "japaneseExplanation": "最新の公式情報と現地の指示を確認します。",
+          "translation": "Which information should guide you during a disaster?"
+        }
+      ]
+    }
+  ],
+  "roleplays": [
+    {
+      "id": "d80d0000-0000-4000-8000-000000000001",
+      "articleId": "d8030000-0000-4000-8000-000000000002",
+      "slug": "register-address",
+      "title": "Registering an address",
+      "title_ja": "住所の手続き",
+      "description": "Practise asking for clarification. This role-play cannot determine legal, financial or medical outcomes.",
+      "description_ja": "確認の表現を練習します。法的・金融・医療の結果は判断しません。",
+      "suggested_level": "N5–N2",
+      "opening": "こんにちは。どのようなご相談でしょうか。",
+      "opening_translation": "Hello. How can I help you?",
+      "prompt_template": "Language role-play: Registering an address. Ask one short question at a time. Help the learner ask the responsible official or professional for clarification. Never determine eligibility, promise approval, invent document lists/deadlines, request identifiers or offer medical/financial/operational advice.",
+      "dialogue": [
+        {
+          "speaker": "担当者",
+          "ja": "こんにちは。どのようなご相談でしょうか。",
+          "en": "Hello. How can I help you?"
+        },
+        {
+          "speaker": "あなた",
+          "ja": "住所の手続きについて質問したいです。",
+          "en": "I would like to ask about address procedures."
+        },
+        {
+          "speaker": "担当者",
+          "ja": "状況を確認しましょう。",
+          "en": "Let us check the circumstances."
+        }
+      ]
+    },
+    {
+      "id": "d80d0000-0000-4000-8000-000000000002",
+      "articleId": "d8030000-0000-4000-8000-000000000005",
+      "slug": "ask-insurance",
+      "title": "Asking about health insurance",
+      "title_ja": "医療保険について尋ねる",
+      "description": "Practise asking for clarification. This role-play cannot determine legal, financial or medical outcomes.",
+      "description_ja": "確認の表現を練習します。法的・金融・医療の結果は判断しません。",
+      "suggested_level": "N5–N2",
+      "opening": "こんにちは。どのようなご相談でしょうか。",
+      "opening_translation": "Hello. How can I help you?",
+      "prompt_template": "Language role-play: Asking about health insurance. Ask one short question at a time. Help the learner ask the responsible official or professional for clarification. Never determine eligibility, promise approval, invent document lists/deadlines, request identifiers or offer medical/financial/operational advice.",
+      "dialogue": [
+        {
+          "speaker": "担当者",
+          "ja": "こんにちは。どのようなご相談でしょうか。",
+          "en": "Hello. How can I help you?"
+        },
+        {
+          "speaker": "あなた",
+          "ja": "私の場合、保険の相談はどこでできますか。",
+          "en": "Where can I ask about insurance in my circumstances?"
+        },
+        {
+          "speaker": "担当者",
+          "ja": "状況を確認しましょう。",
+          "en": "Let us check the circumstances."
+        }
+      ]
+    },
+    {
+      "id": "d80d0000-0000-4000-8000-000000000003",
+      "articleId": "d8030000-0000-4000-8000-000000000005",
+      "slug": "open-bank-account",
+      "title": "Opening a bank account",
+      "title_ja": "銀行口座について尋ねる",
+      "description": "Practise asking for clarification. This role-play cannot determine legal, financial or medical outcomes.",
+      "description_ja": "確認の表現を練習します。法的・金融・医療の結果は判断しません。",
+      "suggested_level": "N5–N2",
+      "opening": "こんにちは。どのようなご相談でしょうか。",
+      "opening_translation": "Hello. How can I help you?",
+      "prompt_template": "Language role-play: Opening a bank account. Ask one short question at a time. Help the learner ask the responsible official or professional for clarification. Never determine eligibility, promise approval, invent document lists/deadlines, request identifiers or offer medical/financial/operational advice.",
+      "dialogue": [
+        {
+          "speaker": "担当者",
+          "ja": "こんにちは。どのようなご相談でしょうか。",
+          "en": "Hello. How can I help you?"
+        },
+        {
+          "speaker": "あなた",
+          "ja": "口座について、必要な書類を教えていただけますか。",
+          "en": "Could you tell me which documents are needed for an account?"
+        },
+        {
+          "speaker": "担当者",
+          "ja": "状況を確認しましょう。",
+          "en": "Let us check the circumstances."
+        }
+      ]
+    },
+    {
+      "id": "d80d0000-0000-4000-8000-000000000004",
+      "articleId": "d8030000-0000-4000-8000-000000000007",
+      "slug": "ask-directions",
+      "title": "Asking for directions",
+      "title_ja": "道を尋ねる",
+      "description": "Practise asking for clarification. This role-play cannot determine legal, financial or medical outcomes.",
+      "description_ja": "確認の表現を練習します。法的・金融・医療の結果は判断しません。",
+      "suggested_level": "N5–N2",
+      "opening": "こんにちは。どのようなご相談でしょうか。",
+      "opening_translation": "Hello. How can I help you?",
+      "prompt_template": "Language role-play: Asking for directions. Ask one short question at a time. Help the learner ask the responsible official or professional for clarification. Never determine eligibility, promise approval, invent document lists/deadlines, request identifiers or offer medical/financial/operational advice.",
+      "dialogue": [
+        {
+          "speaker": "担当者",
+          "ja": "こんにちは。どのようなご相談でしょうか。",
+          "en": "Hello. How can I help you?"
+        },
+        {
+          "speaker": "あなた",
+          "ja": "すみません、駅の出口はどちらですか。",
+          "en": "Excuse me, which way is the station exit?"
+        },
+        {
+          "speaker": "担当者",
+          "ja": "状況を確認しましょう。",
+          "en": "Let us check the circumstances."
+        }
+      ]
+    },
+    {
+      "id": "d80d0000-0000-4000-8000-000000000005",
+      "articleId": "d8030000-0000-4000-8000-000000000004",
+      "slug": "talk-landlord",
+      "title": "Talking to a landlord",
+      "title_ja": "住まいの担当者と話す",
+      "description": "Practise asking for clarification. This role-play cannot determine legal, financial or medical outcomes.",
+      "description_ja": "確認の表現を練習します。法的・金融・医療の結果は判断しません。",
+      "suggested_level": "N5–N2",
+      "opening": "こんにちは。どのようなご相談でしょうか。",
+      "opening_translation": "Hello. How can I help you?",
+      "prompt_template": "Language role-play: Talking to a landlord. Ask one short question at a time. Help the learner ask the responsible official or professional for clarification. Never determine eligibility, promise approval, invent document lists/deadlines, request identifiers or offer medical/financial/operational advice.",
+      "dialogue": [
+        {
+          "speaker": "担当者",
+          "ja": "こんにちは。どのようなご相談でしょうか。",
+          "en": "Hello. How can I help you?"
+        },
+        {
+          "speaker": "あなた",
+          "ja": "契約について、確認したいことがあります。",
+          "en": "I have a question about the contract."
+        },
+        {
+          "speaker": "担当者",
+          "ja": "状況を確認しましょう。",
+          "en": "Let us check the circumstances."
+        }
+      ]
+    },
+    {
+      "id": "d80d0000-0000-4000-8000-000000000006",
+      "articleId": "d8030000-0000-4000-8000-000000000006",
+      "slug": "visit-clinic",
+      "title": "Visiting a clinic",
+      "title_ja": "診療所で話す",
+      "description": "Practise asking for clarification. This role-play cannot determine legal, financial or medical outcomes.",
+      "description_ja": "確認の表現を練習します。法的・金融・医療の結果は判断しません。",
+      "suggested_level": "N5–N2",
+      "opening": "こんにちは。どのようなご相談でしょうか。",
+      "opening_translation": "Hello. How can I help you?",
+      "prompt_template": "Language role-play: Visiting a clinic. Ask one short question at a time. Help the learner ask the responsible official or professional for clarification. Never determine eligibility, promise approval, invent document lists/deadlines, request identifiers or offer medical/financial/operational advice.",
+      "dialogue": [
+        {
+          "speaker": "担当者",
+          "ja": "こんにちは。どのようなご相談でしょうか。",
+          "en": "Hello. How can I help you?"
+        },
+        {
+          "speaker": "あなた",
+          "ja": "予約の方法を教えてください。",
+          "en": "Please explain how to make an appointment."
+        },
+        {
+          "speaker": "担当者",
+          "ja": "状況を確認しましょう。",
+          "en": "Let us check the circumstances."
+        }
+      ]
+    },
+    {
+      "id": "d80d0000-0000-4000-8000-000000000007",
+      "articleId": "d8030000-0000-4000-8000-000000000008",
+      "slug": "speak-supervisor",
+      "title": "Speaking with a supervisor",
+      "title_ja": "上司に確認する",
+      "description": "Practise asking for clarification. This role-play cannot determine legal, financial or medical outcomes.",
+      "description_ja": "確認の表現を練習します。法的・金融・医療の結果は判断しません。",
+      "suggested_level": "N5–N2",
+      "opening": "こんにちは。どのようなご相談でしょうか。",
+      "opening_translation": "Hello. How can I help you?",
+      "prompt_template": "Language role-play: Speaking with a supervisor. Ask one short question at a time. Help the learner ask the responsible official or professional for clarification. Never determine eligibility, promise approval, invent document lists/deadlines, request identifiers or offer medical/financial/operational advice.",
+      "dialogue": [
+        {
+          "speaker": "担当者",
+          "ja": "こんにちは。どのようなご相談でしょうか。",
+          "en": "Hello. How can I help you?"
+        },
+        {
+          "speaker": "あなた",
+          "ja": "作業の前に、もう一度確認してもよろしいですか。",
+          "en": "May I check once more before starting the task?"
+        },
+        {
+          "speaker": "担当者",
+          "ja": "状況を確認しましょう。",
+          "en": "Let us check the circumstances."
+        }
+      ]
+    }
+  ],
+  "programId": "d80e0000-0000-4000-8000-000000000001",
+  "courseId": "d80f0000-0000-4000-8000-000000000001"
+}

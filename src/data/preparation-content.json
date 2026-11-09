@@ -1,0 +1,4119 @@
+{
+  "jftCourseId": "d6010000-0000-4000-8000-000000000001",
+  "interviewCourseId": "d6010000-0000-4000-8000-000000000008",
+  "programs": [
+    {
+      "id": "d6000000-0000-4000-8000-000000000001",
+      "slug": "jft-basic-foundation",
+      "title": "JFT-Basic preparation",
+      "category": "jft-basic"
+    },
+    {
+      "id": "d6000000-0000-4000-8000-000000000002",
+      "slug": "ssw-workplace",
+      "title": "SSW workplace Japanese",
+      "category": "ssw"
+    }
+  ],
+  "sectors": [
+    {
+      "id": "d6030000-0000-4000-8000-000000000001",
+      "slug": "nursing-care",
+      "title": "Nursing care",
+      "titleJa": "介護",
+      "summary": "Careful, respectful communication with residents.",
+      "summaryJa": "利用者への丁寧な声かけを練習します。",
+      "courseId": "d6010000-0000-4000-8000-000000000002",
+      "deckId": "d6040000-0000-4000-8000-000000000001",
+      "cards": [
+        {
+          "id": "d6050000-0000-4000-8000-000000000001",
+          "vocabularyId": "d6060000-0000-4000-8000-000000000001",
+          "level": "workplace",
+          "programLabel": "Nursing care",
+          "term": "介護",
+          "reading": "かいご",
+          "translations": {
+            "en": "Caregiving",
+            "ja": "介護"
+          },
+          "example": "介護の仕事について勉強しています。",
+          "exampleTranslation": "I am studying caregiving work.",
+          "category": "Workplace basics",
+          "topic": "Workplace basics",
+          "difficulty": "basic"
+        },
+        {
+          "id": "d6050000-0000-4000-8000-000000000002",
+          "vocabularyId": "d6060000-0000-4000-8000-000000000002",
+          "level": "workplace",
+          "programLabel": "Nursing care",
+          "term": "利用者",
+          "reading": "りようしゃ",
+          "translations": {
+            "en": "Service user / resident",
+            "ja": "利用者"
+          },
+          "example": "利用者の方に名前を伺います。",
+          "exampleTranslation": "I politely ask the resident their name.",
+          "category": "Workplace basics",
+          "topic": "Workplace basics",
+          "difficulty": "basic"
+        },
+        {
+          "id": "d6050000-0000-4000-8000-000000000003",
+          "vocabularyId": "d6060000-0000-4000-8000-000000000003",
+          "level": "workplace",
+          "programLabel": "Nursing care",
+          "term": "車椅子",
+          "reading": "くるまいす",
+          "translations": {
+            "en": "Wheelchair",
+            "ja": "車椅子"
+          },
+          "example": "車椅子の場所を職員に確認します。",
+          "exampleTranslation": "I check the wheelchair’s location with a staff member.",
+          "category": "Workplace basics",
+          "topic": "Workplace basics",
+          "difficulty": "basic"
+        },
+        {
+          "id": "d6050000-0000-4000-8000-000000000004",
+          "vocabularyId": "d6060000-0000-4000-8000-000000000004",
+          "level": "workplace",
+          "programLabel": "Nursing care",
+          "term": "食事",
+          "reading": "しょくじ",
+          "translations": {
+            "en": "Meal",
+            "ja": "食事"
+          },
+          "example": "食事の時間をお知らせします。",
+          "exampleTranslation": "I let people know the mealtime.",
+          "category": "Workplace basics",
+          "topic": "Workplace basics",
+          "difficulty": "basic"
+        },
+        {
+          "id": "d6050000-0000-4000-8000-000000000005",
+          "vocabularyId": "d6060000-0000-4000-8000-000000000005",
+          "level": "workplace",
+          "programLabel": "Nursing care",
+          "term": "水分",
+          "reading": "すいぶん",
+          "translations": {
+            "en": "Fluids / hydration",
+            "ja": "水分"
+          },
+          "example": "水分について職員に相談します。",
+          "exampleTranslation": "I consult staff about hydration.",
+          "category": "Workplace basics",
+          "topic": "Workplace basics",
+          "difficulty": "basic"
+        },
+        {
+          "id": "d6050000-0000-4000-8000-000000000006",
+          "vocabularyId": "d6060000-0000-4000-8000-000000000006",
+          "level": "workplace",
+          "programLabel": "Nursing care",
+          "term": "体調",
+          "reading": "たいちょう",
+          "translations": {
+            "en": "Physical condition",
+            "ja": "体調"
+          },
+          "example": "体調はいかがですか。",
+          "exampleTranslation": "How are you feeling?",
+          "category": "Workplace basics",
+          "topic": "Workplace basics",
+          "difficulty": "basic"
+        },
+        {
+          "id": "d6050000-0000-4000-8000-000000000007",
+          "vocabularyId": "d6060000-0000-4000-8000-000000000007",
+          "level": "workplace",
+          "programLabel": "Nursing care",
+          "term": "見守り",
+          "reading": "みまもり",
+          "translations": {
+            "en": "Watching over / supervision",
+            "ja": "見守り"
+          },
+          "example": "見守りの担当を確認します。",
+          "exampleTranslation": "I check who is assigned to supervision.",
+          "category": "Workplace basics",
+          "topic": "Workplace basics",
+          "difficulty": "basic"
+        },
+        {
+          "id": "d6050000-0000-4000-8000-000000000008",
+          "vocabularyId": "d6060000-0000-4000-8000-000000000008",
+          "level": "workplace",
+          "programLabel": "Nursing care",
+          "term": "記録",
+          "reading": "きろく",
+          "translations": {
+            "en": "Record",
+            "ja": "記録"
+          },
+          "example": "記録の書き方を教えてください。",
+          "exampleTranslation": "Please teach me how to write the record.",
+          "category": "Safety & communication",
+          "topic": "Safety & communication",
+          "difficulty": "basic"
+        },
+        {
+          "id": "d6050000-0000-4000-8000-000000000009",
+          "vocabularyId": "d6060000-0000-4000-8000-000000000009",
+          "level": "workplace",
+          "programLabel": "Nursing care",
+          "term": "声かけ",
+          "reading": "こえかけ",
+          "translations": {
+            "en": "Speaking to someone / prompting",
+            "ja": "声かけ"
+          },
+          "example": "移動する前に声かけをします。",
+          "exampleTranslation": "I speak to the person before moving.",
+          "category": "Safety & communication",
+          "topic": "Safety & communication",
+          "difficulty": "basic"
+        },
+        {
+          "id": "d6050000-0000-4000-8000-000000000010",
+          "vocabularyId": "d6060000-0000-4000-8000-000000000010",
+          "level": "workplace",
+          "programLabel": "Nursing care",
+          "term": "職員",
+          "reading": "しょくいん",
+          "translations": {
+            "en": "Staff member",
+            "ja": "職員"
+          },
+          "example": "分からないことは職員に聞きます。",
+          "exampleTranslation": "I ask staff about anything I do not understand.",
+          "category": "Safety & communication",
+          "topic": "Safety & communication",
+          "difficulty": "basic"
+        }
+      ],
+      "bankId": "d6020000-0000-4000-8000-000000000021"
+    },
+    {
+      "id": "d6030000-0000-4000-8000-000000000002",
+      "slug": "food-service",
+      "title": "Food service",
+      "titleJa": "外食",
+      "summary": "Polite service, orders and clear communication.",
+      "summaryJa": "接客や注文の確認を練習します。",
+      "courseId": "d6010000-0000-4000-8000-000000000003",
+      "deckId": "d6040000-0000-4000-8000-000000000002",
+      "cards": [
+        {
+          "id": "d6050000-0000-4000-8000-000000000011",
+          "vocabularyId": "d6060000-0000-4000-8000-000000000011",
+          "level": "workplace",
+          "programLabel": "Food service",
+          "term": "注文",
+          "reading": "ちゅうもん",
+          "translations": {
+            "en": "Order",
+            "ja": "注文"
+          },
+          "example": "ご注文を確認します。",
+          "exampleTranslation": "I will confirm your order.",
+          "category": "Workplace basics",
+          "topic": "Workplace basics",
+          "difficulty": "basic"
+        },
+        {
+          "id": "d6050000-0000-4000-8000-000000000012",
+          "vocabularyId": "d6060000-0000-4000-8000-000000000012",
+          "level": "workplace",
+          "programLabel": "Food service",
+          "term": "お客様",
+          "reading": "おきゃくさま",
+          "translations": {
+            "en": "Customer / guest",
+            "ja": "お客様"
+          },
+          "example": "お客様をご案内します。",
+          "exampleTranslation": "I will show the customer to their seat.",
+          "category": "Workplace basics",
+          "topic": "Workplace basics",
+          "difficulty": "basic"
+        },
+        {
+          "id": "d6050000-0000-4000-8000-000000000013",
+          "vocabularyId": "d6060000-0000-4000-8000-000000000013",
+          "level": "workplace",
+          "programLabel": "Food service",
+          "term": "会計",
+          "reading": "かいけい",
+          "translations": {
+            "en": "Payment / bill",
+            "ja": "会計"
+          },
+          "example": "お会計はこちらです。",
+          "exampleTranslation": "Please pay here.",
+          "category": "Workplace basics",
+          "topic": "Workplace basics",
+          "difficulty": "basic"
+        },
+        {
+          "id": "d6050000-0000-4000-8000-000000000014",
+          "vocabularyId": "d6060000-0000-4000-8000-000000000014",
+          "level": "workplace",
+          "programLabel": "Food service",
+          "term": "予約",
+          "reading": "よやく",
+          "translations": {
+            "en": "Reservation",
+            "ja": "予約"
+          },
+          "example": "ご予約のお名前をお願いします。",
+          "exampleTranslation": "May I have the name on the reservation?",
+          "category": "Workplace basics",
+          "topic": "Workplace basics",
+          "difficulty": "basic"
+        },
+        {
+          "id": "d6050000-0000-4000-8000-000000000015",
+          "vocabularyId": "d6060000-0000-4000-8000-000000000015",
+          "level": "workplace",
+          "programLabel": "Food service",
+          "term": "配膳",
+          "reading": "はいぜん",
+          "translations": {
+            "en": "Serving meals",
+            "ja": "配膳"
+          },
+          "example": "配膳の順番を確認します。",
+          "exampleTranslation": "I check the order for serving meals.",
+          "category": "Workplace basics",
+          "topic": "Workplace basics",
+          "difficulty": "basic"
+        },
+        {
+          "id": "d6050000-0000-4000-8000-000000000016",
+          "vocabularyId": "d6060000-0000-4000-8000-000000000016",
+          "level": "workplace",
+          "programLabel": "Food service",
+          "term": "洗浄",
+          "reading": "せんじょう",
+          "translations": {
+            "en": "Washing / cleaning",
+            "ja": "洗浄"
+          },
+          "example": "洗浄の手順を確認します。",
+          "exampleTranslation": "I check the washing procedure.",
+          "category": "Workplace basics",
+          "topic": "Workplace basics",
+          "difficulty": "basic"
+        },
+        {
+          "id": "d6050000-0000-4000-8000-000000000017",
+          "vocabularyId": "d6060000-0000-4000-8000-000000000017",
+          "level": "workplace",
+          "programLabel": "Food service",
+          "term": "食材",
+          "reading": "しょくざい",
+          "translations": {
+            "en": "Ingredients",
+            "ja": "食材"
+          },
+          "example": "食材の名前を覚えます。",
+          "exampleTranslation": "I learn the names of ingredients.",
+          "category": "Workplace basics",
+          "topic": "Workplace basics",
+          "difficulty": "basic"
+        },
+        {
+          "id": "d6050000-0000-4000-8000-000000000018",
+          "vocabularyId": "d6060000-0000-4000-8000-000000000018",
+          "level": "workplace",
+          "programLabel": "Food service",
+          "term": "アレルギー",
+          "reading": "あれるぎー",
+          "translations": {
+            "en": "Allergy",
+            "ja": "アレルギー"
+          },
+          "example": "アレルギーについて担当者に確認します。",
+          "exampleTranslation": "I check with the person in charge about allergies.",
+          "category": "Safety & communication",
+          "topic": "Safety & communication",
+          "difficulty": "basic"
+        },
+        {
+          "id": "d6050000-0000-4000-8000-000000000019",
+          "vocabularyId": "d6060000-0000-4000-8000-000000000019",
+          "level": "workplace",
+          "programLabel": "Food service",
+          "term": "手洗い",
+          "reading": "てあらい",
+          "translations": {
+            "en": "Handwashing",
+            "ja": "手洗い"
+          },
+          "example": "手洗いの場所を教えてください。",
+          "exampleTranslation": "Please show me where to wash my hands.",
+          "category": "Safety & communication",
+          "topic": "Safety & communication",
+          "difficulty": "basic"
+        },
+        {
+          "id": "d6050000-0000-4000-8000-000000000020",
+          "vocabularyId": "d6060000-0000-4000-8000-000000000020",
+          "level": "workplace",
+          "programLabel": "Food service",
+          "term": "満席",
+          "reading": "まんせき",
+          "translations": {
+            "en": "All seats occupied",
+            "ja": "満席"
+          },
+          "example": "ただいま満席です。",
+          "exampleTranslation": "We are currently full.",
+          "category": "Safety & communication",
+          "topic": "Safety & communication",
+          "difficulty": "basic"
+        }
+      ],
+      "bankId": "d6020000-0000-4000-8000-000000000022"
+    },
+    {
+      "id": "d6030000-0000-4000-8000-000000000003",
+      "slug": "accommodation",
+      "title": "Accommodation",
+      "titleJa": "宿泊",
+      "summary": "Guest greetings, reservations and directions.",
+      "summaryJa": "宿泊客へのご案内を練習します。",
+      "courseId": "d6010000-0000-4000-8000-000000000004",
+      "deckId": "d6040000-0000-4000-8000-000000000003",
+      "cards": [
+        {
+          "id": "d6050000-0000-4000-8000-000000000021",
+          "vocabularyId": "d6060000-0000-4000-8000-000000000021",
+          "level": "workplace",
+          "programLabel": "Accommodation",
+          "term": "宿泊",
+          "reading": "しゅくはく",
+          "translations": {
+            "en": "Overnight stay",
+            "ja": "宿泊"
+          },
+          "example": "二泊の宿泊を予約しました。",
+          "exampleTranslation": "I booked a two-night stay.",
+          "category": "Workplace basics",
+          "topic": "Workplace basics",
+          "difficulty": "basic"
+        },
+        {
+          "id": "d6050000-0000-4000-8000-000000000022",
+          "vocabularyId": "d6060000-0000-4000-8000-000000000022",
+          "level": "workplace",
+          "programLabel": "Accommodation",
+          "term": "受付",
+          "reading": "うけつけ",
+          "translations": {
+            "en": "Reception",
+            "ja": "受付"
+          },
+          "example": "受付でお名前を伺います。",
+          "exampleTranslation": "We ask for your name at reception.",
+          "category": "Workplace basics",
+          "topic": "Workplace basics",
+          "difficulty": "basic"
+        },
+        {
+          "id": "d6050000-0000-4000-8000-000000000023",
+          "vocabularyId": "d6060000-0000-4000-8000-000000000023",
+          "level": "workplace",
+          "programLabel": "Accommodation",
+          "term": "客室",
+          "reading": "きゃくしつ",
+          "translations": {
+            "en": "Guest room",
+            "ja": "客室"
+          },
+          "example": "客室は三階です。",
+          "exampleTranslation": "The guest room is on the third floor.",
+          "category": "Workplace basics",
+          "topic": "Workplace basics",
+          "difficulty": "basic"
+        },
+        {
+          "id": "d6050000-0000-4000-8000-000000000024",
+          "vocabularyId": "d6060000-0000-4000-8000-000000000024",
+          "level": "workplace",
+          "programLabel": "Accommodation",
+          "term": "鍵",
+          "reading": "かぎ",
+          "translations": {
+            "en": "Key",
+            "ja": "鍵"
+          },
+          "example": "こちらがお部屋の鍵です。",
+          "exampleTranslation": "Here is your room key.",
+          "category": "Workplace basics",
+          "topic": "Workplace basics",
+          "difficulty": "basic"
+        },
+        {
+          "id": "d6050000-0000-4000-8000-000000000025",
+          "vocabularyId": "d6060000-0000-4000-8000-000000000025",
+          "level": "workplace",
+          "programLabel": "Accommodation",
+          "term": "朝食",
+          "reading": "ちょうしょく",
+          "translations": {
+            "en": "Breakfast",
+            "ja": "朝食"
+          },
+          "example": "朝食は七時からです。",
+          "exampleTranslation": "Breakfast starts at seven.",
+          "category": "Workplace basics",
+          "topic": "Workplace basics",
+          "difficulty": "basic"
+        },
+        {
+          "id": "d6050000-0000-4000-8000-000000000026",
+          "vocabularyId": "d6060000-0000-4000-8000-000000000026",
+          "level": "workplace",
+          "programLabel": "Accommodation",
+          "term": "清掃",
+          "reading": "せいそう",
+          "translations": {
+            "en": "Cleaning",
+            "ja": "清掃"
+          },
+          "example": "清掃の時間を確認します。",
+          "exampleTranslation": "I confirm the cleaning time.",
+          "category": "Workplace basics",
+          "topic": "Workplace basics",
+          "difficulty": "basic"
+        },
+        {
+          "id": "d6050000-0000-4000-8000-000000000027",
+          "vocabularyId": "d6060000-0000-4000-8000-000000000027",
+          "level": "workplace",
+          "programLabel": "Accommodation",
+          "term": "荷物",
+          "reading": "にもつ",
+          "translations": {
+            "en": "Luggage",
+            "ja": "荷物"
+          },
+          "example": "お荷物はこちらにお願いします。",
+          "exampleTranslation": "Please place your luggage here.",
+          "category": "Workplace basics",
+          "topic": "Workplace basics",
+          "difficulty": "basic"
+        },
+        {
+          "id": "d6050000-0000-4000-8000-000000000028",
+          "vocabularyId": "d6060000-0000-4000-8000-000000000028",
+          "level": "workplace",
+          "programLabel": "Accommodation",
+          "term": "確認",
+          "reading": "かくにん",
+          "translations": {
+            "en": "Confirmation / checking",
+            "ja": "確認"
+          },
+          "example": "予約の内容を確認します。",
+          "exampleTranslation": "I confirm the reservation details.",
+          "category": "Safety & communication",
+          "topic": "Safety & communication",
+          "difficulty": "basic"
+        },
+        {
+          "id": "d6050000-0000-4000-8000-000000000029",
+          "vocabularyId": "d6060000-0000-4000-8000-000000000029",
+          "level": "workplace",
+          "programLabel": "Accommodation",
+          "term": "非常口",
+          "reading": "ひじょうぐち",
+          "translations": {
+            "en": "Emergency exit",
+            "ja": "非常口"
+          },
+          "example": "非常口の場所を確認します。",
+          "exampleTranslation": "I check the location of the emergency exit.",
+          "category": "Safety & communication",
+          "topic": "Safety & communication",
+          "difficulty": "basic"
+        },
+        {
+          "id": "d6050000-0000-4000-8000-000000000030",
+          "vocabularyId": "d6060000-0000-4000-8000-000000000030",
+          "level": "workplace",
+          "programLabel": "Accommodation",
+          "term": "連泊",
+          "reading": "れんぱく",
+          "translations": {
+            "en": "Consecutive nights",
+            "ja": "連泊"
+          },
+          "example": "三日間の連泊です。",
+          "exampleTranslation": "It is a stay of three consecutive nights.",
+          "category": "Safety & communication",
+          "topic": "Safety & communication",
+          "difficulty": "basic"
+        }
+      ],
+      "bankId": "d6020000-0000-4000-8000-000000000023"
+    },
+    {
+      "id": "d6030000-0000-4000-8000-000000000004",
+      "slug": "construction",
+      "title": "Construction",
+      "titleJa": "建設",
+      "summary": "Understand instructions and ask before acting.",
+      "summaryJa": "指示の確認や質問の表現を学びます。",
+      "courseId": "d6010000-0000-4000-8000-000000000005",
+      "deckId": "d6040000-0000-4000-8000-000000000004",
+      "cards": [
+        {
+          "id": "d6050000-0000-4000-8000-000000000031",
+          "vocabularyId": "d6060000-0000-4000-8000-000000000031",
+          "level": "workplace",
+          "programLabel": "Construction",
+          "term": "安全",
+          "reading": "あんぜん",
+          "translations": {
+            "en": "Safety",
+            "ja": "安全"
+          },
+          "example": "安全について説明を受けます。",
+          "exampleTranslation": "I receive an explanation about safety.",
+          "category": "Workplace basics",
+          "topic": "Workplace basics",
+          "difficulty": "basic"
+        },
+        {
+          "id": "d6050000-0000-4000-8000-000000000032",
+          "vocabularyId": "d6060000-0000-4000-8000-000000000032",
+          "level": "workplace",
+          "programLabel": "Construction",
+          "term": "現場",
+          "reading": "げんば",
+          "translations": {
+            "en": "Worksite",
+            "ja": "現場"
+          },
+          "example": "現場の担当者に挨拶します。",
+          "exampleTranslation": "I greet the person in charge at the worksite.",
+          "category": "Workplace basics",
+          "topic": "Workplace basics",
+          "difficulty": "basic"
+        },
+        {
+          "id": "d6050000-0000-4000-8000-000000000033",
+          "vocabularyId": "d6060000-0000-4000-8000-000000000033",
+          "level": "workplace",
+          "programLabel": "Construction",
+          "term": "保護具",
+          "reading": "ほごぐ",
+          "translations": {
+            "en": "Protective equipment",
+            "ja": "保護具"
+          },
+          "example": "必要な保護具を担当者に確認します。",
+          "exampleTranslation": "I ask the person in charge which protective equipment is required.",
+          "category": "Workplace basics",
+          "topic": "Workplace basics",
+          "difficulty": "basic"
+        },
+        {
+          "id": "d6050000-0000-4000-8000-000000000034",
+          "vocabularyId": "d6060000-0000-4000-8000-000000000034",
+          "level": "workplace",
+          "programLabel": "Construction",
+          "term": "工具",
+          "reading": "こうぐ",
+          "translations": {
+            "en": "Tool",
+            "ja": "工具"
+          },
+          "example": "工具の名前を教えてください。",
+          "exampleTranslation": "Please tell me the name of the tool.",
+          "category": "Workplace basics",
+          "topic": "Workplace basics",
+          "difficulty": "basic"
+        },
+        {
+          "id": "d6050000-0000-4000-8000-000000000035",
+          "vocabularyId": "d6060000-0000-4000-8000-000000000035",
+          "level": "workplace",
+          "programLabel": "Construction",
+          "term": "足元",
+          "reading": "あしもと",
+          "translations": {
+            "en": "Area around one’s feet / footing",
+            "ja": "足元"
+          },
+          "example": "足元に注意してください。",
+          "exampleTranslation": "Please watch your step.",
+          "category": "Workplace basics",
+          "topic": "Workplace basics",
+          "difficulty": "basic"
+        },
+        {
+          "id": "d6050000-0000-4000-8000-000000000036",
+          "vocabularyId": "d6060000-0000-4000-8000-000000000036",
+          "level": "workplace",
+          "programLabel": "Construction",
+          "term": "立入禁止",
+          "reading": "たちいりきんし",
+          "translations": {
+            "en": "No entry",
+            "ja": "立入禁止"
+          },
+          "example": "立入禁止の表示を読みます。",
+          "exampleTranslation": "I read the no-entry sign.",
+          "category": "Workplace basics",
+          "topic": "Workplace basics",
+          "difficulty": "basic"
+        },
+        {
+          "id": "d6050000-0000-4000-8000-000000000037",
+          "vocabularyId": "d6060000-0000-4000-8000-000000000037",
+          "level": "workplace",
+          "programLabel": "Construction",
+          "term": "指示",
+          "reading": "しじ",
+          "translations": {
+            "en": "Instruction",
+            "ja": "指示"
+          },
+          "example": "指示が分からないので確認します。",
+          "exampleTranslation": "I check because I do not understand the instruction.",
+          "category": "Workplace basics",
+          "topic": "Workplace basics",
+          "difficulty": "basic"
+        },
+        {
+          "id": "d6050000-0000-4000-8000-000000000038",
+          "vocabularyId": "d6060000-0000-4000-8000-000000000038",
+          "level": "workplace",
+          "programLabel": "Construction",
+          "term": "点検",
+          "reading": "てんけん",
+          "translations": {
+            "en": "Inspection",
+            "ja": "点検"
+          },
+          "example": "点検の担当者を確認します。",
+          "exampleTranslation": "I check who is responsible for inspection.",
+          "category": "Safety & communication",
+          "topic": "Safety & communication",
+          "difficulty": "basic"
+        },
+        {
+          "id": "d6050000-0000-4000-8000-000000000039",
+          "vocabularyId": "d6060000-0000-4000-8000-000000000039",
+          "level": "workplace",
+          "programLabel": "Construction",
+          "term": "報告",
+          "reading": "ほうこく",
+          "translations": {
+            "en": "Report",
+            "ja": "報告"
+          },
+          "example": "担当者に報告します。",
+          "exampleTranslation": "I report to the person in charge.",
+          "category": "Safety & communication",
+          "topic": "Safety & communication",
+          "difficulty": "basic"
+        },
+        {
+          "id": "d6050000-0000-4000-8000-000000000040",
+          "vocabularyId": "d6060000-0000-4000-8000-000000000040",
+          "level": "workplace",
+          "programLabel": "Construction",
+          "term": "休憩",
+          "reading": "きゅうけい",
+          "translations": {
+            "en": "Break",
+            "ja": "休憩"
+          },
+          "example": "休憩の時間は何時ですか。",
+          "exampleTranslation": "What time is the break?",
+          "category": "Safety & communication",
+          "topic": "Safety & communication",
+          "difficulty": "basic"
+        }
+      ],
+      "bankId": "d6020000-0000-4000-8000-000000000024"
+    },
+    {
+      "id": "d6030000-0000-4000-8000-000000000005",
+      "slug": "manufacturing",
+      "title": "Manufacturing",
+      "titleJa": "工業製品製造業",
+      "summary": "Report problems and communicate with your team.",
+      "summaryJa": "問題の報告やチームで使う表現を学びます。",
+      "courseId": "d6010000-0000-4000-8000-000000000006",
+      "deckId": "d6040000-0000-4000-8000-000000000005",
+      "cards": [
+        {
+          "id": "d6050000-0000-4000-8000-000000000041",
+          "vocabularyId": "d6060000-0000-4000-8000-000000000041",
+          "level": "workplace",
+          "programLabel": "Manufacturing",
+          "term": "製品",
+          "reading": "せいひん",
+          "translations": {
+            "en": "Product",
+            "ja": "製品"
+          },
+          "example": "製品の名前を確認します。",
+          "exampleTranslation": "I confirm the product name.",
+          "category": "Workplace basics",
+          "topic": "Workplace basics",
+          "difficulty": "basic"
+        },
+        {
+          "id": "d6050000-0000-4000-8000-000000000042",
+          "vocabularyId": "d6060000-0000-4000-8000-000000000042",
+          "level": "workplace",
+          "programLabel": "Manufacturing",
+          "term": "部品",
+          "reading": "ぶひん",
+          "translations": {
+            "en": "Part / component",
+            "ja": "部品"
+          },
+          "example": "部品の番号を読みます。",
+          "exampleTranslation": "I read the part number.",
+          "category": "Workplace basics",
+          "topic": "Workplace basics",
+          "difficulty": "basic"
+        },
+        {
+          "id": "d6050000-0000-4000-8000-000000000043",
+          "vocabularyId": "d6060000-0000-4000-8000-000000000043",
+          "level": "workplace",
+          "programLabel": "Manufacturing",
+          "term": "機械",
+          "reading": "きかい",
+          "translations": {
+            "en": "Machine",
+            "ja": "機械"
+          },
+          "example": "機械について担当者に質問します。",
+          "exampleTranslation": "I ask the person in charge about the machine.",
+          "category": "Workplace basics",
+          "topic": "Workplace basics",
+          "difficulty": "basic"
+        },
+        {
+          "id": "d6050000-0000-4000-8000-000000000044",
+          "vocabularyId": "d6060000-0000-4000-8000-000000000044",
+          "level": "workplace",
+          "programLabel": "Manufacturing",
+          "term": "異常",
+          "reading": "いじょう",
+          "translations": {
+            "en": "Abnormality / problem",
+            "ja": "異常"
+          },
+          "example": "異常について上司に報告します。",
+          "exampleTranslation": "I report the problem to my supervisor.",
+          "category": "Workplace basics",
+          "topic": "Workplace basics",
+          "difficulty": "basic"
+        },
+        {
+          "id": "d6050000-0000-4000-8000-000000000045",
+          "vocabularyId": "d6060000-0000-4000-8000-000000000045",
+          "level": "workplace",
+          "programLabel": "Manufacturing",
+          "term": "停止",
+          "reading": "ていし",
+          "translations": {
+            "en": "Stop / suspension",
+            "ja": "停止"
+          },
+          "example": "停止の表示が出ています。",
+          "exampleTranslation": "The stop indicator is showing.",
+          "category": "Workplace basics",
+          "topic": "Workplace basics",
+          "difficulty": "basic"
+        },
+        {
+          "id": "d6050000-0000-4000-8000-000000000046",
+          "vocabularyId": "d6060000-0000-4000-8000-000000000046",
+          "level": "workplace",
+          "programLabel": "Manufacturing",
+          "term": "検査",
+          "reading": "けんさ",
+          "translations": {
+            "en": "Inspection / examination",
+            "ja": "検査"
+          },
+          "example": "検査の担当者はどなたですか。",
+          "exampleTranslation": "Who is responsible for inspection?",
+          "category": "Workplace basics",
+          "topic": "Workplace basics",
+          "difficulty": "basic"
+        },
+        {
+          "id": "d6050000-0000-4000-8000-000000000047",
+          "vocabularyId": "d6060000-0000-4000-8000-000000000047",
+          "level": "workplace",
+          "programLabel": "Manufacturing",
+          "term": "数量",
+          "reading": "すうりょう",
+          "translations": {
+            "en": "Quantity",
+            "ja": "数量"
+          },
+          "example": "数量を確認してください。",
+          "exampleTranslation": "Please check the quantity.",
+          "category": "Workplace basics",
+          "topic": "Workplace basics",
+          "difficulty": "basic"
+        },
+        {
+          "id": "d6050000-0000-4000-8000-000000000048",
+          "vocabularyId": "d6060000-0000-4000-8000-000000000048",
+          "level": "workplace",
+          "programLabel": "Manufacturing",
+          "term": "手順",
+          "reading": "てじゅん",
+          "translations": {
+            "en": "Procedure / sequence",
+            "ja": "手順"
+          },
+          "example": "手順をもう一度説明してください。",
+          "exampleTranslation": "Please explain the procedure again.",
+          "category": "Safety & communication",
+          "topic": "Safety & communication",
+          "difficulty": "basic"
+        },
+        {
+          "id": "d6050000-0000-4000-8000-000000000049",
+          "vocabularyId": "d6060000-0000-4000-8000-000000000049",
+          "level": "workplace",
+          "programLabel": "Manufacturing",
+          "term": "保護眼鏡",
+          "reading": "ほごめがね",
+          "translations": {
+            "en": "Safety glasses",
+            "ja": "保護眼鏡"
+          },
+          "example": "保護眼鏡の場所を確認します。",
+          "exampleTranslation": "I check where the safety glasses are.",
+          "category": "Safety & communication",
+          "topic": "Safety & communication",
+          "difficulty": "basic"
+        },
+        {
+          "id": "d6050000-0000-4000-8000-000000000050",
+          "vocabularyId": "d6060000-0000-4000-8000-000000000050",
+          "level": "workplace",
+          "programLabel": "Manufacturing",
+          "term": "作業",
+          "reading": "さぎょう",
+          "translations": {
+            "en": "Task / work",
+            "ja": "作業"
+          },
+          "example": "作業の内容を確認します。",
+          "exampleTranslation": "I confirm the details of the task.",
+          "category": "Safety & communication",
+          "topic": "Safety & communication",
+          "difficulty": "basic"
+        }
+      ],
+      "bankId": "d6020000-0000-4000-8000-000000000025"
+    },
+    {
+      "id": "d6030000-0000-4000-8000-000000000006",
+      "slug": "agriculture",
+      "title": "Agriculture",
+      "titleJa": "農業",
+      "summary": "Field tasks, produce and clear instructions.",
+      "summaryJa": "農作業や農産物に関する表現を学びます。",
+      "courseId": "d6010000-0000-4000-8000-000000000007",
+      "deckId": "d6040000-0000-4000-8000-000000000006",
+      "cards": [
+        {
+          "id": "d6050000-0000-4000-8000-000000000051",
+          "vocabularyId": "d6060000-0000-4000-8000-000000000051",
+          "level": "workplace",
+          "programLabel": "Agriculture",
+          "term": "収穫",
+          "reading": "しゅうかく",
+          "translations": {
+            "en": "Harvest",
+            "ja": "収穫"
+          },
+          "example": "収穫の日を確認します。",
+          "exampleTranslation": "I confirm the harvest date.",
+          "category": "Workplace basics",
+          "topic": "Workplace basics",
+          "difficulty": "basic"
+        },
+        {
+          "id": "d6050000-0000-4000-8000-000000000052",
+          "vocabularyId": "d6060000-0000-4000-8000-000000000052",
+          "level": "workplace",
+          "programLabel": "Agriculture",
+          "term": "畑",
+          "reading": "はたけ",
+          "translations": {
+            "en": "Field",
+            "ja": "畑"
+          },
+          "example": "畑の場所を教えてください。",
+          "exampleTranslation": "Please tell me where the field is.",
+          "category": "Workplace basics",
+          "topic": "Workplace basics",
+          "difficulty": "basic"
+        },
+        {
+          "id": "d6050000-0000-4000-8000-000000000053",
+          "vocabularyId": "d6060000-0000-4000-8000-000000000053",
+          "level": "workplace",
+          "programLabel": "Agriculture",
+          "term": "苗",
+          "reading": "なえ",
+          "translations": {
+            "en": "Seedling",
+            "ja": "苗"
+          },
+          "example": "苗の名前を覚えます。",
+          "exampleTranslation": "I learn the names of seedlings.",
+          "category": "Workplace basics",
+          "topic": "Workplace basics",
+          "difficulty": "basic"
+        },
+        {
+          "id": "d6050000-0000-4000-8000-000000000054",
+          "vocabularyId": "d6060000-0000-4000-8000-000000000054",
+          "level": "workplace",
+          "programLabel": "Agriculture",
+          "term": "水やり",
+          "reading": "みずやり",
+          "translations": {
+            "en": "Watering",
+            "ja": "水やり"
+          },
+          "example": "水やりの担当を確認します。",
+          "exampleTranslation": "I check who is responsible for watering.",
+          "category": "Workplace basics",
+          "topic": "Workplace basics",
+          "difficulty": "basic"
+        },
+        {
+          "id": "d6050000-0000-4000-8000-000000000055",
+          "vocabularyId": "d6060000-0000-4000-8000-000000000055",
+          "level": "workplace",
+          "programLabel": "Agriculture",
+          "term": "肥料",
+          "reading": "ひりょう",
+          "translations": {
+            "en": "Fertilizer",
+            "ja": "肥料"
+          },
+          "example": "肥料について担当者に聞きます。",
+          "exampleTranslation": "I ask the person in charge about fertilizer.",
+          "category": "Workplace basics",
+          "topic": "Workplace basics",
+          "difficulty": "basic"
+        },
+        {
+          "id": "d6050000-0000-4000-8000-000000000056",
+          "vocabularyId": "d6060000-0000-4000-8000-000000000056",
+          "level": "workplace",
+          "programLabel": "Agriculture",
+          "term": "選別",
+          "reading": "せんべつ",
+          "translations": {
+            "en": "Sorting / selection",
+            "ja": "選別"
+          },
+          "example": "選別の基準を確認します。",
+          "exampleTranslation": "I confirm the sorting criteria.",
+          "category": "Workplace basics",
+          "topic": "Workplace basics",
+          "difficulty": "basic"
+        },
+        {
+          "id": "d6050000-0000-4000-8000-000000000057",
+          "vocabularyId": "d6060000-0000-4000-8000-000000000057",
+          "level": "workplace",
+          "programLabel": "Agriculture",
+          "term": "出荷",
+          "reading": "しゅっか",
+          "translations": {
+            "en": "Shipping",
+            "ja": "出荷"
+          },
+          "example": "出荷の時間を確認します。",
+          "exampleTranslation": "I confirm the shipping time.",
+          "category": "Workplace basics",
+          "topic": "Workplace basics",
+          "difficulty": "basic"
+        },
+        {
+          "id": "d6050000-0000-4000-8000-000000000058",
+          "vocabularyId": "d6060000-0000-4000-8000-000000000058",
+          "level": "workplace",
+          "programLabel": "Agriculture",
+          "term": "天候",
+          "reading": "てんこう",
+          "translations": {
+            "en": "Weather conditions",
+            "ja": "天候"
+          },
+          "example": "天候を確認してから相談します。",
+          "exampleTranslation": "I check the weather conditions before discussing the plan.",
+          "category": "Safety & communication",
+          "topic": "Safety & communication",
+          "difficulty": "basic"
+        },
+        {
+          "id": "d6050000-0000-4000-8000-000000000059",
+          "vocabularyId": "d6060000-0000-4000-8000-000000000059",
+          "level": "workplace",
+          "programLabel": "Agriculture",
+          "term": "農具",
+          "reading": "のうぐ",
+          "translations": {
+            "en": "Farm tool",
+            "ja": "農具"
+          },
+          "example": "農具の名前を教えてください。",
+          "exampleTranslation": "Please tell me the name of the farm tool.",
+          "category": "Safety & communication",
+          "topic": "Safety & communication",
+          "difficulty": "basic"
+        },
+        {
+          "id": "d6050000-0000-4000-8000-000000000060",
+          "vocabularyId": "d6060000-0000-4000-8000-000000000060",
+          "level": "workplace",
+          "programLabel": "Agriculture",
+          "term": "手袋",
+          "reading": "てぶくろ",
+          "translations": {
+            "en": "Gloves",
+            "ja": "手袋"
+          },
+          "example": "必要な手袋を確認します。",
+          "exampleTranslation": "I check which gloves are required.",
+          "category": "Safety & communication",
+          "topic": "Safety & communication",
+          "difficulty": "basic"
+        }
+      ],
+      "bankId": "d6020000-0000-4000-8000-000000000026"
+    }
+  ],
+  "banks": [
+    {
+      "id": "d6020000-0000-4000-8000-000000000001",
+      "courseId": "d6010000-0000-4000-8000-000000000001",
+      "category": "word-meaning",
+      "mode": "section",
+      "subject": "vocabulary",
+      "title": "JFT-Basic · word-meaning · section",
+      "questions": [
+        {
+          "category": "word-meaning",
+          "prompt": "「やくそく」の意味を選んでください。",
+          "options": [
+            "Promise or appointment",
+            "A meal",
+            "A station"
+          ],
+          "correctIndex": 0,
+          "explanation": "やくそく means “promise or appointment”. Choose the meaning rather than a similar everyday topic.",
+          "japaneseExplanation": "人と予定を決めたり、あることを守ると伝えたりすることです。",
+          "translation": "Promise or appointment",
+          "id": "d6070000-0000-4000-8000-000000000001",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000005",
+            "d6080000-0000-4000-8000-000000000006",
+            "d6080000-0000-4000-8000-000000000007"
+          ]
+        },
+        {
+          "category": "word-meaning",
+          "prompt": "「つごう」の意味を選んでください。",
+          "options": [
+            "A factory",
+            "Availability or convenience",
+            "A window"
+          ],
+          "correctIndex": 1,
+          "explanation": "つごう means “availability or convenience”. Choose the meaning rather than a similar everyday topic.",
+          "japaneseExplanation": "予定や事情から考えた、時間などのよさを表します。",
+          "translation": "Availability or convenience",
+          "id": "d6070000-0000-4000-8000-000000000002",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000009",
+            "d6080000-0000-4000-8000-000000000010",
+            "d6080000-0000-4000-8000-000000000011"
+          ]
+        },
+        {
+          "category": "word-meaning",
+          "prompt": "「じゅんび」の意味を選んでください。",
+          "options": [
+            "Payment",
+            "Weather",
+            "Preparation"
+          ],
+          "correctIndex": 2,
+          "explanation": "じゅんび means “preparation”. Choose the meaning rather than a similar everyday topic.",
+          "japaneseExplanation": "何かを始める前に、必要なものやことをそろえることです。",
+          "translation": "Preparation",
+          "id": "d6070000-0000-4000-8000-000000000003",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000013",
+            "d6080000-0000-4000-8000-000000000014",
+            "d6080000-0000-4000-8000-000000000015"
+          ]
+        },
+        {
+          "category": "word-meaning",
+          "prompt": "「れんらく」の意味を選んでください。",
+          "options": [
+            "Contact or communication",
+            "Cleaning",
+            "Walking"
+          ],
+          "correctIndex": 0,
+          "explanation": "れんらく means “contact or communication”. Choose the meaning rather than a similar everyday topic.",
+          "japaneseExplanation": "相手に必要な情報を知らせることです。",
+          "translation": "Contact or communication",
+          "id": "d6070000-0000-4000-8000-000000000004",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000017",
+            "d6080000-0000-4000-8000-000000000018",
+            "d6080000-0000-4000-8000-000000000019"
+          ]
+        },
+        {
+          "category": "word-meaning",
+          "prompt": "「しめきり」の意味を選んでください。",
+          "options": [
+            "Breakfast",
+            "Deadline",
+            "Holiday"
+          ],
+          "correctIndex": 1,
+          "explanation": "しめきり means “deadline”. Choose the meaning rather than a similar everyday topic.",
+          "japaneseExplanation": "書類などを出さなければならない最後の日や時刻です。",
+          "translation": "Deadline",
+          "id": "d6070000-0000-4000-8000-000000000005",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000021",
+            "d6080000-0000-4000-8000-000000000022",
+            "d6080000-0000-4000-8000-000000000023"
+          ]
+        },
+        {
+          "category": "word-meaning",
+          "prompt": "「ちゅうい」の意味を選んでください。",
+          "options": [
+            "Reservation",
+            "Price",
+            "Caution or attention"
+          ],
+          "correctIndex": 2,
+          "explanation": "ちゅうい means “caution or attention”. Choose the meaning rather than a similar everyday topic.",
+          "japaneseExplanation": "危険などに気をつけたり、大切な点をよく見たりすることです。",
+          "translation": "Caution or attention",
+          "id": "d6070000-0000-4000-8000-000000000006",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000025",
+            "d6080000-0000-4000-8000-000000000026",
+            "d6080000-0000-4000-8000-000000000027"
+          ]
+        },
+        {
+          "category": "word-meaning",
+          "prompt": "「うけつけ」の意味を選んでください。",
+          "options": [
+            "Reception desk",
+            "Exit",
+            "Kitchen"
+          ],
+          "correctIndex": 0,
+          "explanation": "うけつけ means “reception desk”. Choose the meaning rather than a similar everyday topic.",
+          "japaneseExplanation": "来た人の名前や用件を確認する場所や仕事です。",
+          "translation": "Reception desk",
+          "id": "d6070000-0000-4000-8000-000000000007",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000029",
+            "d6080000-0000-4000-8000-000000000030",
+            "d6080000-0000-4000-8000-000000000031"
+          ]
+        },
+        {
+          "category": "word-meaning",
+          "prompt": "「りょうきん」の意味を選んでください。",
+          "options": [
+            "Uniform",
+            "Fee or charge",
+            "Schedule"
+          ],
+          "correctIndex": 1,
+          "explanation": "りょうきん means “fee or charge”. Choose the meaning rather than a similar everyday topic.",
+          "japaneseExplanation": "サービスなどを利用するときに払うお金です。",
+          "translation": "Fee or charge",
+          "id": "d6070000-0000-4000-8000-000000000008",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000033",
+            "d6080000-0000-4000-8000-000000000034",
+            "d6080000-0000-4000-8000-000000000035"
+          ]
+        },
+        {
+          "category": "word-meaning",
+          "prompt": "「けいけん」の意味を選んでください。",
+          "options": [
+            "Luggage",
+            "Medicine",
+            "Experience"
+          ],
+          "correctIndex": 2,
+          "explanation": "けいけん means “experience”. Choose the meaning rather than a similar everyday topic.",
+          "japaneseExplanation": "自分で実際に見たり、したりしたことです。",
+          "translation": "Experience",
+          "id": "d6070000-0000-4000-8000-000000000009",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000037",
+            "d6080000-0000-4000-8000-000000000038",
+            "d6080000-0000-4000-8000-000000000039"
+          ]
+        },
+        {
+          "category": "word-meaning",
+          "prompt": "「せつめい」の意味を選んでください。",
+          "options": [
+            "Explanation",
+            "Delivery",
+            "Rest"
+          ],
+          "correctIndex": 0,
+          "explanation": "せつめい means “explanation”. Choose the meaning rather than a similar everyday topic.",
+          "japaneseExplanation": "相手に分かるように、内容や方法を話すことです。",
+          "translation": "Explanation",
+          "id": "d6070000-0000-4000-8000-000000000010",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000041",
+            "d6080000-0000-4000-8000-000000000042",
+            "d6080000-0000-4000-8000-000000000043"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d6020000-0000-4000-8000-000000000002",
+      "courseId": "d6010000-0000-4000-8000-000000000001",
+      "category": "word-meaning",
+      "mode": "quick",
+      "subject": "vocabulary",
+      "title": "JFT-Basic · word-meaning · quick",
+      "questions": [
+        {
+          "category": "word-meaning",
+          "prompt": "「やくそく」の意味を選んでください。",
+          "options": [
+            "A station",
+            "Promise or appointment",
+            "A meal"
+          ],
+          "correctIndex": 1,
+          "explanation": "やくそく means “promise or appointment”. Choose the meaning rather than a similar everyday topic.",
+          "japaneseExplanation": "人と予定を決めたり、あることを守ると伝えたりすることです。",
+          "translation": "Promise or appointment",
+          "id": "d6070000-0000-4000-8000-000000000011",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000045",
+            "d6080000-0000-4000-8000-000000000046",
+            "d6080000-0000-4000-8000-000000000047"
+          ]
+        },
+        {
+          "category": "word-meaning",
+          "prompt": "「つごう」の意味を選んでください。",
+          "options": [
+            "A window",
+            "A factory",
+            "Availability or convenience"
+          ],
+          "correctIndex": 2,
+          "explanation": "つごう means “availability or convenience”. Choose the meaning rather than a similar everyday topic.",
+          "japaneseExplanation": "予定や事情から考えた、時間などのよさを表します。",
+          "translation": "Availability or convenience",
+          "id": "d6070000-0000-4000-8000-000000000012",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000049",
+            "d6080000-0000-4000-8000-000000000050",
+            "d6080000-0000-4000-8000-000000000051"
+          ]
+        },
+        {
+          "category": "word-meaning",
+          "prompt": "「じゅんび」の意味を選んでください。",
+          "options": [
+            "Preparation",
+            "Payment",
+            "Weather"
+          ],
+          "correctIndex": 0,
+          "explanation": "じゅんび means “preparation”. Choose the meaning rather than a similar everyday topic.",
+          "japaneseExplanation": "何かを始める前に、必要なものやことをそろえることです。",
+          "translation": "Preparation",
+          "id": "d6070000-0000-4000-8000-000000000013",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000053",
+            "d6080000-0000-4000-8000-000000000054",
+            "d6080000-0000-4000-8000-000000000055"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d6020000-0000-4000-8000-000000000003",
+      "courseId": "d6010000-0000-4000-8000-000000000001",
+      "category": "word-usage",
+      "mode": "section",
+      "subject": "vocabulary",
+      "title": "JFT-Basic · word-usage · section",
+      "questions": [
+        {
+          "category": "word-usage",
+          "prompt": "雨が降っていますから、（　）を持っていきます。",
+          "options": [
+            "靴下",
+            "切手",
+            "傘"
+          ],
+          "correctIndex": 2,
+          "explanation": "The rain provides the context for 傘, umbrella.",
+          "japaneseExplanation": "雨にぬれないために傘を持っていきます。",
+          "translation": "It is raining, so take an umbrella.",
+          "id": "d6070000-0000-4000-8000-000000000014",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000057",
+            "d6080000-0000-4000-8000-000000000058",
+            "d6080000-0000-4000-8000-000000000059"
+          ]
+        },
+        {
+          "category": "word-usage",
+          "prompt": "ホテルに電話して、部屋を（　）しました。",
+          "options": [
+            "予約",
+            "散歩",
+            "洗濯"
+          ],
+          "correctIndex": 0,
+          "explanation": "予約する means to reserve, which fits booking a hotel room.",
+          "japaneseExplanation": "ホテルの部屋を前もって取ることを予約と言います。",
+          "translation": "I called the hotel and booked a room.",
+          "id": "d6070000-0000-4000-8000-000000000015",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000061",
+            "d6080000-0000-4000-8000-000000000062",
+            "d6080000-0000-4000-8000-000000000063"
+          ]
+        },
+        {
+          "category": "word-usage",
+          "prompt": "二時間働いたので、十分（　）します。",
+          "options": [
+            "到着",
+            "休憩",
+            "出発"
+          ],
+          "correctIndex": 1,
+          "explanation": "休憩する means to take a break after work.",
+          "japaneseExplanation": "働いた後で、短い時間休むことを休憩と言います。",
+          "translation": "After working for two hours, I will take a ten-minute break.",
+          "id": "d6070000-0000-4000-8000-000000000016",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000065",
+            "d6080000-0000-4000-8000-000000000066",
+            "d6080000-0000-4000-8000-000000000067"
+          ]
+        },
+        {
+          "category": "word-usage",
+          "prompt": "分からないことがあったら、先生に（　）してください。",
+          "options": [
+            "料理",
+            "運転",
+            "相談"
+          ],
+          "correctIndex": 2,
+          "explanation": "相談する means to discuss something or ask for advice.",
+          "japaneseExplanation": "分からないことを話して、助言をもらうために相談します。",
+          "translation": "If something is unclear, please consult the teacher.",
+          "id": "d6070000-0000-4000-8000-000000000017",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000069",
+            "d6080000-0000-4000-8000-000000000070",
+            "d6080000-0000-4000-8000-000000000071"
+          ]
+        },
+        {
+          "category": "word-usage",
+          "prompt": "送る前に、住所をもう一度（　）します。",
+          "options": [
+            "確認",
+            "運動",
+            "入院"
+          ],
+          "correctIndex": 0,
+          "explanation": "確認する means to check information is correct.",
+          "japaneseExplanation": "住所が正しいかもう一度調べるので確認を使います。",
+          "translation": "I check the address again before sending it.",
+          "id": "d6070000-0000-4000-8000-000000000018",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000073",
+            "d6080000-0000-4000-8000-000000000074",
+            "d6080000-0000-4000-8000-000000000075"
+          ]
+        },
+        {
+          "category": "word-usage",
+          "prompt": "電車が止まったので、会社に（　）しました。",
+          "options": [
+            "掃除",
+            "遅刻",
+            "貯金"
+          ],
+          "correctIndex": 1,
+          "explanation": "遅刻する means arriving late for an appointment or work.",
+          "japaneseExplanation": "決められた時刻より後に着くことを遅刻と言います。",
+          "translation": "The train stopped, so I was late for work.",
+          "id": "d6070000-0000-4000-8000-000000000019",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000077",
+            "d6080000-0000-4000-8000-000000000078",
+            "d6080000-0000-4000-8000-000000000079"
+          ]
+        },
+        {
+          "category": "word-usage",
+          "prompt": "駅までの道をお客さんに（　）しました。",
+          "options": [
+            "睡眠",
+            "注文",
+            "案内"
+          ],
+          "correctIndex": 2,
+          "explanation": "案内する means guiding someone or showing a route.",
+          "japaneseExplanation": "道や場所を人に教えるときは案内を使います。",
+          "translation": "I showed the customer the way to the station.",
+          "id": "d6070000-0000-4000-8000-000000000020",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000081",
+            "d6080000-0000-4000-8000-000000000082",
+            "d6080000-0000-4000-8000-000000000083"
+          ]
+        },
+        {
+          "category": "word-usage",
+          "prompt": "レストランで、カレーを（　）しました。",
+          "options": [
+            "注文",
+            "卒業",
+            "通勤"
+          ],
+          "correctIndex": 0,
+          "explanation": "注文する is used for ordering food.",
+          "japaneseExplanation": "店で料理を頼むときは注文を使います。",
+          "translation": "I ordered curry at a restaurant.",
+          "id": "d6070000-0000-4000-8000-000000000021",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000085",
+            "d6080000-0000-4000-8000-000000000086",
+            "d6080000-0000-4000-8000-000000000087"
+          ]
+        },
+        {
+          "category": "word-usage",
+          "prompt": "書いた申込書を受付に（　）します。",
+          "options": [
+            "欠席",
+            "提出",
+            "出席"
+          ],
+          "correctIndex": 1,
+          "explanation": "提出する means handing in a document.",
+          "japaneseExplanation": "書類を決められた相手や場所に出すことです。",
+          "translation": "I submit the completed application at reception.",
+          "id": "d6070000-0000-4000-8000-000000000022",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000089",
+            "d6080000-0000-4000-8000-000000000090",
+            "d6080000-0000-4000-8000-000000000091"
+          ]
+        },
+        {
+          "category": "word-usage",
+          "prompt": "仕事を休むときは、会社に（　）してください。",
+          "options": [
+            "買物",
+            "洗顔",
+            "連絡"
+          ],
+          "correctIndex": 2,
+          "explanation": "連絡する means contacting someone to share information.",
+          "japaneseExplanation": "欠勤することを会社に知らせるので連絡を使います。",
+          "translation": "Please contact the company when you will be absent.",
+          "id": "d6070000-0000-4000-8000-000000000023",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000093",
+            "d6080000-0000-4000-8000-000000000094",
+            "d6080000-0000-4000-8000-000000000095"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d6020000-0000-4000-8000-000000000004",
+      "courseId": "d6010000-0000-4000-8000-000000000001",
+      "category": "word-usage",
+      "mode": "quick",
+      "subject": "vocabulary",
+      "title": "JFT-Basic · word-usage · quick",
+      "questions": [
+        {
+          "category": "word-usage",
+          "prompt": "雨が降っていますから、（　）を持っていきます。",
+          "options": [
+            "傘",
+            "靴下",
+            "切手"
+          ],
+          "correctIndex": 0,
+          "explanation": "The rain provides the context for 傘, umbrella.",
+          "japaneseExplanation": "雨にぬれないために傘を持っていきます。",
+          "translation": "It is raining, so take an umbrella.",
+          "id": "d6070000-0000-4000-8000-000000000024",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000097",
+            "d6080000-0000-4000-8000-000000000098",
+            "d6080000-0000-4000-8000-000000000099"
+          ]
+        },
+        {
+          "category": "word-usage",
+          "prompt": "ホテルに電話して、部屋を（　）しました。",
+          "options": [
+            "洗濯",
+            "予約",
+            "散歩"
+          ],
+          "correctIndex": 1,
+          "explanation": "予約する means to reserve, which fits booking a hotel room.",
+          "japaneseExplanation": "ホテルの部屋を前もって取ることを予約と言います。",
+          "translation": "I called the hotel and booked a room.",
+          "id": "d6070000-0000-4000-8000-000000000025",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000101",
+            "d6080000-0000-4000-8000-000000000102",
+            "d6080000-0000-4000-8000-000000000103"
+          ]
+        },
+        {
+          "category": "word-usage",
+          "prompt": "二時間働いたので、十分（　）します。",
+          "options": [
+            "出発",
+            "到着",
+            "休憩"
+          ],
+          "correctIndex": 2,
+          "explanation": "休憩する means to take a break after work.",
+          "japaneseExplanation": "働いた後で、短い時間休むことを休憩と言います。",
+          "translation": "After working for two hours, I will take a ten-minute break.",
+          "id": "d6070000-0000-4000-8000-000000000026",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000105",
+            "d6080000-0000-4000-8000-000000000106",
+            "d6080000-0000-4000-8000-000000000107"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d6020000-0000-4000-8000-000000000005",
+      "courseId": "d6010000-0000-4000-8000-000000000001",
+      "category": "kanji-reading",
+      "mode": "section",
+      "subject": "kanji",
+      "title": "JFT-Basic · kanji-reading · section",
+      "questions": [
+        {
+          "category": "kanji-reading",
+          "prompt": "「入口」の読み方を選んでください。",
+          "options": [
+            "いりくち",
+            "いりぐち",
+            "でぐち"
+          ],
+          "correctIndex": 1,
+          "explanation": "入口 is read いりぐち and means entrance. Pay attention to the length and voicing of the sounds.",
+          "japaneseExplanation": "「入口」は「いりぐち」と読みます。音の長さや濁音に注意しましょう。",
+          "translation": "entrance",
+          "id": "d6070000-0000-4000-8000-000000000027",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000109",
+            "d6080000-0000-4000-8000-000000000110",
+            "d6080000-0000-4000-8000-000000000111"
+          ]
+        },
+        {
+          "category": "kanji-reading",
+          "prompt": "「出口」の読み方を選んでください。",
+          "options": [
+            "でくち",
+            "いりぐち",
+            "でぐち"
+          ],
+          "correctIndex": 2,
+          "explanation": "出口 is read でぐち and means exit. Pay attention to the length and voicing of the sounds.",
+          "japaneseExplanation": "「出口」は「でぐち」と読みます。音の長さや濁音に注意しましょう。",
+          "translation": "exit",
+          "id": "d6070000-0000-4000-8000-000000000028",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000113",
+            "d6080000-0000-4000-8000-000000000114",
+            "d6080000-0000-4000-8000-000000000115"
+          ]
+        },
+        {
+          "category": "kanji-reading",
+          "prompt": "「休日」の読み方を選んでください。",
+          "options": [
+            "きゅうじつ",
+            "きゅうにち",
+            "きゅじつ"
+          ],
+          "correctIndex": 0,
+          "explanation": "休日 is read きゅうじつ and means day off. Pay attention to the length and voicing of the sounds.",
+          "japaneseExplanation": "「休日」は「きゅうじつ」と読みます。音の長さや濁音に注意しましょう。",
+          "translation": "day off",
+          "id": "d6070000-0000-4000-8000-000000000029",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000117",
+            "d6080000-0000-4000-8000-000000000118",
+            "d6080000-0000-4000-8000-000000000119"
+          ]
+        },
+        {
+          "category": "kanji-reading",
+          "prompt": "「住所」の読み方を選んでください。",
+          "options": [
+            "じゅうじょ",
+            "じゅうしょ",
+            "じゅしょ"
+          ],
+          "correctIndex": 1,
+          "explanation": "住所 is read じゅうしょ and means address. Pay attention to the length and voicing of the sounds.",
+          "japaneseExplanation": "「住所」は「じゅうしょ」と読みます。音の長さや濁音に注意しましょう。",
+          "translation": "address",
+          "id": "d6070000-0000-4000-8000-000000000030",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000121",
+            "d6080000-0000-4000-8000-000000000122",
+            "d6080000-0000-4000-8000-000000000123"
+          ]
+        },
+        {
+          "category": "kanji-reading",
+          "prompt": "「時間」の読み方を選んでください。",
+          "options": [
+            "しかん",
+            "じけん",
+            "じかん"
+          ],
+          "correctIndex": 2,
+          "explanation": "時間 is read じかん and means time. Pay attention to the length and voicing of the sounds.",
+          "japaneseExplanation": "「時間」は「じかん」と読みます。音の長さや濁音に注意しましょう。",
+          "translation": "time",
+          "id": "d6070000-0000-4000-8000-000000000031",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000125",
+            "d6080000-0000-4000-8000-000000000126",
+            "d6080000-0000-4000-8000-000000000127"
+          ]
+        },
+        {
+          "category": "kanji-reading",
+          "prompt": "「会社」の読み方を選んでください。",
+          "options": [
+            "かいしゃ",
+            "がいしゃ",
+            "かいじゃ"
+          ],
+          "correctIndex": 0,
+          "explanation": "会社 is read かいしゃ and means company. Pay attention to the length and voicing of the sounds.",
+          "japaneseExplanation": "「会社」は「かいしゃ」と読みます。音の長さや濁音に注意しましょう。",
+          "translation": "company",
+          "id": "d6070000-0000-4000-8000-000000000032",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000129",
+            "d6080000-0000-4000-8000-000000000130",
+            "d6080000-0000-4000-8000-000000000131"
+          ]
+        },
+        {
+          "category": "kanji-reading",
+          "prompt": "「電車」の読み方を選んでください。",
+          "options": [
+            "でんじゃ",
+            "でんしゃ",
+            "てんしゃ"
+          ],
+          "correctIndex": 1,
+          "explanation": "電車 is read でんしゃ and means train. Pay attention to the length and voicing of the sounds.",
+          "japaneseExplanation": "「電車」は「でんしゃ」と読みます。音の長さや濁音に注意しましょう。",
+          "translation": "train",
+          "id": "d6070000-0000-4000-8000-000000000033",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000133",
+            "d6080000-0000-4000-8000-000000000134",
+            "d6080000-0000-4000-8000-000000000135"
+          ]
+        },
+        {
+          "category": "kanji-reading",
+          "prompt": "「毎朝」の読み方を選んでください。",
+          "options": [
+            "まいちょう",
+            "まえあさ",
+            "まいあさ"
+          ],
+          "correctIndex": 2,
+          "explanation": "毎朝 is read まいあさ and means every morning. Pay attention to the length and voicing of the sounds.",
+          "japaneseExplanation": "「毎朝」は「まいあさ」と読みます。音の長さや濁音に注意しましょう。",
+          "translation": "every morning",
+          "id": "d6070000-0000-4000-8000-000000000034",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000137",
+            "d6080000-0000-4000-8000-000000000138",
+            "d6080000-0000-4000-8000-000000000139"
+          ]
+        },
+        {
+          "category": "kanji-reading",
+          "prompt": "「病院」の読み方を選んでください。",
+          "options": [
+            "びょういん",
+            "びよういん",
+            "びょうえん"
+          ],
+          "correctIndex": 0,
+          "explanation": "病院 is read びょういん and means hospital. Pay attention to the length and voicing of the sounds.",
+          "japaneseExplanation": "「病院」は「びょういん」と読みます。音の長さや濁音に注意しましょう。",
+          "translation": "hospital",
+          "id": "d6070000-0000-4000-8000-000000000035",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000141",
+            "d6080000-0000-4000-8000-000000000142",
+            "d6080000-0000-4000-8000-000000000143"
+          ]
+        },
+        {
+          "category": "kanji-reading",
+          "prompt": "「食事」の読み方を選んでください。",
+          "options": [
+            "たべじ",
+            "しょくじ",
+            "しょくし"
+          ],
+          "correctIndex": 1,
+          "explanation": "食事 is read しょくじ and means meal. Pay attention to the length and voicing of the sounds.",
+          "japaneseExplanation": "「食事」は「しょくじ」と読みます。音の長さや濁音に注意しましょう。",
+          "translation": "meal",
+          "id": "d6070000-0000-4000-8000-000000000036",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000145",
+            "d6080000-0000-4000-8000-000000000146",
+            "d6080000-0000-4000-8000-000000000147"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d6020000-0000-4000-8000-000000000006",
+      "courseId": "d6010000-0000-4000-8000-000000000001",
+      "category": "kanji-reading",
+      "mode": "quick",
+      "subject": "kanji",
+      "title": "JFT-Basic · kanji-reading · quick",
+      "questions": [
+        {
+          "category": "kanji-reading",
+          "prompt": "「入口」の読み方を選んでください。",
+          "options": [
+            "でぐち",
+            "いりくち",
+            "いりぐち"
+          ],
+          "correctIndex": 2,
+          "explanation": "入口 is read いりぐち and means entrance. Pay attention to the length and voicing of the sounds.",
+          "japaneseExplanation": "「入口」は「いりぐち」と読みます。音の長さや濁音に注意しましょう。",
+          "translation": "entrance",
+          "id": "d6070000-0000-4000-8000-000000000037",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000149",
+            "d6080000-0000-4000-8000-000000000150",
+            "d6080000-0000-4000-8000-000000000151"
+          ]
+        },
+        {
+          "category": "kanji-reading",
+          "prompt": "「出口」の読み方を選んでください。",
+          "options": [
+            "でぐち",
+            "でくち",
+            "いりぐち"
+          ],
+          "correctIndex": 0,
+          "explanation": "出口 is read でぐち and means exit. Pay attention to the length and voicing of the sounds.",
+          "japaneseExplanation": "「出口」は「でぐち」と読みます。音の長さや濁音に注意しましょう。",
+          "translation": "exit",
+          "id": "d6070000-0000-4000-8000-000000000038",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000153",
+            "d6080000-0000-4000-8000-000000000154",
+            "d6080000-0000-4000-8000-000000000155"
+          ]
+        },
+        {
+          "category": "kanji-reading",
+          "prompt": "「休日」の読み方を選んでください。",
+          "options": [
+            "きゅじつ",
+            "きゅうじつ",
+            "きゅうにち"
+          ],
+          "correctIndex": 1,
+          "explanation": "休日 is read きゅうじつ and means day off. Pay attention to the length and voicing of the sounds.",
+          "japaneseExplanation": "「休日」は「きゅうじつ」と読みます。音の長さや濁音に注意しましょう。",
+          "translation": "day off",
+          "id": "d6070000-0000-4000-8000-000000000039",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000157",
+            "d6080000-0000-4000-8000-000000000158",
+            "d6080000-0000-4000-8000-000000000159"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d6020000-0000-4000-8000-000000000007",
+      "courseId": "d6010000-0000-4000-8000-000000000001",
+      "category": "grammar-expression",
+      "mode": "section",
+      "subject": "grammar",
+      "title": "JFT-Basic · grammar-expression · section",
+      "questions": [
+        {
+          "category": "grammar-expression",
+          "prompt": "毎朝、六時（　）起きます。",
+          "options": [
+            "に",
+            "を",
+            "で"
+          ],
+          "correctIndex": 0,
+          "explanation": "に marks the specific time when an action occurs.",
+          "japaneseExplanation": "「に」は動作が行われる時刻を表します。",
+          "translation": "I get up at six every morning.",
+          "id": "d6070000-0000-4000-8000-000000000040",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000161",
+            "d6080000-0000-4000-8000-000000000162",
+            "d6080000-0000-4000-8000-000000000163"
+          ]
+        },
+        {
+          "category": "grammar-expression",
+          "prompt": "ここで写真を撮って（　）ですか。",
+          "options": [
+            "しまう",
+            "もいい",
+            "います"
+          ],
+          "correctIndex": 1,
+          "explanation": "て-form + もいいですか asks permission.",
+          "japaneseExplanation": "「てもいいですか」は許可を求める表現です。",
+          "translation": "May I take photos here?",
+          "id": "d6070000-0000-4000-8000-000000000041",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000165",
+            "d6080000-0000-4000-8000-000000000166",
+            "d6080000-0000-4000-8000-000000000167"
+          ]
+        },
+        {
+          "category": "grammar-expression",
+          "prompt": "昨日、スーパーで野菜を（　）。",
+          "options": [
+            "買います",
+            "買いません",
+            "買いました"
+          ],
+          "correctIndex": 2,
+          "explanation": "昨日 indicates a completed past event, so the affirmative past 買いました fits.",
+          "japaneseExplanation": "「昨日」の出来事なので、過去の「買いました」を使います。",
+          "translation": "I bought vegetables yesterday.",
+          "id": "d6070000-0000-4000-8000-000000000042",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000169",
+            "d6080000-0000-4000-8000-000000000170",
+            "d6080000-0000-4000-8000-000000000171"
+          ]
+        },
+        {
+          "category": "grammar-expression",
+          "prompt": "明日は休みなので、買い物に（　）つもりです。",
+          "options": [
+            "行く",
+            "行き",
+            "行って"
+          ],
+          "correctIndex": 0,
+          "explanation": "Dictionary form + つもり states an intention.",
+          "japaneseExplanation": "「辞書形＋つもりです」は予定や意志を表します。",
+          "translation": "I intend to go shopping tomorrow because it is a day off.",
+          "id": "d6070000-0000-4000-8000-000000000043",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000173",
+            "d6080000-0000-4000-8000-000000000174",
+            "d6080000-0000-4000-8000-000000000175"
+          ]
+        },
+        {
+          "category": "grammar-expression",
+          "prompt": "友達を誘います。「いっしょに昼ご飯を（　）か。」",
+          "options": [
+            "食べています",
+            "食べません",
+            "食べました"
+          ],
+          "correctIndex": 1,
+          "explanation": "ませんか is a polite invitation in this explicit invitation context.",
+          "japaneseExplanation": "誘うときは「ませんか」を使います。",
+          "translation": "Would you like to have lunch together?",
+          "id": "d6070000-0000-4000-8000-000000000044",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000177",
+            "d6080000-0000-4000-8000-000000000178",
+            "d6080000-0000-4000-8000-000000000179"
+          ]
+        },
+        {
+          "category": "grammar-expression",
+          "prompt": "今、電話を（　）います。",
+          "options": [
+            "かける",
+            "かけた",
+            "かけて"
+          ],
+          "correctIndex": 2,
+          "explanation": "て-form + います describes an action in progress.",
+          "japaneseExplanation": "今している動作には「て形＋います」を使います。",
+          "translation": "I am making a phone call now.",
+          "id": "d6070000-0000-4000-8000-000000000045",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000181",
+            "d6080000-0000-4000-8000-000000000182",
+            "d6080000-0000-4000-8000-000000000183"
+          ]
+        },
+        {
+          "category": "grammar-expression",
+          "prompt": "この部屋は、あの部屋（　）広いです。",
+          "options": [
+            "より",
+            "まで",
+            "だけ"
+          ],
+          "correctIndex": 0,
+          "explanation": "より marks the reference point in a comparison.",
+          "japaneseExplanation": "比較の基準を表すときは「より」を使います。",
+          "translation": "This room is larger than that one.",
+          "id": "d6070000-0000-4000-8000-000000000046",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000185",
+            "d6080000-0000-4000-8000-000000000186",
+            "d6080000-0000-4000-8000-000000000187"
+          ]
+        },
+        {
+          "category": "grammar-expression",
+          "prompt": "駅へ（　）には、どのバスに乗ればいいですか。",
+          "options": [
+            "行きます",
+            "行く",
+            "行って"
+          ],
+          "correctIndex": 1,
+          "explanation": "Dictionary form + には introduces the goal of the following advice question.",
+          "japaneseExplanation": "「辞書形＋には」で目的を示して、方法を尋ねます。",
+          "translation": "Which bus should I take to go to the station?",
+          "id": "d6070000-0000-4000-8000-000000000047",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000189",
+            "d6080000-0000-4000-8000-000000000190",
+            "d6080000-0000-4000-8000-000000000191"
+          ]
+        },
+        {
+          "category": "grammar-expression",
+          "prompt": "受付で名前を（　）から、中に入ってください。",
+          "options": [
+            "書く",
+            "書きます",
+            "書いて"
+          ],
+          "correctIndex": 2,
+          "explanation": "て-form + から expresses the order: first write, then enter.",
+          "japaneseExplanation": "「てから」は動作の順序を表します。",
+          "translation": "Please write your name at reception before entering.",
+          "id": "d6070000-0000-4000-8000-000000000048",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000193",
+            "d6080000-0000-4000-8000-000000000194",
+            "d6080000-0000-4000-8000-000000000195"
+          ]
+        },
+        {
+          "category": "grammar-expression",
+          "prompt": "熱があるので、今日は（　）ほうがいいです。",
+          "options": [
+            "休んだ",
+            "休み",
+            "休んで"
+          ],
+          "correctIndex": 0,
+          "explanation": "た-form + ほうがいい gives advice.",
+          "japaneseExplanation": "助言するときは「た形＋ほうがいいです」を使います。",
+          "translation": "Since you have a fever, you should rest today.",
+          "id": "d6070000-0000-4000-8000-000000000049",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000197",
+            "d6080000-0000-4000-8000-000000000198",
+            "d6080000-0000-4000-8000-000000000199"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d6020000-0000-4000-8000-000000000008",
+      "courseId": "d6010000-0000-4000-8000-000000000001",
+      "category": "grammar-expression",
+      "mode": "quick",
+      "subject": "grammar",
+      "title": "JFT-Basic · grammar-expression · quick",
+      "questions": [
+        {
+          "category": "grammar-expression",
+          "prompt": "毎朝、六時（　）起きます。",
+          "options": [
+            "で",
+            "に",
+            "を"
+          ],
+          "correctIndex": 1,
+          "explanation": "に marks the specific time when an action occurs.",
+          "japaneseExplanation": "「に」は動作が行われる時刻を表します。",
+          "translation": "I get up at six every morning.",
+          "id": "d6070000-0000-4000-8000-000000000050",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000201",
+            "d6080000-0000-4000-8000-000000000202",
+            "d6080000-0000-4000-8000-000000000203"
+          ]
+        },
+        {
+          "category": "grammar-expression",
+          "prompt": "ここで写真を撮って（　）ですか。",
+          "options": [
+            "います",
+            "しまう",
+            "もいい"
+          ],
+          "correctIndex": 2,
+          "explanation": "て-form + もいいですか asks permission.",
+          "japaneseExplanation": "「てもいいですか」は許可を求める表現です。",
+          "translation": "May I take photos here?",
+          "id": "d6070000-0000-4000-8000-000000000051",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000205",
+            "d6080000-0000-4000-8000-000000000206",
+            "d6080000-0000-4000-8000-000000000207"
+          ]
+        },
+        {
+          "category": "grammar-expression",
+          "prompt": "昨日、スーパーで野菜を（　）。",
+          "options": [
+            "買いました",
+            "買います",
+            "買いません"
+          ],
+          "correctIndex": 0,
+          "explanation": "昨日 indicates a completed past event, so the affirmative past 買いました fits.",
+          "japaneseExplanation": "「昨日」の出来事なので、過去の「買いました」を使います。",
+          "translation": "I bought vegetables yesterday.",
+          "id": "d6070000-0000-4000-8000-000000000052",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000209",
+            "d6080000-0000-4000-8000-000000000210",
+            "d6080000-0000-4000-8000-000000000211"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d6020000-0000-4000-8000-000000000009",
+      "courseId": "d6010000-0000-4000-8000-000000000001",
+      "category": "situational-conversation",
+      "mode": "section",
+      "subject": "grammar",
+      "title": "JFT-Basic · situational-conversation · section",
+      "questions": [
+        {
+          "category": "situational-conversation",
+          "prompt": "お店で、商品がどこにあるか店員に尋ねます。",
+          "options": [
+            "いただきます。",
+            "おかえりなさい。",
+            "すみません、これはどこにありますか。"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ask politely where the product is. すみません gets the staff member’s attention.",
+          "japaneseExplanation": "商品の場所を尋ねるときは「どこにありますか」を使います。",
+          "translation": "Ask a shop assistant where a product is.",
+          "id": "d6070000-0000-4000-8000-000000000053",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000213",
+            "d6080000-0000-4000-8000-000000000214",
+            "d6080000-0000-4000-8000-000000000215"
+          ]
+        },
+        {
+          "category": "situational-conversation",
+          "prompt": "初めて会った人に自己紹介をします。",
+          "options": [
+            "はじめまして。田中です。よろしくお願いします。",
+            "ごちそうさまでした。",
+            "お大事に。"
+          ],
+          "correctIndex": 0,
+          "explanation": "はじめまして and よろしくお願いします fit a first introduction.",
+          "japaneseExplanation": "初めて会うときの自然なあいさつです。",
+          "translation": "Introduce yourself to someone you are meeting for the first time.",
+          "id": "d6070000-0000-4000-8000-000000000054",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000217",
+            "d6080000-0000-4000-8000-000000000218",
+            "d6080000-0000-4000-8000-000000000219"
+          ]
+        },
+        {
+          "category": "situational-conversation",
+          "prompt": "もう一度、ゆっくり言ってほしいです。",
+          "options": [
+            "いってらっしゃい。",
+            "すみません、もう一度ゆっくりお願いします。",
+            "お先に失礼します。"
+          ],
+          "correctIndex": 1,
+          "explanation": "Request repetition and slower speech politely.",
+          "japaneseExplanation": "聞き取れないときは、もう一度ゆっくり話してもらいます。",
+          "translation": "Ask someone to say it again slowly.",
+          "id": "d6070000-0000-4000-8000-000000000055",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000221",
+            "d6080000-0000-4000-8000-000000000222",
+            "d6080000-0000-4000-8000-000000000223"
+          ]
+        },
+        {
+          "category": "situational-conversation",
+          "prompt": "先に仕事を終えて帰るとき、同僚に何と言いますか。",
+          "options": [
+            "ただいま。",
+            "お待たせしました。",
+            "お先に失礼します。"
+          ],
+          "correctIndex": 2,
+          "explanation": "お先に失礼します is used when leaving work before others.",
+          "japaneseExplanation": "同僚より先に帰るときのあいさつです。",
+          "translation": "What do you say to colleagues when you leave work before them?",
+          "id": "d6070000-0000-4000-8000-000000000056",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000225",
+            "d6080000-0000-4000-8000-000000000226",
+            "d6080000-0000-4000-8000-000000000227"
+          ]
+        },
+        {
+          "category": "situational-conversation",
+          "prompt": "食事を用意してもらいました。食べ始める前に何と言いますか。",
+          "options": [
+            "いただきます。",
+            "おかえりなさい。",
+            "行ってきます。"
+          ],
+          "correctIndex": 0,
+          "explanation": "いただきます is said before beginning a meal.",
+          "japaneseExplanation": "食べ始める前には「いただきます」と言います。",
+          "translation": "Someone has prepared a meal. What do you say before eating?",
+          "id": "d6070000-0000-4000-8000-000000000057",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000229",
+            "d6080000-0000-4000-8000-000000000230",
+            "d6080000-0000-4000-8000-000000000231"
+          ]
+        },
+        {
+          "category": "situational-conversation",
+          "prompt": "病気で休む同僚に声をかけます。",
+          "options": [
+            "いただきます。",
+            "お大事にしてください。",
+            "いらっしゃいませ。"
+          ],
+          "correctIndex": 1,
+          "explanation": "お大事に expresses care for someone who is ill.",
+          "japaneseExplanation": "病気の人の体を気遣う表現です。",
+          "translation": "Speak to a colleague who is taking sick leave.",
+          "id": "d6070000-0000-4000-8000-000000000058",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000233",
+            "d6080000-0000-4000-8000-000000000234",
+            "d6080000-0000-4000-8000-000000000235"
+          ]
+        },
+        {
+          "category": "situational-conversation",
+          "prompt": "人に親切にしてもらいました。",
+          "options": [
+            "お待ちください。",
+            "どうぞお入りください。",
+            "ありがとうございます。"
+          ],
+          "correctIndex": 2,
+          "explanation": "ありがとうございます expresses thanks for help.",
+          "japaneseExplanation": "親切にしてもらったときは感謝を伝えます。",
+          "translation": "Someone has kindly helped you.",
+          "id": "d6070000-0000-4000-8000-000000000059",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000237",
+            "d6080000-0000-4000-8000-000000000238",
+            "d6080000-0000-4000-8000-000000000239"
+          ]
+        },
+        {
+          "category": "situational-conversation",
+          "prompt": "約束の時間に遅れて到着しました。",
+          "options": [
+            "遅れてすみません。",
+            "どういたしまして。",
+            "よいお年を。"
+          ],
+          "correctIndex": 0,
+          "explanation": "Apologize for arriving late with 遅れてすみません.",
+          "japaneseExplanation": "遅れたことを謝る表現です。",
+          "translation": "You have arrived late for an appointment.",
+          "id": "d6070000-0000-4000-8000-000000000060",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000241",
+            "d6080000-0000-4000-8000-000000000242",
+            "d6080000-0000-4000-8000-000000000243"
+          ]
+        },
+        {
+          "category": "situational-conversation",
+          "prompt": "電話で、相手の名前を丁寧に尋ねます。",
+          "options": [
+            "どこに座りますか。",
+            "お名前を伺ってもよろしいですか。",
+            "何を食べますか。"
+          ],
+          "correctIndex": 1,
+          "explanation": "伺ってもよろしいですか is a polite way to ask for someone’s name.",
+          "japaneseExplanation": "「伺ってもよろしいですか」で丁寧に尋ねます。",
+          "translation": "Ask someone their name politely on the telephone.",
+          "id": "d6070000-0000-4000-8000-000000000061",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000245",
+            "d6080000-0000-4000-8000-000000000246",
+            "d6080000-0000-4000-8000-000000000247"
+          ]
+        },
+        {
+          "category": "situational-conversation",
+          "prompt": "相手が「ありがとうございます」と言いました。返事をします。",
+          "options": [
+            "いただきます。",
+            "お帰りなさい。",
+            "どういたしまして。"
+          ],
+          "correctIndex": 2,
+          "explanation": "どういたしまして is an appropriate response to thanks.",
+          "japaneseExplanation": "感謝への返事に使う表現です。",
+          "translation": "Respond to someone who has thanked you.",
+          "id": "d6070000-0000-4000-8000-000000000062",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000249",
+            "d6080000-0000-4000-8000-000000000250",
+            "d6080000-0000-4000-8000-000000000251"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d6020000-0000-4000-8000-000000000010",
+      "courseId": "d6010000-0000-4000-8000-000000000001",
+      "category": "situational-conversation",
+      "mode": "quick",
+      "subject": "grammar",
+      "title": "JFT-Basic · situational-conversation · quick",
+      "questions": [
+        {
+          "category": "situational-conversation",
+          "prompt": "お店で、商品がどこにあるか店員に尋ねます。",
+          "options": [
+            "すみません、これはどこにありますか。",
+            "いただきます。",
+            "おかえりなさい。"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ask politely where the product is. すみません gets the staff member’s attention.",
+          "japaneseExplanation": "商品の場所を尋ねるときは「どこにありますか」を使います。",
+          "translation": "Ask a shop assistant where a product is.",
+          "id": "d6070000-0000-4000-8000-000000000063",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000253",
+            "d6080000-0000-4000-8000-000000000254",
+            "d6080000-0000-4000-8000-000000000255"
+          ]
+        },
+        {
+          "category": "situational-conversation",
+          "prompt": "初めて会った人に自己紹介をします。",
+          "options": [
+            "お大事に。",
+            "はじめまして。田中です。よろしくお願いします。",
+            "ごちそうさまでした。"
+          ],
+          "correctIndex": 1,
+          "explanation": "はじめまして and よろしくお願いします fit a first introduction.",
+          "japaneseExplanation": "初めて会うときの自然なあいさつです。",
+          "translation": "Introduce yourself to someone you are meeting for the first time.",
+          "id": "d6070000-0000-4000-8000-000000000064",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000257",
+            "d6080000-0000-4000-8000-000000000258",
+            "d6080000-0000-4000-8000-000000000259"
+          ]
+        },
+        {
+          "category": "situational-conversation",
+          "prompt": "もう一度、ゆっくり言ってほしいです。",
+          "options": [
+            "お先に失礼します。",
+            "いってらっしゃい。",
+            "すみません、もう一度ゆっくりお願いします。"
+          ],
+          "correctIndex": 2,
+          "explanation": "Request repetition and slower speech politely.",
+          "japaneseExplanation": "聞き取れないときは、もう一度ゆっくり話してもらいます。",
+          "translation": "Ask someone to say it again slowly.",
+          "id": "d6070000-0000-4000-8000-000000000065",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000261",
+            "d6080000-0000-4000-8000-000000000262",
+            "d6080000-0000-4000-8000-000000000263"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d6020000-0000-4000-8000-000000000011",
+      "courseId": "d6010000-0000-4000-8000-000000000001",
+      "category": "signs-notices",
+      "mode": "section",
+      "subject": "reading",
+      "title": "JFT-Basic · signs-notices · section",
+      "questions": [
+        {
+          "category": "signs-notices",
+          "prompt": "入口：右のドアをご利用ください。\n\nどのドアを使いますか。",
+          "options": [
+            "どのドアでもよい",
+            "右のドア",
+            "左のドア"
+          ],
+          "correctIndex": 1,
+          "explanation": "The notice directs people to the door on the right.",
+          "japaneseExplanation": "「右のドア」と書いてあります。",
+          "translation": "Entrance: please use the door on the right. Which door should you use?",
+          "id": "d6070000-0000-4000-8000-000000000066",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000265",
+            "d6080000-0000-4000-8000-000000000266",
+            "d6080000-0000-4000-8000-000000000267"
+          ]
+        },
+        {
+          "category": "signs-notices",
+          "prompt": "本日は休館です。明日は午前九時から開きます。\n\n今日はこの施設を利用できますか。",
+          "options": [
+            "午前九時からできます",
+            "一日中できます",
+            "できません"
+          ],
+          "correctIndex": 2,
+          "explanation": "本日は休館 means the facility is closed today.",
+          "japaneseExplanation": "「本日は休館」なので今日は利用できません。",
+          "translation": "The facility is closed today. It opens tomorrow at 9 a.m. Can you use it today?",
+          "id": "d6070000-0000-4000-8000-000000000067",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000269",
+            "d6080000-0000-4000-8000-000000000270",
+            "d6080000-0000-4000-8000-000000000271"
+          ]
+        },
+        {
+          "category": "signs-notices",
+          "prompt": "この先、工事中。別の道をお通りください。\n\nどうしますか。",
+          "options": [
+            "別の道を通ります",
+            "この道を進みます",
+            "ここで買い物をします"
+          ],
+          "correctIndex": 0,
+          "explanation": "The notice asks people to use another route during construction.",
+          "japaneseExplanation": "「別の道を」と案内されています。",
+          "translation": "Construction ahead. Please use another route. What should you do?",
+          "id": "d6070000-0000-4000-8000-000000000068",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000273",
+            "d6080000-0000-4000-8000-000000000274",
+            "d6080000-0000-4000-8000-000000000275"
+          ]
+        },
+        {
+          "category": "signs-notices",
+          "prompt": "飲食禁止\n\nここでしてはいけないことは何ですか。",
+          "options": [
+            "静かに座ること",
+            "食べたり飲んだりすること",
+            "本を読むこと"
+          ],
+          "correctIndex": 1,
+          "explanation": "飲食禁止 prohibits eating and drinking.",
+          "japaneseExplanation": "「飲食」は食べたり飲んだりすることです。",
+          "translation": "No eating or drinking. Which activity is prohibited here?",
+          "id": "d6070000-0000-4000-8000-000000000069",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000277",
+            "d6080000-0000-4000-8000-000000000278",
+            "d6080000-0000-4000-8000-000000000279"
+          ]
+        },
+        {
+          "category": "signs-notices",
+          "prompt": "受付は二階です。\n\n受付はどこですか。",
+          "options": [
+            "一階",
+            "三階",
+            "二階"
+          ],
+          "correctIndex": 2,
+          "explanation": "The notice specifies the second floor.",
+          "japaneseExplanation": "「二階」と書いてあります。",
+          "translation": "Reception is on the second floor. Where is reception?",
+          "id": "d6070000-0000-4000-8000-000000000070",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000281",
+            "d6080000-0000-4000-8000-000000000282",
+            "d6080000-0000-4000-8000-000000000283"
+          ]
+        },
+        {
+          "category": "signs-notices",
+          "prompt": "土足禁止。靴を脱いでお入りください。\n\n入る前に何をしますか。",
+          "options": [
+            "靴を脱ぎます",
+            "帽子を買います",
+            "窓を開けます"
+          ],
+          "correctIndex": 0,
+          "explanation": "Visitors must remove their outdoor shoes before entering.",
+          "japaneseExplanation": "「靴を脱いで」と指示されています。",
+          "translation": "No outdoor shoes. Please take off your shoes before entering. What should you do first?",
+          "id": "d6070000-0000-4000-8000-000000000071",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000285",
+            "d6080000-0000-4000-8000-000000000286",
+            "d6080000-0000-4000-8000-000000000287"
+          ]
+        },
+        {
+          "category": "signs-notices",
+          "prompt": "この電車は各駅に止まります。\n\nこの電車はどういう電車ですか。",
+          "options": [
+            "駅に止まらない電車",
+            "すべての駅に止まる電車",
+            "終点だけに止まる電車"
+          ],
+          "correctIndex": 1,
+          "explanation": "各駅 means every station.",
+          "japaneseExplanation": "「各駅」はそれぞれの駅という意味です。",
+          "translation": "This train stops at every station. What kind of train is it?",
+          "id": "d6070000-0000-4000-8000-000000000072",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000289",
+            "d6080000-0000-4000-8000-000000000290",
+            "d6080000-0000-4000-8000-000000000291"
+          ]
+        },
+        {
+          "category": "signs-notices",
+          "prompt": "お会計はレジでお願いします。\n\nどこでお金を払いますか。",
+          "options": [
+            "入口の外",
+            "席の下",
+            "レジ"
+          ],
+          "correctIndex": 2,
+          "explanation": "Customers are asked to pay at the register.",
+          "japaneseExplanation": "「レジ」で会計をします。",
+          "translation": "Please pay at the register. Where should you pay?",
+          "id": "d6070000-0000-4000-8000-000000000073",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000293",
+            "d6080000-0000-4000-8000-000000000294",
+            "d6080000-0000-4000-8000-000000000295"
+          ]
+        },
+        {
+          "category": "signs-notices",
+          "prompt": "使用後は電気を消してください。\n\n使い終わったら、どうしますか。",
+          "options": [
+            "電気を消します",
+            "電気をつけます",
+            "電気を買います"
+          ],
+          "correctIndex": 0,
+          "explanation": "使用後 indicates what to do after use: turn off the light.",
+          "japaneseExplanation": "使った後に電気を消すように書いてあります。",
+          "translation": "Please turn off the light after use. What should you do when finished?",
+          "id": "d6070000-0000-4000-8000-000000000074",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000297",
+            "d6080000-0000-4000-8000-000000000298",
+            "d6080000-0000-4000-8000-000000000299"
+          ]
+        },
+        {
+          "category": "signs-notices",
+          "prompt": "こちらは職員専用です。\n\n誰が利用できますか。",
+          "options": [
+            "子供だけ",
+            "職員",
+            "すべてのお客さん"
+          ],
+          "correctIndex": 1,
+          "explanation": "職員専用 means for staff use only.",
+          "japaneseExplanation": "「専用」は決められた人だけが使うことを表します。",
+          "translation": "Staff only. Who may use this area?",
+          "id": "d6070000-0000-4000-8000-000000000075",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000301",
+            "d6080000-0000-4000-8000-000000000302",
+            "d6080000-0000-4000-8000-000000000303"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d6020000-0000-4000-8000-000000000012",
+      "courseId": "d6010000-0000-4000-8000-000000000001",
+      "category": "signs-notices",
+      "mode": "quick",
+      "subject": "reading",
+      "title": "JFT-Basic · signs-notices · quick",
+      "questions": [
+        {
+          "category": "signs-notices",
+          "prompt": "入口：右のドアをご利用ください。\n\nどのドアを使いますか。",
+          "options": [
+            "左のドア",
+            "どのドアでもよい",
+            "右のドア"
+          ],
+          "correctIndex": 2,
+          "explanation": "The notice directs people to the door on the right.",
+          "japaneseExplanation": "「右のドア」と書いてあります。",
+          "translation": "Entrance: please use the door on the right. Which door should you use?",
+          "id": "d6070000-0000-4000-8000-000000000076",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000305",
+            "d6080000-0000-4000-8000-000000000306",
+            "d6080000-0000-4000-8000-000000000307"
+          ]
+        },
+        {
+          "category": "signs-notices",
+          "prompt": "本日は休館です。明日は午前九時から開きます。\n\n今日はこの施設を利用できますか。",
+          "options": [
+            "できません",
+            "午前九時からできます",
+            "一日中できます"
+          ],
+          "correctIndex": 0,
+          "explanation": "本日は休館 means the facility is closed today.",
+          "japaneseExplanation": "「本日は休館」なので今日は利用できません。",
+          "translation": "The facility is closed today. It opens tomorrow at 9 a.m. Can you use it today?",
+          "id": "d6070000-0000-4000-8000-000000000077",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000309",
+            "d6080000-0000-4000-8000-000000000310",
+            "d6080000-0000-4000-8000-000000000311"
+          ]
+        },
+        {
+          "category": "signs-notices",
+          "prompt": "この先、工事中。別の道をお通りください。\n\nどうしますか。",
+          "options": [
+            "ここで買い物をします",
+            "別の道を通ります",
+            "この道を進みます"
+          ],
+          "correctIndex": 1,
+          "explanation": "The notice asks people to use another route during construction.",
+          "japaneseExplanation": "「別の道を」と案内されています。",
+          "translation": "Construction ahead. Please use another route. What should you do?",
+          "id": "d6070000-0000-4000-8000-000000000078",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000313",
+            "d6080000-0000-4000-8000-000000000314",
+            "d6080000-0000-4000-8000-000000000315"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d6020000-0000-4000-8000-000000000013",
+      "courseId": "d6010000-0000-4000-8000-000000000001",
+      "category": "messages-schedules",
+      "mode": "section",
+      "subject": "reading",
+      "title": "JFT-Basic · messages-schedules · section",
+      "questions": [
+        {
+          "category": "messages-schedules",
+          "prompt": "月〜金：九時〜十八時／土：十時〜十六時／日：休み\n\n土曜日は何時に開きますか。",
+          "options": [
+            "十時",
+            "九時",
+            "十八時"
+          ],
+          "correctIndex": 0,
+          "explanation": "The Saturday row opens at ten.",
+          "japaneseExplanation": "土曜日の開始時間は十時です。",
+          "translation": "Monday to Friday: 9 a.m.–6 p.m. Saturday: 10 a.m.–4 p.m. Sunday: closed. What time does it open on Saturday?",
+          "id": "d6070000-0000-4000-8000-000000000079",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000317",
+            "d6080000-0000-4000-8000-000000000318",
+            "d6080000-0000-4000-8000-000000000319"
+          ]
+        },
+        {
+          "category": "messages-schedules",
+          "prompt": "明日の集合は駅の東口、午前八時です。田中\n\n明日はどこに集まりますか。",
+          "options": [
+            "会社の受付",
+            "駅の東口",
+            "駅の西口"
+          ],
+          "correctIndex": 1,
+          "explanation": "The message specifies the station’s east exit.",
+          "japaneseExplanation": "集合場所は「駅の東口」です。",
+          "translation": "Tomorrow, meet at the station’s east exit at 8 a.m. — Tanaka. Where should you meet?",
+          "id": "d6070000-0000-4000-8000-000000000080",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000321",
+            "d6080000-0000-4000-8000-000000000322",
+            "d6080000-0000-4000-8000-000000000323"
+          ]
+        },
+        {
+          "category": "messages-schedules",
+          "prompt": "会議は火曜日から水曜日に変わりました。時間は十時のままです。\n\n会議はいつですか。",
+          "options": [
+            "火曜日の十時",
+            "水曜日の十一時",
+            "水曜日の十時"
+          ],
+          "correctIndex": 2,
+          "explanation": "The day changes to Wednesday, while the time remains ten.",
+          "japaneseExplanation": "曜日は水曜日になり、時間は十時のままです。",
+          "translation": "The meeting has moved from Tuesday to Wednesday. It is still at ten. When is the meeting?",
+          "id": "d6070000-0000-4000-8000-000000000081",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000325",
+            "d6080000-0000-4000-8000-000000000326",
+            "d6080000-0000-4000-8000-000000000327"
+          ]
+        },
+        {
+          "category": "messages-schedules",
+          "prompt": "予約：十月二十五日 午後二時／場所：三〇一号室\n\n予約した部屋はどれですか。",
+          "options": [
+            "三〇一号室",
+            "三〇二号室",
+            "二〇一号室"
+          ],
+          "correctIndex": 0,
+          "explanation": "The reservation lists room 301.",
+          "japaneseExplanation": "場所の欄に「三〇一号室」とあります。",
+          "translation": "Reservation: October 25 at 2 p.m. Location: room 301. Which room was reserved?",
+          "id": "d6070000-0000-4000-8000-000000000082",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000329",
+            "d6080000-0000-4000-8000-000000000330",
+            "d6080000-0000-4000-8000-000000000331"
+          ]
+        },
+        {
+          "category": "messages-schedules",
+          "prompt": "バス：八時十分発、八時四十分発、九時十分発\n\n八時二十分に着きました。次のバスは何時ですか。",
+          "options": [
+            "九時十分",
+            "八時四十分",
+            "八時十分"
+          ],
+          "correctIndex": 1,
+          "explanation": "The first departure after 8:20 is 8:40.",
+          "japaneseExplanation": "八時二十分より後で最も早い便は八時四十分です。",
+          "translation": "Bus departures: 8:10, 8:40, 9:10. You arrived at 8:20. When is the next bus?",
+          "id": "d6070000-0000-4000-8000-000000000083",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000333",
+            "d6080000-0000-4000-8000-000000000334",
+            "d6080000-0000-4000-8000-000000000335"
+          ]
+        },
+        {
+          "category": "messages-schedules",
+          "prompt": "明日、午後三時に荷物が届きます。家で受け取ってください。\n\n明日の午後三時に何をしますか。",
+          "options": [
+            "駅へ荷物を持っていきます",
+            "店で荷物を買います",
+            "家で荷物を受け取ります"
+          ],
+          "correctIndex": 2,
+          "explanation": "The message asks the reader to receive the delivery at home.",
+          "japaneseExplanation": "家で荷物を受け取るように頼んでいます。",
+          "translation": "A parcel will arrive at 3 p.m. tomorrow. Please receive it at home. What should you do at that time?",
+          "id": "d6070000-0000-4000-8000-000000000084",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000337",
+            "d6080000-0000-4000-8000-000000000338",
+            "d6080000-0000-4000-8000-000000000339"
+          ]
+        },
+        {
+          "category": "messages-schedules",
+          "prompt": "昼休み：十二時〜十三時／午後の仕事：十三時〜十七時\n\n午後の仕事は何時に始まりますか。",
+          "options": [
+            "十三時",
+            "十二時",
+            "十七時"
+          ],
+          "correctIndex": 0,
+          "explanation": "The afternoon work period begins at 13:00.",
+          "japaneseExplanation": "午後の仕事は十三時からです。",
+          "translation": "Lunch break: noon–1 p.m. Afternoon work: 1–5 p.m. When does afternoon work begin?",
+          "id": "d6070000-0000-4000-8000-000000000085",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000341",
+            "d6080000-0000-4000-8000-000000000342",
+            "d6080000-0000-4000-8000-000000000343"
+          ]
+        },
+        {
+          "category": "messages-schedules",
+          "prompt": "買ってきてください：牛乳一本、卵六個。パンは家にあります。\n\n買わなくてもよいものは何ですか。",
+          "options": [
+            "卵",
+            "パン",
+            "牛乳"
+          ],
+          "correctIndex": 1,
+          "explanation": "Bread is already at home, so it does not need to be bought.",
+          "japaneseExplanation": "パンは家にあると書いてあります。",
+          "translation": "Please buy one carton of milk and six eggs. We have bread at home. What do you not need to buy?",
+          "id": "d6070000-0000-4000-8000-000000000086",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000345",
+            "d6080000-0000-4000-8000-000000000346",
+            "d6080000-0000-4000-8000-000000000347"
+          ]
+        },
+        {
+          "category": "messages-schedules",
+          "prompt": "今週の当番：月・田中／火・山田／水・佐藤\n\n火曜日の当番は誰ですか。",
+          "options": [
+            "田中さん",
+            "佐藤さん",
+            "山田さん"
+          ],
+          "correctIndex": 2,
+          "explanation": "The Tuesday row names Yamada.",
+          "japaneseExplanation": "火曜日の欄は山田さんです。",
+          "translation": "This week’s duty roster: Monday, Tanaka; Tuesday, Yamada; Wednesday, Sato. Who is on duty Tuesday?",
+          "id": "d6070000-0000-4000-8000-000000000087",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000349",
+            "d6080000-0000-4000-8000-000000000350",
+            "d6080000-0000-4000-8000-000000000351"
+          ]
+        },
+        {
+          "category": "messages-schedules",
+          "prompt": "セミナー：受付九時半／開始十時／終了十二時\n\nセミナーは何時に終わりますか。",
+          "options": [
+            "十二時",
+            "十時",
+            "九時半"
+          ],
+          "correctIndex": 0,
+          "explanation": "終了 means the end; the listed finishing time is twelve.",
+          "japaneseExplanation": "「終了」の時刻は十二時です。",
+          "translation": "Seminar: reception at 9:30, start at 10, end at noon. When does the seminar finish?",
+          "id": "d6070000-0000-4000-8000-000000000088",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000353",
+            "d6080000-0000-4000-8000-000000000354",
+            "d6080000-0000-4000-8000-000000000355"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d6020000-0000-4000-8000-000000000014",
+      "courseId": "d6010000-0000-4000-8000-000000000001",
+      "category": "messages-schedules",
+      "mode": "quick",
+      "subject": "reading",
+      "title": "JFT-Basic · messages-schedules · quick",
+      "questions": [
+        {
+          "category": "messages-schedules",
+          "prompt": "月〜金：九時〜十八時／土：十時〜十六時／日：休み\n\n土曜日は何時に開きますか。",
+          "options": [
+            "十八時",
+            "十時",
+            "九時"
+          ],
+          "correctIndex": 1,
+          "explanation": "The Saturday row opens at ten.",
+          "japaneseExplanation": "土曜日の開始時間は十時です。",
+          "translation": "Monday to Friday: 9 a.m.–6 p.m. Saturday: 10 a.m.–4 p.m. Sunday: closed. What time does it open on Saturday?",
+          "id": "d6070000-0000-4000-8000-000000000089",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000357",
+            "d6080000-0000-4000-8000-000000000358",
+            "d6080000-0000-4000-8000-000000000359"
+          ]
+        },
+        {
+          "category": "messages-schedules",
+          "prompt": "明日の集合は駅の東口、午前八時です。田中\n\n明日はどこに集まりますか。",
+          "options": [
+            "駅の西口",
+            "会社の受付",
+            "駅の東口"
+          ],
+          "correctIndex": 2,
+          "explanation": "The message specifies the station’s east exit.",
+          "japaneseExplanation": "集合場所は「駅の東口」です。",
+          "translation": "Tomorrow, meet at the station’s east exit at 8 a.m. — Tanaka. Where should you meet?",
+          "id": "d6070000-0000-4000-8000-000000000090",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000361",
+            "d6080000-0000-4000-8000-000000000362",
+            "d6080000-0000-4000-8000-000000000363"
+          ]
+        },
+        {
+          "category": "messages-schedules",
+          "prompt": "会議は火曜日から水曜日に変わりました。時間は十時のままです。\n\n会議はいつですか。",
+          "options": [
+            "水曜日の十時",
+            "火曜日の十時",
+            "水曜日の十一時"
+          ],
+          "correctIndex": 0,
+          "explanation": "The day changes to Wednesday, while the time remains ten.",
+          "japaneseExplanation": "曜日は水曜日になり、時間は十時のままです。",
+          "translation": "The meeting has moved from Tuesday to Wednesday. It is still at ten. When is the meeting?",
+          "id": "d6070000-0000-4000-8000-000000000091",
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000365",
+            "d6080000-0000-4000-8000-000000000366",
+            "d6080000-0000-4000-8000-000000000367"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d6020000-0000-4000-8000-000000000015",
+      "courseId": "d6010000-0000-4000-8000-000000000002",
+      "category": "workplace-conversation",
+      "mode": "scenario",
+      "subject": "grammar",
+      "title": "Offer assistance",
+      "questions": [
+        {
+          "id": "d6070000-0000-4000-8000-000000000092",
+          "prompt": "利用者に丁寧に手伝いを申し出ます。どれが適切ですか。",
+          "options": [
+            "早くしてください。",
+            "自分でやってください。",
+            "何かお手伝いしましょうか。"
+          ],
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000369",
+            "d6080000-0000-4000-8000-000000000370",
+            "d6080000-0000-4000-8000-000000000371"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ask rather than assume. This respects the person’s choice; it is language practice, not clinical instruction.",
+          "japaneseExplanation": "相手の希望を確認し、丁寧に申し出ます。専門的な介助手順の練習ではありません。",
+          "translation": "A resident is seated. Ask permission before offering help."
+        }
+      ]
+    },
+    {
+      "id": "d6020000-0000-4000-8000-000000000016",
+      "courseId": "d6010000-0000-4000-8000-000000000003",
+      "category": "workplace-conversation",
+      "mode": "scenario",
+      "subject": "grammar",
+      "title": "Confirm an order",
+      "questions": [
+        {
+          "id": "d6070000-0000-4000-8000-000000000093",
+          "prompt": "注文を確認するとき、どれが適切ですか。",
+          "options": [
+            "お茶をお一つですね。",
+            "何もありません。",
+            "もう帰ってください。"
+          ],
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000373",
+            "d6080000-0000-4000-8000-000000000374",
+            "d6080000-0000-4000-8000-000000000375"
+          ],
+          "correctIndex": 0,
+          "explanation": "Repeating the item and quantity politely checks the order.",
+          "japaneseExplanation": "品物と数を繰り返して、注文を確認します。",
+          "translation": "A guest orders tea. Confirm the order politely."
+        }
+      ]
+    },
+    {
+      "id": "d6020000-0000-4000-8000-000000000017",
+      "courseId": "d6010000-0000-4000-8000-000000000004",
+      "category": "workplace-conversation",
+      "mode": "scenario",
+      "subject": "grammar",
+      "title": "Welcome a guest",
+      "questions": [
+        {
+          "id": "d6070000-0000-4000-8000-000000000094",
+          "prompt": "予約のお名前を丁寧に尋ねます。",
+          "options": [
+            "何を食べましたか。",
+            "ご予約のお名前を伺ってもよろしいですか。",
+            "名前を言え。"
+          ],
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000377",
+            "d6080000-0000-4000-8000-000000000378",
+            "d6080000-0000-4000-8000-000000000379"
+          ],
+          "correctIndex": 1,
+          "explanation": "伺ってもよろしいですか politely requests information from a guest.",
+          "japaneseExplanation": "「伺ってもよろしいですか」で丁寧に尋ねます。",
+          "translation": "A guest arrives at the hotel. Ask for the reservation name."
+        }
+      ]
+    },
+    {
+      "id": "d6020000-0000-4000-8000-000000000018",
+      "courseId": "d6010000-0000-4000-8000-000000000005",
+      "category": "workplace-conversation",
+      "mode": "scenario",
+      "subject": "grammar",
+      "title": "Clarify a safety instruction",
+      "questions": [
+        {
+          "id": "d6070000-0000-4000-8000-000000000095",
+          "prompt": "指示が分からないとき、どれが適切ですか。",
+          "options": [
+            "分かりませんが、進みます。",
+            "聞かずに作業します。",
+            "すみません、もう一度説明してください。"
+          ],
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000381",
+            "d6080000-0000-4000-8000-000000000382",
+            "d6080000-0000-4000-8000-000000000383"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ask for clarification rather than acting on an unclear instruction. Follow trained supervision and workplace procedures.",
+          "japaneseExplanation": "分からない指示は確認します。実際の安全判断や作業は職場の訓練と手順に従います。",
+          "translation": "You do not understand a supervisor’s instruction. Ask for clarification before proceeding."
+        }
+      ]
+    },
+    {
+      "id": "d6020000-0000-4000-8000-000000000019",
+      "courseId": "d6010000-0000-4000-8000-000000000006",
+      "category": "workplace-conversation",
+      "mode": "scenario",
+      "subject": "grammar",
+      "title": "Report a machine problem",
+      "questions": [
+        {
+          "id": "d6070000-0000-4000-8000-000000000096",
+          "prompt": "問題を報告するとき、どれが適切ですか。",
+          "options": [
+            "機械からいつもと違う音がします。",
+            "何も見ていません。",
+            "報告しなくてもいいです。"
+          ],
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000385",
+            "d6080000-0000-4000-8000-000000000386",
+            "d6080000-0000-4000-8000-000000000387"
+          ],
+          "correctIndex": 0,
+          "explanation": "Describe the observed problem clearly; this exercise does not teach machine operation or emergency response.",
+          "japaneseExplanation": "気づいたことを具体的に報告します。機械の操作方法を教える問題ではありません。",
+          "translation": "You notice an unusual sound. Report what you noticed to the supervisor."
+        }
+      ]
+    },
+    {
+      "id": "d6020000-0000-4000-8000-000000000020",
+      "courseId": "d6010000-0000-4000-8000-000000000007",
+      "category": "workplace-conversation",
+      "mode": "scenario",
+      "subject": "grammar",
+      "title": "Confirm a field task",
+      "questions": [
+        {
+          "id": "d6070000-0000-4000-8000-000000000097",
+          "prompt": "基準を確認するとき、どれが適切ですか。",
+          "options": [
+            "何も確認しません。",
+            "選別の基準を教えてください。",
+            "全部同じ箱に入れます。"
+          ],
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000389",
+            "d6080000-0000-4000-8000-000000000390",
+            "d6080000-0000-4000-8000-000000000391"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ask for the criteria before starting an unfamiliar task.",
+          "japaneseExplanation": "初めての作業では、基準を確認してから始めます。",
+          "translation": "Your supervisor asks you to sort produce. Ask which standard to use."
+        }
+      ]
+    },
+    {
+      "id": "d6020000-0000-4000-8000-000000000021",
+      "courseId": "d6010000-0000-4000-8000-000000000002",
+      "category": "industry-vocabulary",
+      "mode": "industry",
+      "subject": "vocabulary",
+      "title": "Nursing care · vocabulary check",
+      "questions": [
+        {
+          "id": "d6070000-0000-4000-8000-000000000098",
+          "prompt": "「介護」の意味を選んでください。",
+          "options": [
+            "Service user / resident",
+            "Wheelchair",
+            "Caregiving"
+          ],
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000393",
+            "d6080000-0000-4000-8000-000000000394",
+            "d6080000-0000-4000-8000-000000000395"
+          ],
+          "correctIndex": 2,
+          "explanation": "介護 (かいご) means caregiving. In context: I am studying caregiving work.",
+          "japaneseExplanation": "「介護」の意味を例文と一緒に確認しましょう。",
+          "translation": "I am studying caregiving work."
+        },
+        {
+          "id": "d6070000-0000-4000-8000-000000000099",
+          "prompt": "「利用者」の意味を選んでください。",
+          "options": [
+            "Service user / resident",
+            "Wheelchair",
+            "Meal"
+          ],
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000397",
+            "d6080000-0000-4000-8000-000000000398",
+            "d6080000-0000-4000-8000-000000000399"
+          ],
+          "correctIndex": 0,
+          "explanation": "利用者 (りようしゃ) means service user / resident. In context: I politely ask the resident their name.",
+          "japaneseExplanation": "「利用者」の意味を例文と一緒に確認しましょう。",
+          "translation": "I politely ask the resident their name."
+        },
+        {
+          "id": "d6070000-0000-4000-8000-000000000100",
+          "prompt": "「車椅子」の意味を選んでください。",
+          "options": [
+            "Fluids / hydration",
+            "Wheelchair",
+            "Meal"
+          ],
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000401",
+            "d6080000-0000-4000-8000-000000000402",
+            "d6080000-0000-4000-8000-000000000403"
+          ],
+          "correctIndex": 1,
+          "explanation": "車椅子 (くるまいす) means wheelchair. In context: I check the wheelchair’s location with a staff member.",
+          "japaneseExplanation": "「車椅子」の意味を例文と一緒に確認しましょう。",
+          "translation": "I check the wheelchair’s location with a staff member."
+        },
+        {
+          "id": "d6070000-0000-4000-8000-000000000101",
+          "prompt": "「食事」の意味を選んでください。",
+          "options": [
+            "Fluids / hydration",
+            "Physical condition",
+            "Meal"
+          ],
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000405",
+            "d6080000-0000-4000-8000-000000000406",
+            "d6080000-0000-4000-8000-000000000407"
+          ],
+          "correctIndex": 2,
+          "explanation": "食事 (しょくじ) means meal. In context: I let people know the mealtime.",
+          "japaneseExplanation": "「食事」の意味を例文と一緒に確認しましょう。",
+          "translation": "I let people know the mealtime."
+        },
+        {
+          "id": "d6070000-0000-4000-8000-000000000102",
+          "prompt": "「水分」の意味を選んでください。",
+          "options": [
+            "Fluids / hydration",
+            "Physical condition",
+            "Watching over / supervision"
+          ],
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000409",
+            "d6080000-0000-4000-8000-000000000410",
+            "d6080000-0000-4000-8000-000000000411"
+          ],
+          "correctIndex": 0,
+          "explanation": "水分 (すいぶん) means fluids / hydration. In context: I consult staff about hydration.",
+          "japaneseExplanation": "「水分」の意味を例文と一緒に確認しましょう。",
+          "translation": "I consult staff about hydration."
+        }
+      ]
+    },
+    {
+      "id": "d6020000-0000-4000-8000-000000000022",
+      "courseId": "d6010000-0000-4000-8000-000000000003",
+      "category": "industry-vocabulary",
+      "mode": "industry",
+      "subject": "vocabulary",
+      "title": "Food service · vocabulary check",
+      "questions": [
+        {
+          "id": "d6070000-0000-4000-8000-000000000103",
+          "prompt": "「注文」の意味を選んでください。",
+          "options": [
+            "Order",
+            "Customer / guest",
+            "Payment / bill"
+          ],
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000413",
+            "d6080000-0000-4000-8000-000000000414",
+            "d6080000-0000-4000-8000-000000000415"
+          ],
+          "correctIndex": 0,
+          "explanation": "注文 (ちゅうもん) means order. In context: I will confirm your order.",
+          "japaneseExplanation": "「注文」の意味を例文と一緒に確認しましょう。",
+          "translation": "I will confirm your order."
+        },
+        {
+          "id": "d6070000-0000-4000-8000-000000000104",
+          "prompt": "「お客様」の意味を選んでください。",
+          "options": [
+            "Reservation",
+            "Customer / guest",
+            "Payment / bill"
+          ],
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000417",
+            "d6080000-0000-4000-8000-000000000418",
+            "d6080000-0000-4000-8000-000000000419"
+          ],
+          "correctIndex": 1,
+          "explanation": "お客様 (おきゃくさま) means customer / guest. In context: I will show the customer to their seat.",
+          "japaneseExplanation": "「お客様」の意味を例文と一緒に確認しましょう。",
+          "translation": "I will show the customer to their seat."
+        },
+        {
+          "id": "d6070000-0000-4000-8000-000000000105",
+          "prompt": "「会計」の意味を選んでください。",
+          "options": [
+            "Reservation",
+            "Serving meals",
+            "Payment / bill"
+          ],
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000421",
+            "d6080000-0000-4000-8000-000000000422",
+            "d6080000-0000-4000-8000-000000000423"
+          ],
+          "correctIndex": 2,
+          "explanation": "会計 (かいけい) means payment / bill. In context: Please pay here.",
+          "japaneseExplanation": "「会計」の意味を例文と一緒に確認しましょう。",
+          "translation": "Please pay here."
+        },
+        {
+          "id": "d6070000-0000-4000-8000-000000000106",
+          "prompt": "「予約」の意味を選んでください。",
+          "options": [
+            "Reservation",
+            "Serving meals",
+            "Washing / cleaning"
+          ],
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000425",
+            "d6080000-0000-4000-8000-000000000426",
+            "d6080000-0000-4000-8000-000000000427"
+          ],
+          "correctIndex": 0,
+          "explanation": "予約 (よやく) means reservation. In context: May I have the name on the reservation?",
+          "japaneseExplanation": "「予約」の意味を例文と一緒に確認しましょう。",
+          "translation": "May I have the name on the reservation?"
+        },
+        {
+          "id": "d6070000-0000-4000-8000-000000000107",
+          "prompt": "「配膳」の意味を選んでください。",
+          "options": [
+            "Ingredients",
+            "Serving meals",
+            "Washing / cleaning"
+          ],
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000429",
+            "d6080000-0000-4000-8000-000000000430",
+            "d6080000-0000-4000-8000-000000000431"
+          ],
+          "correctIndex": 1,
+          "explanation": "配膳 (はいぜん) means serving meals. In context: I check the order for serving meals.",
+          "japaneseExplanation": "「配膳」の意味を例文と一緒に確認しましょう。",
+          "translation": "I check the order for serving meals."
+        }
+      ]
+    },
+    {
+      "id": "d6020000-0000-4000-8000-000000000023",
+      "courseId": "d6010000-0000-4000-8000-000000000004",
+      "category": "industry-vocabulary",
+      "mode": "industry",
+      "subject": "vocabulary",
+      "title": "Accommodation · vocabulary check",
+      "questions": [
+        {
+          "id": "d6070000-0000-4000-8000-000000000108",
+          "prompt": "「宿泊」の意味を選んでください。",
+          "options": [
+            "Guest room",
+            "Overnight stay",
+            "Reception"
+          ],
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000433",
+            "d6080000-0000-4000-8000-000000000434",
+            "d6080000-0000-4000-8000-000000000435"
+          ],
+          "correctIndex": 1,
+          "explanation": "宿泊 (しゅくはく) means overnight stay. In context: I booked a two-night stay.",
+          "japaneseExplanation": "「宿泊」の意味を例文と一緒に確認しましょう。",
+          "translation": "I booked a two-night stay."
+        },
+        {
+          "id": "d6070000-0000-4000-8000-000000000109",
+          "prompt": "「受付」の意味を選んでください。",
+          "options": [
+            "Guest room",
+            "Key",
+            "Reception"
+          ],
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000437",
+            "d6080000-0000-4000-8000-000000000438",
+            "d6080000-0000-4000-8000-000000000439"
+          ],
+          "correctIndex": 2,
+          "explanation": "受付 (うけつけ) means reception. In context: We ask for your name at reception.",
+          "japaneseExplanation": "「受付」の意味を例文と一緒に確認しましょう。",
+          "translation": "We ask for your name at reception."
+        },
+        {
+          "id": "d6070000-0000-4000-8000-000000000110",
+          "prompt": "「客室」の意味を選んでください。",
+          "options": [
+            "Guest room",
+            "Key",
+            "Breakfast"
+          ],
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000441",
+            "d6080000-0000-4000-8000-000000000442",
+            "d6080000-0000-4000-8000-000000000443"
+          ],
+          "correctIndex": 0,
+          "explanation": "客室 (きゃくしつ) means guest room. In context: The guest room is on the third floor.",
+          "japaneseExplanation": "「客室」の意味を例文と一緒に確認しましょう。",
+          "translation": "The guest room is on the third floor."
+        },
+        {
+          "id": "d6070000-0000-4000-8000-000000000111",
+          "prompt": "「鍵」の意味を選んでください。",
+          "options": [
+            "Cleaning",
+            "Key",
+            "Breakfast"
+          ],
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000445",
+            "d6080000-0000-4000-8000-000000000446",
+            "d6080000-0000-4000-8000-000000000447"
+          ],
+          "correctIndex": 1,
+          "explanation": "鍵 (かぎ) means key. In context: Here is your room key.",
+          "japaneseExplanation": "「鍵」の意味を例文と一緒に確認しましょう。",
+          "translation": "Here is your room key."
+        },
+        {
+          "id": "d6070000-0000-4000-8000-000000000112",
+          "prompt": "「朝食」の意味を選んでください。",
+          "options": [
+            "Cleaning",
+            "Luggage",
+            "Breakfast"
+          ],
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000449",
+            "d6080000-0000-4000-8000-000000000450",
+            "d6080000-0000-4000-8000-000000000451"
+          ],
+          "correctIndex": 2,
+          "explanation": "朝食 (ちょうしょく) means breakfast. In context: Breakfast starts at seven.",
+          "japaneseExplanation": "「朝食」の意味を例文と一緒に確認しましょう。",
+          "translation": "Breakfast starts at seven."
+        }
+      ]
+    },
+    {
+      "id": "d6020000-0000-4000-8000-000000000024",
+      "courseId": "d6010000-0000-4000-8000-000000000005",
+      "category": "industry-vocabulary",
+      "mode": "industry",
+      "subject": "vocabulary",
+      "title": "Construction · vocabulary check",
+      "questions": [
+        {
+          "id": "d6070000-0000-4000-8000-000000000113",
+          "prompt": "「安全」の意味を選んでください。",
+          "options": [
+            "Worksite",
+            "Protective equipment",
+            "Safety"
+          ],
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000453",
+            "d6080000-0000-4000-8000-000000000454",
+            "d6080000-0000-4000-8000-000000000455"
+          ],
+          "correctIndex": 2,
+          "explanation": "安全 (あんぜん) means safety. In context: I receive an explanation about safety.",
+          "japaneseExplanation": "「安全」の意味を例文と一緒に確認しましょう。",
+          "translation": "I receive an explanation about safety."
+        },
+        {
+          "id": "d6070000-0000-4000-8000-000000000114",
+          "prompt": "「現場」の意味を選んでください。",
+          "options": [
+            "Worksite",
+            "Protective equipment",
+            "Tool"
+          ],
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000457",
+            "d6080000-0000-4000-8000-000000000458",
+            "d6080000-0000-4000-8000-000000000459"
+          ],
+          "correctIndex": 0,
+          "explanation": "現場 (げんば) means worksite. In context: I greet the person in charge at the worksite.",
+          "japaneseExplanation": "「現場」の意味を例文と一緒に確認しましょう。",
+          "translation": "I greet the person in charge at the worksite."
+        },
+        {
+          "id": "d6070000-0000-4000-8000-000000000115",
+          "prompt": "「保護具」の意味を選んでください。",
+          "options": [
+            "Area around one’s feet / footing",
+            "Protective equipment",
+            "Tool"
+          ],
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000461",
+            "d6080000-0000-4000-8000-000000000462",
+            "d6080000-0000-4000-8000-000000000463"
+          ],
+          "correctIndex": 1,
+          "explanation": "保護具 (ほごぐ) means protective equipment. In context: I ask the person in charge which protective equipment is required.",
+          "japaneseExplanation": "「保護具」の意味を例文と一緒に確認しましょう。",
+          "translation": "I ask the person in charge which protective equipment is required."
+        },
+        {
+          "id": "d6070000-0000-4000-8000-000000000116",
+          "prompt": "「工具」の意味を選んでください。",
+          "options": [
+            "Area around one’s feet / footing",
+            "No entry",
+            "Tool"
+          ],
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000465",
+            "d6080000-0000-4000-8000-000000000466",
+            "d6080000-0000-4000-8000-000000000467"
+          ],
+          "correctIndex": 2,
+          "explanation": "工具 (こうぐ) means tool. In context: Please tell me the name of the tool.",
+          "japaneseExplanation": "「工具」の意味を例文と一緒に確認しましょう。",
+          "translation": "Please tell me the name of the tool."
+        },
+        {
+          "id": "d6070000-0000-4000-8000-000000000117",
+          "prompt": "「足元」の意味を選んでください。",
+          "options": [
+            "Area around one’s feet / footing",
+            "No entry",
+            "Instruction"
+          ],
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000469",
+            "d6080000-0000-4000-8000-000000000470",
+            "d6080000-0000-4000-8000-000000000471"
+          ],
+          "correctIndex": 0,
+          "explanation": "足元 (あしもと) means area around one’s feet / footing. In context: Please watch your step.",
+          "japaneseExplanation": "「足元」の意味を例文と一緒に確認しましょう。",
+          "translation": "Please watch your step."
+        }
+      ]
+    },
+    {
+      "id": "d6020000-0000-4000-8000-000000000025",
+      "courseId": "d6010000-0000-4000-8000-000000000006",
+      "category": "industry-vocabulary",
+      "mode": "industry",
+      "subject": "vocabulary",
+      "title": "Manufacturing · vocabulary check",
+      "questions": [
+        {
+          "id": "d6070000-0000-4000-8000-000000000118",
+          "prompt": "「製品」の意味を選んでください。",
+          "options": [
+            "Product",
+            "Part / component",
+            "Machine"
+          ],
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000473",
+            "d6080000-0000-4000-8000-000000000474",
+            "d6080000-0000-4000-8000-000000000475"
+          ],
+          "correctIndex": 0,
+          "explanation": "製品 (せいひん) means product. In context: I confirm the product name.",
+          "japaneseExplanation": "「製品」の意味を例文と一緒に確認しましょう。",
+          "translation": "I confirm the product name."
+        },
+        {
+          "id": "d6070000-0000-4000-8000-000000000119",
+          "prompt": "「部品」の意味を選んでください。",
+          "options": [
+            "Abnormality / problem",
+            "Part / component",
+            "Machine"
+          ],
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000477",
+            "d6080000-0000-4000-8000-000000000478",
+            "d6080000-0000-4000-8000-000000000479"
+          ],
+          "correctIndex": 1,
+          "explanation": "部品 (ぶひん) means part / component. In context: I read the part number.",
+          "japaneseExplanation": "「部品」の意味を例文と一緒に確認しましょう。",
+          "translation": "I read the part number."
+        },
+        {
+          "id": "d6070000-0000-4000-8000-000000000120",
+          "prompt": "「機械」の意味を選んでください。",
+          "options": [
+            "Abnormality / problem",
+            "Stop / suspension",
+            "Machine"
+          ],
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000481",
+            "d6080000-0000-4000-8000-000000000482",
+            "d6080000-0000-4000-8000-000000000483"
+          ],
+          "correctIndex": 2,
+          "explanation": "機械 (きかい) means machine. In context: I ask the person in charge about the machine.",
+          "japaneseExplanation": "「機械」の意味を例文と一緒に確認しましょう。",
+          "translation": "I ask the person in charge about the machine."
+        },
+        {
+          "id": "d6070000-0000-4000-8000-000000000121",
+          "prompt": "「異常」の意味を選んでください。",
+          "options": [
+            "Abnormality / problem",
+            "Stop / suspension",
+            "Inspection / examination"
+          ],
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000485",
+            "d6080000-0000-4000-8000-000000000486",
+            "d6080000-0000-4000-8000-000000000487"
+          ],
+          "correctIndex": 0,
+          "explanation": "異常 (いじょう) means abnormality / problem. In context: I report the problem to my supervisor.",
+          "japaneseExplanation": "「異常」の意味を例文と一緒に確認しましょう。",
+          "translation": "I report the problem to my supervisor."
+        },
+        {
+          "id": "d6070000-0000-4000-8000-000000000122",
+          "prompt": "「停止」の意味を選んでください。",
+          "options": [
+            "Quantity",
+            "Stop / suspension",
+            "Inspection / examination"
+          ],
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000489",
+            "d6080000-0000-4000-8000-000000000490",
+            "d6080000-0000-4000-8000-000000000491"
+          ],
+          "correctIndex": 1,
+          "explanation": "停止 (ていし) means stop / suspension. In context: The stop indicator is showing.",
+          "japaneseExplanation": "「停止」の意味を例文と一緒に確認しましょう。",
+          "translation": "The stop indicator is showing."
+        }
+      ]
+    },
+    {
+      "id": "d6020000-0000-4000-8000-000000000026",
+      "courseId": "d6010000-0000-4000-8000-000000000007",
+      "category": "industry-vocabulary",
+      "mode": "industry",
+      "subject": "vocabulary",
+      "title": "Agriculture · vocabulary check",
+      "questions": [
+        {
+          "id": "d6070000-0000-4000-8000-000000000123",
+          "prompt": "「収穫」の意味を選んでください。",
+          "options": [
+            "Seedling",
+            "Harvest",
+            "Field"
+          ],
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000493",
+            "d6080000-0000-4000-8000-000000000494",
+            "d6080000-0000-4000-8000-000000000495"
+          ],
+          "correctIndex": 1,
+          "explanation": "収穫 (しゅうかく) means harvest. In context: I confirm the harvest date.",
+          "japaneseExplanation": "「収穫」の意味を例文と一緒に確認しましょう。",
+          "translation": "I confirm the harvest date."
+        },
+        {
+          "id": "d6070000-0000-4000-8000-000000000124",
+          "prompt": "「畑」の意味を選んでください。",
+          "options": [
+            "Seedling",
+            "Watering",
+            "Field"
+          ],
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000497",
+            "d6080000-0000-4000-8000-000000000498",
+            "d6080000-0000-4000-8000-000000000499"
+          ],
+          "correctIndex": 2,
+          "explanation": "畑 (はたけ) means field. In context: Please tell me where the field is.",
+          "japaneseExplanation": "「畑」の意味を例文と一緒に確認しましょう。",
+          "translation": "Please tell me where the field is."
+        },
+        {
+          "id": "d6070000-0000-4000-8000-000000000125",
+          "prompt": "「苗」の意味を選んでください。",
+          "options": [
+            "Seedling",
+            "Watering",
+            "Fertilizer"
+          ],
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000501",
+            "d6080000-0000-4000-8000-000000000502",
+            "d6080000-0000-4000-8000-000000000503"
+          ],
+          "correctIndex": 0,
+          "explanation": "苗 (なえ) means seedling. In context: I learn the names of seedlings.",
+          "japaneseExplanation": "「苗」の意味を例文と一緒に確認しましょう。",
+          "translation": "I learn the names of seedlings."
+        },
+        {
+          "id": "d6070000-0000-4000-8000-000000000126",
+          "prompt": "「水やり」の意味を選んでください。",
+          "options": [
+            "Sorting / selection",
+            "Watering",
+            "Fertilizer"
+          ],
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000505",
+            "d6080000-0000-4000-8000-000000000506",
+            "d6080000-0000-4000-8000-000000000507"
+          ],
+          "correctIndex": 1,
+          "explanation": "水やり (みずやり) means watering. In context: I check who is responsible for watering.",
+          "japaneseExplanation": "「水やり」の意味を例文と一緒に確認しましょう。",
+          "translation": "I check who is responsible for watering."
+        },
+        {
+          "id": "d6070000-0000-4000-8000-000000000127",
+          "prompt": "「肥料」の意味を選んでください。",
+          "options": [
+            "Sorting / selection",
+            "Shipping",
+            "Fertilizer"
+          ],
+          "optionIds": [
+            "d6080000-0000-4000-8000-000000000509",
+            "d6080000-0000-4000-8000-000000000510",
+            "d6080000-0000-4000-8000-000000000511"
+          ],
+          "correctIndex": 2,
+          "explanation": "肥料 (ひりょう) means fertilizer. In context: I ask the person in charge about fertilizer.",
+          "japaneseExplanation": "「肥料」の意味を例文と一緒に確認しましょう。",
+          "translation": "I ask the person in charge about fertilizer."
+        }
+      ]
+    }
+  ],
+  "scenarios": [
+    {
+      "id": "d6090000-0000-4000-8000-000000000001",
+      "sectorId": "d6030000-0000-4000-8000-000000000001",
+      "lessonId": "d6100000-0000-4000-8000-000000000001",
+      "bankId": "d6020000-0000-4000-8000-000000000015",
+      "title": "Offer assistance",
+      "situation": "A resident is seated. Ask permission before offering help.",
+      "situationJa": "利用者の方に、手伝いが必要か丁寧に尋ねます。",
+      "dialogue": [
+        {
+          "speaker": "職員",
+          "ja": "何かお{手伝|てつだ}いしましょうか。",
+          "en": "May I help you with anything?"
+        },
+        {
+          "speaker": "利用者",
+          "ja": "はい、お願いします。",
+          "en": "Yes, please."
+        }
+      ]
+    },
+    {
+      "id": "d6090000-0000-4000-8000-000000000002",
+      "sectorId": "d6030000-0000-4000-8000-000000000002",
+      "lessonId": "d6100000-0000-4000-8000-000000000002",
+      "bankId": "d6020000-0000-4000-8000-000000000016",
+      "title": "Confirm an order",
+      "situation": "A guest orders tea. Confirm the order politely.",
+      "situationJa": "お客様がお茶を注文しました。内容を確認します。",
+      "dialogue": [
+        {
+          "speaker": "お客様",
+          "ja": "お{茶|ちゃ}を一つお願いします。",
+          "en": "One tea, please."
+        },
+        {
+          "speaker": "店員",
+          "ja": "お{茶|ちゃ}をお一つですね。",
+          "en": "One tea, correct?"
+        }
+      ]
+    },
+    {
+      "id": "d6090000-0000-4000-8000-000000000003",
+      "sectorId": "d6030000-0000-4000-8000-000000000003",
+      "lessonId": "d6100000-0000-4000-8000-000000000003",
+      "bankId": "d6020000-0000-4000-8000-000000000017",
+      "title": "Welcome a guest",
+      "situation": "A guest arrives at the hotel. Ask for the reservation name.",
+      "situationJa": "ホテルに到着したお客様に、予約のお名前を伺います。",
+      "dialogue": [
+        {
+          "speaker": "スタッフ",
+          "ja": "いらっしゃいませ。ご{予約|よやく}はございますか。",
+          "en": "Welcome. Do you have a reservation?"
+        },
+        {
+          "speaker": "お客様",
+          "ja": "はい、田中です。",
+          "en": "Yes, under Tanaka."
+        }
+      ]
+    },
+    {
+      "id": "d6090000-0000-4000-8000-000000000004",
+      "sectorId": "d6030000-0000-4000-8000-000000000004",
+      "lessonId": "d6100000-0000-4000-8000-000000000004",
+      "bankId": "d6020000-0000-4000-8000-000000000018",
+      "title": "Clarify a safety instruction",
+      "situation": "You do not understand a supervisor’s instruction. Ask for clarification before proceeding.",
+      "situationJa": "上司の安全に関する指示が分かりません。作業前に確認します。",
+      "dialogue": [
+        {
+          "speaker": "上司",
+          "ja": "ここから先は{立入禁止|たちいりきんし}です。",
+          "en": "Do not enter beyond this point."
+        },
+        {
+          "speaker": "作業員",
+          "ja": "分かりました。{範囲|はんい}をもう一度{教|おし}えてください。",
+          "en": "Understood. Please show me the boundary again."
+        }
+      ]
+    },
+    {
+      "id": "d6090000-0000-4000-8000-000000000005",
+      "sectorId": "d6030000-0000-4000-8000-000000000005",
+      "lessonId": "d6100000-0000-4000-8000-000000000005",
+      "bankId": "d6020000-0000-4000-8000-000000000019",
+      "title": "Report a machine problem",
+      "situation": "You notice an unusual sound. Report what you noticed to the supervisor.",
+      "situationJa": "機械の音がいつもと違います。気づいたことを上司に報告します。",
+      "dialogue": [
+        {
+          "speaker": "作業員",
+          "ja": "{機械|きかい}からいつもと違う音がします。",
+          "en": "The machine is making an unusual sound."
+        },
+        {
+          "speaker": "上司",
+          "ja": "分かりました。{担当者|たんとうしゃ}に{確認|かくにん}します。",
+          "en": "Understood. I will check with the person responsible."
+        }
+      ]
+    },
+    {
+      "id": "d6090000-0000-4000-8000-000000000006",
+      "sectorId": "d6030000-0000-4000-8000-000000000006",
+      "lessonId": "d6100000-0000-4000-8000-000000000006",
+      "bankId": "d6020000-0000-4000-8000-000000000020",
+      "title": "Confirm a field task",
+      "situation": "Your supervisor asks you to sort produce. Ask which standard to use.",
+      "situationJa": "農産物の選別を頼まれました。基準を確認します。",
+      "dialogue": [
+        {
+          "speaker": "上司",
+          "ja": "この箱の{野菜|やさい}を{選別|せんべつ}してください。",
+          "en": "Please sort the vegetables in this box."
+        },
+        {
+          "speaker": "作業員",
+          "ja": "{選別|せんべつ}の{基準|きじゅん}を{教|おし}えてください。",
+          "en": "Please explain the sorting criteria."
+        }
+      ]
+    }
+  ],
+  "interviews": [
+    {
+      "id": "d6110000-0000-4000-8000-000000000001",
+      "lessonId": "d6100000-0000-4000-8000-000000000007",
+      "sectorId": null,
+      "topic": "Introduction",
+      "prompt": "自己紹介をお願いします。",
+      "answer": "はじめまして。〇〇と申します。{日本語|にほんご}を勉強しています。本日はよろしくお願いいたします。",
+      "translation": "My name is __. I am studying Japanese. Thank you for meeting with me today.",
+      "explanation": "Replace 〇〇 with your name. Keep your introduction brief and truthful.",
+      "explanationJa": "〇〇を自分の名前に変えて、簡潔に伝えます。"
+    },
+    {
+      "id": "d6110000-0000-4000-8000-000000000002",
+      "lessonId": "d6100000-0000-4000-8000-000000000008",
+      "sectorId": null,
+      "topic": "Work experience",
+      "prompt": "これまでの{仕事|しごと}について{教|おし}えてください。",
+      "answer": "以前は〇〇の{仕事|しごと}をしていました。主に〇〇を担当していました。",
+      "translation": "Previously I worked in __. My main responsibility was __.",
+      "explanation": "Describe only your actual experience. If you have none, explain what you have learned instead.",
+      "explanationJa": "実際の経験を伝えます。未経験なら、学んだことを説明します。"
+    },
+    {
+      "id": "d6110000-0000-4000-8000-000000000003",
+      "lessonId": "d6100000-0000-4000-8000-000000000009",
+      "sectorId": null,
+      "topic": "Motivation",
+      "prompt": "なぜ日本で働きたいですか。",
+      "answer": "{日本語|にほんご}を使って働き、〇〇の技術を学びたいと考えています。",
+      "translation": "I would like to work using Japanese and learn skills in __.",
+      "explanation": "Give your own specific motivation; do not present this template as a personal fact.",
+      "explanationJa": "自分の具体的な理由に合わせて答えます。"
+    },
+    {
+      "id": "d6110000-0000-4000-8000-000000000004",
+      "lessonId": "d6100000-0000-4000-8000-000000000010",
+      "sectorId": null,
+      "topic": "Strengths",
+      "prompt": "あなたの長所を{教|おし}えてください。",
+      "answer": "私の長所は、分からないことを{確認|かくにん}してから行動することです。",
+      "translation": "My strength is checking what I do not understand before acting.",
+      "explanation": "Support a truthful strength with an example from your own life.",
+      "explanationJa": "本当の長所を、自分の経験を添えて説明します。"
+    },
+    {
+      "id": "d6110000-0000-4000-8000-000000000005",
+      "lessonId": "d6100000-0000-4000-8000-000000000011",
+      "sectorId": null,
+      "topic": "Areas to improve",
+      "prompt": "{改善|かいぜん}したい点はありますか。",
+      "answer": "{日本語|にほんご}で話すとき、まだ時間がかかります。毎日声に出して練習しています。",
+      "translation": "Speaking Japanese still takes me time. I practise speaking aloud every day.",
+      "explanation": "State a real area for improvement and the steps you are taking.",
+      "explanationJa": "改善したい点と、そのための努力を伝えます。"
+    },
+    {
+      "id": "d6110000-0000-4000-8000-000000000006",
+      "lessonId": "d6100000-0000-4000-8000-000000000012",
+      "sectorId": null,
+      "topic": "Polite clarification",
+      "prompt": "{質問|しつもん}が聞き取れないとき、どう言いますか。",
+      "answer": "申し訳ありません。もう一度、ゆっくりお話しいただけますか。",
+      "translation": "I am sorry. Could you please say that again slowly?",
+      "explanation": "It is appropriate to request clarification instead of pretending to understand.",
+      "explanationJa": "分かったふりをせず、丁寧に聞き直します。"
+    },
+    {
+      "id": "d6110000-0000-4000-8000-000000000007",
+      "lessonId": "d6100000-0000-4000-8000-000000000013",
+      "sectorId": null,
+      "topic": "Closing questions",
+      "prompt": "最後に{質問|しつもん}はありますか。",
+      "answer": "入社後の{研修|けんしゅう}について{教|おし}えていただけますか。",
+      "translation": "Could you tell me about the training after joining?",
+      "explanation": "Ask a genuine question about the role or training.",
+      "explanationJa": "仕事内容や研修について、知りたいことを丁寧に尋ねます。"
+    },
+    {
+      "id": "d6110000-0000-4000-8000-000000000008",
+      "lessonId": "d6100000-0000-4000-8000-000000000014",
+      "sectorId": "d6030000-0000-4000-8000-000000000001",
+      "topic": "Nursing care",
+      "prompt": "この{仕事|しごと}で大切だと思うことは何ですか。",
+      "answer": "分からないことを{確認|かくにん}し、周りの人と丁寧に話すことが大切だと考えています。",
+      "translation": "I think it is important to check what I do not understand and communicate respectfully with others.",
+      "explanation": "For nursing care, connect this answer to a truthful experience. Language practice alone does not demonstrate professional competence.",
+      "explanationJa": "自分の経験に合わせて答えます。日本語の練習だけで専門的な能力を証明するものではありません。"
+    },
+    {
+      "id": "d6110000-0000-4000-8000-000000000009",
+      "lessonId": "d6100000-0000-4000-8000-000000000015",
+      "sectorId": "d6030000-0000-4000-8000-000000000002",
+      "topic": "Food service",
+      "prompt": "この{仕事|しごと}で大切だと思うことは何ですか。",
+      "answer": "分からないことを{確認|かくにん}し、周りの人と丁寧に話すことが大切だと考えています。",
+      "translation": "I think it is important to check what I do not understand and communicate respectfully with others.",
+      "explanation": "For food service, connect this answer to a truthful experience. Language practice alone does not demonstrate professional competence.",
+      "explanationJa": "自分の経験に合わせて答えます。日本語の練習だけで専門的な能力を証明するものではありません。"
+    },
+    {
+      "id": "d6110000-0000-4000-8000-000000000010",
+      "lessonId": "d6100000-0000-4000-8000-000000000016",
+      "sectorId": "d6030000-0000-4000-8000-000000000003",
+      "topic": "Accommodation",
+      "prompt": "この{仕事|しごと}で大切だと思うことは何ですか。",
+      "answer": "分からないことを{確認|かくにん}し、周りの人と丁寧に話すことが大切だと考えています。",
+      "translation": "I think it is important to check what I do not understand and communicate respectfully with others.",
+      "explanation": "For accommodation, connect this answer to a truthful experience. Language practice alone does not demonstrate professional competence.",
+      "explanationJa": "自分の経験に合わせて答えます。日本語の練習だけで専門的な能力を証明するものではありません。"
+    },
+    {
+      "id": "d6110000-0000-4000-8000-000000000011",
+      "lessonId": "d6100000-0000-4000-8000-000000000017",
+      "sectorId": "d6030000-0000-4000-8000-000000000004",
+      "topic": "Construction",
+      "prompt": "この{仕事|しごと}で大切だと思うことは何ですか。",
+      "answer": "分からないことを{確認|かくにん}し、周りの人と丁寧に話すことが大切だと考えています。",
+      "translation": "I think it is important to check what I do not understand and communicate respectfully with others.",
+      "explanation": "For construction, connect this answer to a truthful experience. Language practice alone does not demonstrate professional competence.",
+      "explanationJa": "自分の経験に合わせて答えます。日本語の練習だけで専門的な能力を証明するものではありません。"
+    },
+    {
+      "id": "d6110000-0000-4000-8000-000000000012",
+      "lessonId": "d6100000-0000-4000-8000-000000000018",
+      "sectorId": "d6030000-0000-4000-8000-000000000005",
+      "topic": "Manufacturing",
+      "prompt": "この{仕事|しごと}で大切だと思うことは何ですか。",
+      "answer": "分からないことを{確認|かくにん}し、周りの人と丁寧に話すことが大切だと考えています。",
+      "translation": "I think it is important to check what I do not understand and communicate respectfully with others.",
+      "explanation": "For manufacturing, connect this answer to a truthful experience. Language practice alone does not demonstrate professional competence.",
+      "explanationJa": "自分の経験に合わせて答えます。日本語の練習だけで専門的な能力を証明するものではありません。"
+    },
+    {
+      "id": "d6110000-0000-4000-8000-000000000013",
+      "lessonId": "d6100000-0000-4000-8000-000000000019",
+      "sectorId": "d6030000-0000-4000-8000-000000000006",
+      "topic": "Agriculture",
+      "prompt": "この{仕事|しごと}で大切だと思うことは何ですか。",
+      "answer": "分からないことを{確認|かくにん}し、周りの人と丁寧に話すことが大切だと考えています。",
+      "translation": "I think it is important to check what I do not understand and communicate respectfully with others.",
+      "explanation": "For agriculture, connect this answer to a truthful experience. Language practice alone does not demonstrate professional competence.",
+      "explanationJa": "自分の経験に合わせて答えます。日本語の練習だけで専門的な能力を証明するものではありません。"
+    }
+  ],
+  "resources": [
+    {
+      "id": "d6120000-0000-4000-8000-000000000001",
+      "category": "jft",
+      "title": "Japan Foundation · JFT-Basic structure",
+      "url": "https://www.jpf.go.jp/jft-basic/e/about/index.html",
+      "summary": "Four sections, around 50 questions in 60 minutes. Review stays within the current section; listening does not allow previous/next review.",
+      "summaryJa": "四分野、約50問、60分です。前の分野には戻れず、聴解では前後の問題を見直せません。",
+      "reviewedAt": "2026-10-24"
+    },
+    {
+      "id": "d6120000-0000-4000-8000-000000000002",
+      "category": "ssw",
+      "title": "Immigration Services Agency · SSW fields",
+      "url": "https://www.ssw.go.jp/en/about/visa/",
+      "summary": "Consult the current official sector pages. The six NihonPath tracks are a learning subset, not a complete eligibility list. The food-service page currently notes a pause on new applications.",
+      "summaryJa": "最新の分野情報は公式ページで確認してください。当サイトの六つの学習分野は全対象分野の一覧ではありません。外食分野には新規申請に関する停止の案内があります。",
+      "reviewedAt": "2026-10-24"
+    },
+    {
+      "id": "d6120000-0000-4000-8000-000000000003",
+      "category": "ssw",
+      "title": "Prometric · Tests and schedules",
+      "url": "https://www.prometric-jp.com/ssw/",
+      "summary": "Check the test provider for current examination subjects, locations and booking dates. NihonPath does not make test reservations.",
+      "summaryJa": "試験科目、会場、予約日程は試験実施機関で確認してください。当サイトでは試験の予約を行いません。",
+      "reviewedAt": "2026-10-24"
+    },
+    {
+      "id": "d6120000-0000-4000-8000-000000000004",
+      "category": "ssw",
+      "title": "ISA · Nursing care language requirements",
+      "url": "https://www.ssw.go.jp/en/about/visa/nursing_care_1/",
+      "summary": "The nursing care field lists JLPT N4 or higher or JFT-Basic, plus its additional nursing care Japanese evaluation. Skill tests and any exemptions must be checked on the official pages.",
+      "summaryJa": "介護分野にはJLPT N4以上またはJFT-Basicに加え、介護日本語評価試験の案内があります。技能試験や免除条件は公式情報で確認してください。",
+      "reviewedAt": "2026-10-24",
+      "sectorId": "d6030000-0000-4000-8000-000000000001"
+    },
+    {
+      "id": "d6120000-0000-4000-8000-000000000005",
+      "sectorId": "d6030000-0000-4000-8000-000000000002",
+      "category": "ssw",
+      "title": "ISA · Food service skills & language guidance",
+      "url": "https://www.ssw.go.jp/en/about/visa/food_service_1/",
+      "summary": "The official notice describes a suspension of certificate-of-eligibility issuance and links to skills-test booking restrictions. Check current updates before planning.",
+      "summaryJa": "公式ページには在留資格認定証明書の交付停止や技能試験の予約制限に関する案内があります。計画前に最新情報を確認してください。",
+      "reviewedAt": "2026-10-24"
+    },
+    {
+      "id": "d6120000-0000-4000-8000-000000000006",
+      "sectorId": "d6030000-0000-4000-8000-000000000003",
+      "category": "ssw",
+      "title": "ISA · Accommodation skills & language guidance",
+      "url": "https://www.ssw.go.jp/en/about/visa/accommodation_1/",
+      "summary": "Read the official field-specific skills assessment, Japanese language standards and exemption guidance. This learning track does not replace the skills assessment.",
+      "summaryJa": "分野別の技能評価、日本語要件、免除条件は公式ページで確認してください。この学習教材は技能評価試験の代わりではありません。",
+      "reviewedAt": "2026-10-24"
+    },
+    {
+      "id": "d6120000-0000-4000-8000-000000000007",
+      "sectorId": "d6030000-0000-4000-8000-000000000004",
+      "category": "ssw",
+      "title": "ISA · Construction skills & language guidance",
+      "url": "https://www.ssw.go.jp/en/about/visa/construction_1/",
+      "summary": "Read the official field-specific skills assessment, Japanese language standards and exemption guidance. This learning track does not replace the skills assessment.",
+      "summaryJa": "分野別の技能評価、日本語要件、免除条件は公式ページで確認してください。この学習教材は技能評価試験の代わりではありません。",
+      "reviewedAt": "2026-10-24"
+    },
+    {
+      "id": "d6120000-0000-4000-8000-000000000008",
+      "sectorId": "d6030000-0000-4000-8000-000000000005",
+      "category": "ssw",
+      "title": "ISA · Manufacturing skills & language guidance",
+      "url": "https://www.ssw.go.jp/en/about/visa/industrial_product_manufacturing_1/",
+      "summary": "Read the official field-specific skills assessment, Japanese language standards and exemption guidance. This learning track does not replace the skills assessment.",
+      "summaryJa": "分野別の技能評価、日本語要件、免除条件は公式ページで確認してください。この学習教材は技能評価試験の代わりではありません。",
+      "reviewedAt": "2026-10-24"
+    },
+    {
+      "id": "d6120000-0000-4000-8000-000000000009",
+      "sectorId": "d6030000-0000-4000-8000-000000000006",
+      "category": "ssw",
+      "title": "ISA · Agriculture skills & language guidance",
+      "url": "https://www.ssw.go.jp/en/about/visa/agriculture_1/",
+      "summary": "Read the official field-specific skills assessment, Japanese language standards and exemption guidance. This learning track does not replace the skills assessment.",
+      "summaryJa": "分野別の技能評価、日本語要件、免除条件は公式ページで確認してください。この学習教材は技能評価試験の代わりではありません。",
+      "reviewedAt": "2026-10-24"
+    }
+  ]
+}

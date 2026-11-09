@@ -1,0 +1,1119 @@
+{
+  "lessons": [
+    {
+      "id": "81000000-0000-4000-8000-000000000001",
+      "courseId": "60000000-0000-4000-8000-000000000001",
+      "level": "n5",
+      "subject": "grammar",
+      "title": "を · Marking the object",
+      "position": 100,
+      "body": {
+        "text": "Use を after the thing affected by an action. The particle is written を and pronounced o. The verb comes at the end.",
+        "subject": "grammar",
+        "explanationEn": "Use を after the thing affected by an action. The particle is written を and pronounced o. The verb comes at the end.",
+        "explanationJa": "「を」は、{食|た}べるものや{読|よ}むものの{後|あと}に{置|お}きます。",
+        "examples": [
+          {
+            "japanese": "パンを{食|た}べます。",
+            "english": "I eat bread."
+          },
+          {
+            "japanese": "{本|ほん}を{読|よ}みます。",
+            "english": "I read a book."
+          },
+          {
+            "japanese": "{水|みず}を{飲|の}みます。",
+            "english": "I drink water."
+          }
+        ]
+      }
+    },
+    {
+      "id": "81000000-0000-4000-8000-000000000002",
+      "courseId": "60000000-0000-4000-8000-000000000001",
+      "level": "n5",
+      "subject": "grammar",
+      "title": "に · Time and destination",
+      "position": 101,
+      "body": {
+        "text": "Use に with a specific clock time. に can also mark a destination with movement verbs. These are different uses of the same particle.",
+        "subject": "grammar",
+        "explanationEn": "Use に with a specific clock time. に can also mark a destination with movement verbs. These are different uses of the same particle.",
+        "explanationJa": "{時間|じかん}を{言|い}うときや、{行|い}く{場所|ばしょ}を{言|い}うときに「に」を{使|つか}います。",
+        "examples": [
+          {
+            "japanese": "{七時|しちじ}に{起|お}きます。",
+            "english": "I get up at seven."
+          },
+          {
+            "japanese": "{学校|がっこう}に{行|い}きます。",
+            "english": "I go to school."
+          }
+        ]
+      }
+    },
+    {
+      "id": "81000000-0000-4000-8000-000000000003",
+      "courseId": "60000000-0000-4000-8000-000000000002",
+      "level": "n4",
+      "subject": "grammar",
+      "title": "ながら · Two actions together",
+      "position": 100,
+      "body": {
+        "text": "Attach ながら to the verb’s ます-stem: 聞きます → 聞きながら. The same person does both actions at the same time. The main action is in the final clause.",
+        "subject": "grammar",
+        "explanationEn": "Attach ながら to the verb’s ます-stem: 聞きます → 聞きながら. The same person does both actions at the same time. The main action is in the final clause.",
+        "explanationJa": "「ます{形|けい}の{語幹|ごかん}＋ながら」は、{同|おな}じ{人|ひと}が{二|ふた}つのことを{同時|どうじ}にするときに{使|つか}います。",
+        "examples": [
+          {
+            "japanese": "{音楽|おんがく}を{聞|き}きながら、{料理|りょうり}をします。",
+            "english": "I cook while listening to music."
+          },
+          {
+            "japanese": "{友達|ともだち}と{話|はな}しながら、{駅|えき}まで{歩|ある}きます。",
+            "english": "I walk to the station while talking with a friend."
+          },
+          {
+            "japanese": "お{茶|ちゃ}を{飲|の}みながら、{本|ほん}を{読|よ}みます。",
+            "english": "I read a book while drinking tea."
+          }
+        ]
+      }
+    },
+    {
+      "id": "81000000-0000-4000-8000-000000000004",
+      "courseId": "60000000-0000-4000-8000-000000000002",
+      "level": "n4",
+      "subject": "grammar",
+      "title": "てから · What happens next",
+      "position": 101,
+      "body": {
+        "text": "Use a verb’s て-form + から to say that the following action happens after the first action is completed.",
+        "subject": "grammar",
+        "explanationEn": "Use a verb’s て-form + から to say that the following action happens after the first action is completed.",
+        "explanationJa": "「て{形|けい}＋から」は、{先|さき}にすることと、その{後|あと}にすることの{順番|じゅんばん}を{表|あらわ}します。",
+        "examples": [
+          {
+            "japanese": "{宿題|しゅくだい}をしてから、テレビを{見|み}ます。",
+            "english": "I watch TV after doing my homework."
+          },
+          {
+            "japanese": "{手|て}を{洗|あら}ってから、ご{飯|はん}を{食|た}べます。",
+            "english": "I eat after washing my hands."
+          }
+        ]
+      }
+    },
+    {
+      "id": "81000000-0000-4000-8000-000000000005",
+      "courseId": "60000000-0000-4000-8000-000000000001",
+      "level": "n5",
+      "subject": "vocabulary",
+      "title": "Everyday words",
+      "position": 102,
+      "body": {
+        "text": "Read each word in context, then practice the vocabulary deck. Notice the particle and the verb, not only the isolated word.",
+        "subject": "vocabulary",
+        "explanationEn": "Read each word in context, then practice the vocabulary deck. Notice the particle and the verb, not only the isolated word.",
+        "explanationJa": "{単語|たんご}だけでなく、{文|ぶん}の{中|なか}で{使|つか}い{方|かた}を{見|み}ましょう。",
+        "examples": [
+          {
+            "japanese": "{水|みず}を{飲|の}みます。",
+            "english": "I drink water."
+          },
+          {
+            "japanese": "{友達|ともだち}と{話|はな}します。",
+            "english": "I talk with a friend."
+          }
+        ]
+      }
+    },
+    {
+      "id": "81000000-0000-4000-8000-000000000006",
+      "courseId": "60000000-0000-4000-8000-000000000001",
+      "level": "n5",
+      "subject": "kanji",
+      "title": "日 and 月 in context",
+      "position": 103,
+      "body": {
+        "text": "Kanji readings depend on the word. Learn a whole word and its reading together; do not assume a character always has one pronunciation.",
+        "subject": "kanji",
+        "explanationEn": "Kanji readings depend on the word. Learn a whole word and its reading together; do not assume a character always has one pronunciation.",
+        "explanationJa": "{漢字|かんじ}は{言葉|ことば}によって{読|よ}み{方|かた}が{変|か}わります。{言葉|ことば}と{一緒|いっしょ}に{覚|おぼ}えましょう。",
+        "examples": [
+          {
+            "japanese": "{日曜日|にちようび}です。",
+            "english": "It is Sunday."
+          },
+          {
+            "japanese": "{月曜日|げつようび}に{学校|がっこう}へ{行|い}きます。",
+            "english": "I go to school on Monday."
+          }
+        ]
+      }
+    },
+    {
+      "id": "81000000-0000-4000-8000-000000000007",
+      "courseId": "60000000-0000-4000-8000-000000000001",
+      "level": "n5",
+      "subject": "reading",
+      "title": "A short morning routine",
+      "position": 104,
+      "body": {
+        "text": "Read the whole passage first. Identify the person, time and main action before answering the reading practice questions.",
+        "subject": "reading",
+        "explanationEn": "Read the whole passage first. Identify the person, time and main action before answering the reading practice questions.",
+        "explanationJa": "まず{全部|ぜんぶ}{読|よ}みましょう。だれが、いつ、{何|なに}をするか{考|かんが}えましょう。",
+        "examples": [
+          {
+            "japanese": "{田中|たなか}さんは{毎朝|まいあさ}{七時|しちじ}に{起|お}きます。パンを{食|た}べて、{八時|はちじ}に{学校|がっこう}へ{行|い}きます。",
+            "english": "Tanaka gets up at seven every morning, eats bread and goes to school at eight."
+          },
+          {
+            "japanese": "{学校|がっこう}へ{行|い}くのは{八時|はちじ}です。",
+            "english": "The time for going to school is eight."
+          }
+        ]
+      }
+    },
+    {
+      "id": "81000000-0000-4000-8000-000000000008",
+      "courseId": "60000000-0000-4000-8000-000000000002",
+      "level": "n4",
+      "subject": "vocabulary",
+      "title": "Words for daily plans",
+      "position": 102,
+      "body": {
+        "text": "Read each word in context, then practice the vocabulary deck. Notice the particle and the verb, not only the isolated word.",
+        "subject": "vocabulary",
+        "explanationEn": "Read each word in context, then practice the vocabulary deck. Notice the particle and the verb, not only the isolated word.",
+        "explanationJa": "{単語|たんご}だけでなく、{文|ぶん}の{中|なか}で{使|つか}い{方|かた}を{見|み}ましょう。",
+        "examples": [
+          {
+            "japanese": "{明日|あした}の{予定|よてい}を{確認|かくにん}します。",
+            "english": "I check tomorrow’s schedule."
+          },
+          {
+            "japanese": "{会議|かいぎ}は{午後|ごご}です。",
+            "english": "The meeting is in the afternoon."
+          }
+        ]
+      }
+    },
+    {
+      "id": "81000000-0000-4000-8000-000000000009",
+      "courseId": "60000000-0000-4000-8000-000000000002",
+      "level": "n4",
+      "subject": "kanji",
+      "title": "会 and 社 in context",
+      "position": 103,
+      "body": {
+        "text": "Kanji readings depend on the word. Learn a whole word and its reading together; do not assume a character always has one pronunciation.",
+        "subject": "kanji",
+        "explanationEn": "Kanji readings depend on the word. Learn a whole word and its reading together; do not assume a character always has one pronunciation.",
+        "explanationJa": "{漢字|かんじ}は{言葉|ことば}によって{読|よ}み{方|かた}が{変|か}わります。{言葉|ことば}と{一緒|いっしょ}に{覚|おぼ}えましょう。",
+        "examples": [
+          {
+            "japanese": "{会社|かいしゃ}で{働|はたら}いています。",
+            "english": "I work at a company."
+          },
+          {
+            "japanese": "{会議|かいぎ}は{三時|さんじ}からです。",
+            "english": "The meeting starts at three."
+          }
+        ]
+      }
+    },
+    {
+      "id": "81000000-0000-4000-8000-000000000010",
+      "courseId": "60000000-0000-4000-8000-000000000002",
+      "level": "n4",
+      "subject": "reading",
+      "title": "A changed meeting time",
+      "position": 104,
+      "body": {
+        "text": "Read the whole passage first. Identify the person, time and main action before answering the reading practice questions.",
+        "subject": "reading",
+        "explanationEn": "Read the whole passage first. Identify the person, time and main action before answering the reading practice questions.",
+        "explanationJa": "まず{全部|ぜんぶ}{読|よ}みましょう。だれが、いつ、{何|なに}をするか{考|かんが}えましょう。",
+        "examples": [
+          {
+            "japanese": "{明日|あした}の{会議|かいぎ}は{二時|にじ}からの{予定|よてい}でしたが、{三時|さんじ}に{変|か}わりました。{場所|ばしょ}は{同|おな}じです。",
+            "english": "Tomorrow’s meeting was planned for two but has changed to three. The location is the same."
+          },
+          {
+            "japanese": "{変|か}わったのは{時間|じかん}だけです。",
+            "english": "Only the time changed."
+          }
+        ]
+      }
+    }
+  ],
+  "cards": [
+    {
+      "level": "n5",
+      "term": "水",
+      "reading": "みず",
+      "translations": {
+        "en": "water",
+        "ja": "飲むための水。"
+      },
+      "example": "{水|みず}を{飲|の}みます。",
+      "exampleTranslation": "I drink water.",
+      "id": "10000000-0000-4000-8000-000000000001",
+      "category": "Everyday Japanese"
+    },
+    {
+      "level": "n5",
+      "term": "学校",
+      "reading": "がっこう",
+      "translations": {
+        "en": "school",
+        "ja": "勉強する場所。"
+      },
+      "example": "{学校|がっこう}へ{行|い}きます。",
+      "exampleTranslation": "I go to school.",
+      "id": "10000000-0000-4000-8000-000000000002",
+      "category": "Everyday Japanese"
+    },
+    {
+      "level": "n5",
+      "term": "友達",
+      "reading": "ともだち",
+      "translations": {
+        "en": "friend",
+        "ja": "親しくしている人。"
+      },
+      "example": "{友達|ともだち}と{話|はな}します。",
+      "exampleTranslation": "I talk with a friend.",
+      "id": "10000000-0000-4000-8000-000000000003",
+      "category": "Everyday Japanese"
+    },
+    {
+      "level": "n5",
+      "term": "電車",
+      "reading": "でんしゃ",
+      "translations": {
+        "en": "train",
+        "ja": "電気で走る乗り物。"
+      },
+      "example": "{電車|でんしゃ}で{会社|かいしゃ}へ{行|い}きます。",
+      "exampleTranslation": "I go to work by train.",
+      "id": "10000000-0000-4000-8000-000000000004",
+      "category": "Everyday Japanese"
+    },
+    {
+      "level": "n5",
+      "term": "本",
+      "reading": "ほん",
+      "translations": {
+        "en": "book",
+        "ja": "読むための本。"
+      },
+      "example": "{毎日|まいにち}、{本|ほん}を{読|よ}みます。",
+      "exampleTranslation": "I read a book every day.",
+      "id": "10000000-0000-4000-8000-000000000005",
+      "category": "Everyday Japanese"
+    },
+    {
+      "level": "n5",
+      "term": "食べる",
+      "reading": "たべる",
+      "translations": {
+        "en": "to eat",
+        "ja": "食べ物を口に入れること。"
+      },
+      "example": "パンを{食|た}べます。",
+      "exampleTranslation": "I eat bread.",
+      "id": "10000000-0000-4000-8000-000000000006",
+      "category": "Everyday Japanese"
+    },
+    {
+      "level": "n5",
+      "term": "大きい",
+      "reading": "おおきい",
+      "translations": {
+        "en": "big; large",
+        "ja": "サイズが大きい。"
+      },
+      "example": "あの{犬|いぬ}は{大|おお}きいです。",
+      "exampleTranslation": "That dog is big.",
+      "id": "10000000-0000-4000-8000-000000000007",
+      "category": "Everyday Japanese"
+    },
+    {
+      "level": "n5",
+      "term": "今日",
+      "reading": "きょう",
+      "translations": {
+        "en": "today",
+        "ja": "今、この日。"
+      },
+      "example": "{今日|きょう}は{休|やす}みです。",
+      "exampleTranslation": "Today is a day off.",
+      "id": "10000000-0000-4000-8000-000000000008",
+      "category": "Everyday Japanese"
+    },
+    {
+      "level": "n5",
+      "term": "先生",
+      "reading": "せんせい",
+      "translations": {
+        "en": "teacher",
+        "ja": "勉強などを教える人。"
+      },
+      "example": "{先生|せんせい}に{聞|き}きます。",
+      "exampleTranslation": "I ask the teacher.",
+      "id": "10000000-0000-4000-8000-000000000009",
+      "category": "Everyday Japanese"
+    },
+    {
+      "level": "n5",
+      "term": "駅",
+      "reading": "えき",
+      "translations": {
+        "en": "station",
+        "ja": "電車に乗る場所。"
+      },
+      "example": "{駅|えき}は{近|ちか}いです。",
+      "exampleTranslation": "The station is nearby.",
+      "id": "10000000-0000-4000-8000-000000000010",
+      "category": "Everyday Japanese"
+    },
+    {
+      "level": "n4",
+      "term": "約束",
+      "reading": "やくそく",
+      "translations": {
+        "en": "promise; arrangement",
+        "ja": "人と決めたこと。"
+      },
+      "example": "{友達|ともだち}と{会|あ}う{約束|やくそく}があります。",
+      "exampleTranslation": "I have arranged to meet a friend.",
+      "id": "10000000-0000-4000-8000-000000000011",
+      "category": "Everyday Japanese"
+    },
+    {
+      "level": "n4",
+      "term": "準備",
+      "reading": "じゅんび",
+      "translations": {
+        "en": "preparation",
+        "ja": "必要なものをそろえること。"
+      },
+      "example": "{旅行|りょこう}の{準備|じゅんび}をしています。",
+      "exampleTranslation": "I am preparing for a trip.",
+      "id": "10000000-0000-4000-8000-000000000012",
+      "category": "Everyday Japanese"
+    },
+    {
+      "level": "n4",
+      "term": "経験",
+      "reading": "けいけん",
+      "translations": {
+        "en": "experience",
+        "ja": "実際にしたり見たりしたこと。"
+      },
+      "example": "{日本|にほん}で{働|はたら}いた{経験|けいけん}があります。",
+      "exampleTranslation": "I have experience working in Japan.",
+      "id": "10000000-0000-4000-8000-000000000013",
+      "category": "Everyday Japanese"
+    },
+    {
+      "level": "n4",
+      "term": "間に合う",
+      "reading": "まにあう",
+      "translations": {
+        "en": "to be in time",
+        "ja": "決まった時間までに着くこと。"
+      },
+      "example": "{急|いそ}げば、{電車|でんしゃ}に{間|ま}に{合|あ}います。",
+      "exampleTranslation": "If we hurry, we will catch the train.",
+      "id": "10000000-0000-4000-8000-000000000014",
+      "category": "Everyday Japanese"
+    },
+    {
+      "level": "n4",
+      "term": "続ける",
+      "reading": "つづける",
+      "translations": {
+        "en": "to continue",
+        "ja": "途中でやめないで行うこと。"
+      },
+      "example": "{毎日|まいにち}、{勉強|べんきょう}を{続|つづ}けています。",
+      "exampleTranslation": "I keep studying every day.",
+      "id": "10000000-0000-4000-8000-000000000015",
+      "category": "Everyday Japanese"
+    },
+    {
+      "level": "n4",
+      "term": "必要",
+      "reading": "ひつよう",
+      "translations": {
+        "en": "necessary; necessity",
+        "ja": "なくては困ること。"
+      },
+      "example": "パスポートが{必要|ひつよう}です。",
+      "exampleTranslation": "A passport is necessary.",
+      "id": "10000000-0000-4000-8000-000000000016",
+      "category": "Everyday Japanese"
+    },
+    {
+      "level": "n4",
+      "term": "説明",
+      "reading": "せつめい",
+      "translations": {
+        "en": "explanation",
+        "ja": "わかるように伝えること。"
+      },
+      "example": "{先生|せんせい}の{説明|せつめい}はわかりやすいです。",
+      "exampleTranslation": "The teacher’s explanation is easy to understand.",
+      "id": "10000000-0000-4000-8000-000000000017",
+      "category": "Everyday Japanese"
+    },
+    {
+      "level": "n4",
+      "term": "調べる",
+      "reading": "しらべる",
+      "translations": {
+        "en": "to look up; to investigate",
+        "ja": "知るために探して確かめること。"
+      },
+      "example": "{辞書|じしょ}で{意味|いみ}を{調|しら}べます。",
+      "exampleTranslation": "I look up the meaning in a dictionary.",
+      "id": "10000000-0000-4000-8000-000000000018",
+      "category": "Everyday Japanese"
+    },
+    {
+      "level": "n4",
+      "term": "残念",
+      "reading": "ざんねん",
+      "translations": {
+        "en": "disappointing; regrettable",
+        "ja": "思いどおりにならず、悲しいこと。"
+      },
+      "example": "{会|あ}えなくて{残念|ざんねん}です。",
+      "exampleTranslation": "It is a shame that we cannot meet.",
+      "id": "10000000-0000-4000-8000-000000000019",
+      "category": "Everyday Japanese"
+    },
+    {
+      "level": "n4",
+      "term": "安心",
+      "reading": "あんしん",
+      "translations": {
+        "en": "relief; peace of mind",
+        "ja": "心配がなくなること。"
+      },
+      "example": "{無事|ぶじ}に{着|つ}いたと{聞|き}いて、{安心|あんしん}しました。",
+      "exampleTranslation": "I felt relieved to hear that you arrived safely.",
+      "id": "10000000-0000-4000-8000-000000000020",
+      "category": "Everyday Japanese"
+    },
+    {
+      "id": "b1000000-0000-4000-8000-000000000001",
+      "level": "n3",
+      "term": "約束",
+      "reading": "やくそく",
+      "translations": {
+        "en": "promise; arrangement",
+        "ja": "人と決めたこと。"
+      },
+      "example": "{友達|ともだち}との{約束|やくそく}を{守|まも}ります。",
+      "exampleTranslation": "I keep my promise to a friend.",
+      "category": "Daily life & work"
+    },
+    {
+      "id": "b1000000-0000-4000-8000-000000000002",
+      "level": "n3",
+      "term": "準備",
+      "reading": "じゅんび",
+      "translations": {
+        "en": "preparation",
+        "ja": "前もって必要なものを用意すること。"
+      },
+      "example": "{旅行|りょこう}の{準備|じゅんび}をします。",
+      "exampleTranslation": "I prepare for the trip.",
+      "category": "Daily life & work"
+    },
+    {
+      "id": "b1000000-0000-4000-8000-000000000003",
+      "level": "n3",
+      "term": "経験",
+      "reading": "けいけん",
+      "translations": {
+        "en": "experience",
+        "ja": "実際に行ったり見たりしたこと。"
+      },
+      "example": "この{経験|けいけん}から{学|まな}びました。",
+      "exampleTranslation": "I learned from this experience.",
+      "category": "Daily life & work"
+    },
+    {
+      "id": "b1000000-0000-4000-8000-000000000004",
+      "level": "n2",
+      "term": "責任",
+      "reading": "せきにん",
+      "translations": {
+        "en": "responsibility",
+        "ja": "自分の役割を果たす義務。"
+      },
+      "example": "{仕事|しごと}に{責任|せきにん}を{持|も}ちます。",
+      "exampleTranslation": "I take responsibility for my work.",
+      "category": "Daily life & work"
+    },
+    {
+      "id": "b1000000-0000-4000-8000-000000000005",
+      "level": "n2",
+      "term": "提案",
+      "reading": "ていあん",
+      "translations": {
+        "en": "proposal",
+        "ja": "考えや方法を示すこと。"
+      },
+      "example": "{新|あたら}しい{方法|ほうほう}を{提案|ていあん}します。",
+      "exampleTranslation": "I propose a new method.",
+      "category": "Daily life & work"
+    },
+    {
+      "id": "b1000000-0000-4000-8000-000000000006",
+      "level": "n2",
+      "term": "改善",
+      "reading": "かいぜん",
+      "translations": {
+        "en": "improvement",
+        "ja": "今よりよくすること。"
+      },
+      "example": "{作業|さぎょう}の{手順|てじゅん}を{改善|かいぜん}します。",
+      "exampleTranslation": "I improve the work procedure.",
+      "category": "Daily life & work"
+    },
+    {
+      "id": "b1000000-0000-4000-8000-000000000007",
+      "level": "n1",
+      "term": "配慮",
+      "reading": "はいりょ",
+      "translations": {
+        "en": "consideration",
+        "ja": "相手や周りのことを考えること。"
+      },
+      "example": "{周囲|しゅうい}への{配慮|はいりょ}が{必要|ひつよう}です。",
+      "exampleTranslation": "Consideration for others is necessary.",
+      "category": "Daily life & work"
+    },
+    {
+      "id": "b1000000-0000-4000-8000-000000000008",
+      "level": "n1",
+      "term": "概念",
+      "reading": "がいねん",
+      "translations": {
+        "en": "concept",
+        "ja": "物事についての基本的な考え。"
+      },
+      "example": "この{概念|がいねん}を{説明|せつめい}します。",
+      "exampleTranslation": "I explain this concept.",
+      "category": "Daily life & work"
+    },
+    {
+      "id": "b1000000-0000-4000-8000-000000000009",
+      "level": "n1",
+      "term": "是正",
+      "reading": "ぜせい",
+      "translations": {
+        "en": "correction; rectification",
+        "ja": "悪い点や不公平を正すこと。"
+      },
+      "example": "{不公平|ふこうへい}な{制度|せいど}を{是正|ぜせい}します。",
+      "exampleTranslation": "I rectify an unfair system.",
+      "category": "Daily life & work"
+    }
+  ],
+  "decks": [
+    {
+      "id": "20000000-0000-4000-8000-000000000001",
+      "level": "n5",
+      "title": "N5 vocabulary"
+    },
+    {
+      "id": "20000000-0000-4000-8000-000000000002",
+      "level": "n4",
+      "title": "N4 vocabulary"
+    },
+    {
+      "id": "b2000000-0000-4000-8000-000000000003",
+      "level": "n3",
+      "title": "N3 vocabulary"
+    },
+    {
+      "id": "b2000000-0000-4000-8000-000000000004",
+      "level": "n2",
+      "title": "N2 vocabulary"
+    },
+    {
+      "id": "b2000000-0000-4000-8000-000000000005",
+      "level": "n1",
+      "title": "N1 vocabulary"
+    }
+  ],
+  "banks": [
+    {
+      "id": "91000000-0000-4000-8000-000000000001",
+      "level": "n5",
+      "subject": "grammar",
+      "title": "N5 grammar · 10 demonstration questions",
+      "questions": [
+        {
+          "prompt": "わたしはパン（　）{食|た}べます。",
+          "options": ["を", "に", "で", "へ"],
+          "correctIndex": 0,
+          "explanation": "を marks the direct object, the thing eaten. に and へ indicate other relationships; で often marks the place or means of an action.",
+          "japaneseExplanation": "「を」は{食|た}べるものの{後|あと}です。",
+          "translation": "I eat bread.",
+          "id": "92000000-0000-4000-8000-000000000001",
+          "optionIds": [
+            "93000000-0000-4000-8000-000000000001",
+            "93000000-0000-4000-8000-000000000002",
+            "93000000-0000-4000-8000-000000000003",
+            "93000000-0000-4000-8000-000000000004"
+          ]
+        },
+        {
+          "prompt": "{学校|がっこう}（　）{日本語|にほんご}を{勉強|べんきょう}します。",
+          "options": ["に", "で", "を", "へ"],
+          "correctIndex": 1,
+          "explanation": "で marks the place where an action happens. The studying happens at school. に and へ do not mark the location of this activity.",
+          "japaneseExplanation": "{勉強|べんきょう}する{場所|ばしょ}には「で」を{使|つか}います。",
+          "translation": "I study Japanese at school.",
+          "id": "92000000-0000-4000-8000-000000000002",
+          "optionIds": [
+            "93000000-0000-4000-8000-000000000005",
+            "93000000-0000-4000-8000-000000000006",
+            "93000000-0000-4000-8000-000000000007",
+            "93000000-0000-4000-8000-000000000008"
+          ]
+        },
+        {
+          "prompt": "{毎朝|まいあさ}{七時|しちじ}（　）{起|お}きます。",
+          "options": ["を", "が", "に", "で"],
+          "correctIndex": 2,
+          "explanation": "に marks a specific clock time. Here the speaker gets up at seven. It is not an object or the means of doing the action.",
+          "japaneseExplanation": "はっきりした{時間|じかん}の{後|あと}に「に」を{置|お}きます。",
+          "translation": "I get up at seven every morning.",
+          "id": "92000000-0000-4000-8000-000000000003",
+          "optionIds": [
+            "93000000-0000-4000-8000-000000000009",
+            "93000000-0000-4000-8000-000000000010",
+            "93000000-0000-4000-8000-000000000011",
+            "93000000-0000-4000-8000-000000000012"
+          ]
+        },
+        {
+          "prompt": "きのう{映画|えいが}を（　）。",
+          "options": ["見ます", "見ません", "見ましょう", "見ました"],
+          "correctIndex": 3,
+          "explanation": "きのう refers to yesterday, so use the polite past affirmative 見ました for a completed action. The other choices are non-past or an invitation.",
+          "japaneseExplanation": "きのうのことなので「{見|み}ました」です。",
+          "translation": "I watched a film yesterday.",
+          "id": "92000000-0000-4000-8000-000000000004",
+          "optionIds": [
+            "93000000-0000-4000-8000-000000000013",
+            "93000000-0000-4000-8000-000000000014",
+            "93000000-0000-4000-8000-000000000015",
+            "93000000-0000-4000-8000-000000000016"
+          ]
+        },
+        {
+          "prompt": "この{本|ほん}は（　）です。",
+          "options": [
+            "おもしろい",
+            "おもしろく",
+            "おもしろくて",
+            "おもしろかったら"
+          ],
+          "correctIndex": 0,
+          "explanation": "An affirmative non-past い-adjective keeps い before です. おもしろく is an adverbial form; おもしろくて links clauses; おもしろかったら is conditional.",
+          "japaneseExplanation": "「い{形容詞|けいようし}＋です」の{形|かたち}です。",
+          "translation": "This book is interesting.",
+          "id": "92000000-0000-4000-8000-000000000005",
+          "optionIds": [
+            "93000000-0000-4000-8000-000000000017",
+            "93000000-0000-4000-8000-000000000018",
+            "93000000-0000-4000-8000-000000000019",
+            "93000000-0000-4000-8000-000000000020"
+          ]
+        },
+        {
+          "prompt": "{友達|ともだち}を{誘|さそ}います。「{一緒|いっしょ}にお{茶|ちゃ}を{飲|の}み（　）。」",
+          "options": ["ました", "ませんか", "ませんでした", "ますから"],
+          "correctIndex": 1,
+          "explanation": "ませんか politely invites someone to do something together. 一緒に supports the invitation. The other endings do not form this invitation.",
+          "japaneseExplanation": "「ませんか」は{丁寧|ていねい}な{誘|さそ}いです。",
+          "translation": "Would you like to have tea together?",
+          "id": "92000000-0000-4000-8000-000000000006",
+          "optionIds": [
+            "93000000-0000-4000-8000-000000000021",
+            "93000000-0000-4000-8000-000000000022",
+            "93000000-0000-4000-8000-000000000023",
+            "93000000-0000-4000-8000-000000000024"
+          ]
+        },
+        {
+          "prompt": "{机|つくえ}の{上|うえ}に{本|ほん}が（　）。",
+          "options": ["います", "します", "あります", "行きます"],
+          "correctIndex": 2,
+          "explanation": "あります expresses the existence of an inanimate object such as a book. います is for people and animals. します means to do; 行きます means to go.",
+          "japaneseExplanation": "{本|ほん}は{物|もの}なので「あります」です。",
+          "translation": "There is a book on the desk.",
+          "id": "92000000-0000-4000-8000-000000000007",
+          "optionIds": [
+            "93000000-0000-4000-8000-000000000025",
+            "93000000-0000-4000-8000-000000000026",
+            "93000000-0000-4000-8000-000000000027",
+            "93000000-0000-4000-8000-000000000028"
+          ]
+        },
+        {
+          "prompt": "{教室|きょうしつ}に{学生|がくせい}が（　）。",
+          "options": ["あります", "なります", "します", "います"],
+          "correctIndex": 3,
+          "explanation": "います expresses the existence of animate beings such as students. あります is used for inanimate things. The other choices do not state presence.",
+          "japaneseExplanation": "{学生|がくせい}は{人|ひと}なので「います」です。",
+          "translation": "There are students in the classroom.",
+          "id": "92000000-0000-4000-8000-000000000008",
+          "optionIds": [
+            "93000000-0000-4000-8000-000000000029",
+            "93000000-0000-4000-8000-000000000030",
+            "93000000-0000-4000-8000-000000000031",
+            "93000000-0000-4000-8000-000000000032"
+          ]
+        },
+        {
+          "prompt": "{日曜日|にちようび}は{学校|がっこう}へ（　）。",
+          "options": ["行きません", "行くません", "行きない", "行くない"],
+          "correctIndex": 0,
+          "explanation": "The polite negative of 行きます is 行きません. Replace ます with ません after the stem 行き. The other options mix incompatible forms.",
+          "japaneseExplanation": "「{行|い}きます」の{否定|ひてい}は「{行|い}きません」です。",
+          "translation": "I do not go to school on Sunday.",
+          "id": "92000000-0000-4000-8000-000000000009",
+          "optionIds": [
+            "93000000-0000-4000-8000-000000000033",
+            "93000000-0000-4000-8000-000000000034",
+            "93000000-0000-4000-8000-000000000035",
+            "93000000-0000-4000-8000-000000000036"
+          ]
+        },
+        {
+          "prompt": "これはわたし（　）かばんです。",
+          "options": ["が", "の", "を", "で"],
+          "correctIndex": 1,
+          "explanation": "の links a possessor to a noun. わたしのかばん means my bag. が, を and で do not express possession in this noun phrase.",
+          "japaneseExplanation": "「わたしのかばん」は、わたしが{持|も}っているかばんです。",
+          "translation": "This is my bag.",
+          "id": "92000000-0000-4000-8000-000000000010",
+          "optionIds": [
+            "93000000-0000-4000-8000-000000000037",
+            "93000000-0000-4000-8000-000000000038",
+            "93000000-0000-4000-8000-000000000039",
+            "93000000-0000-4000-8000-000000000040"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "91000000-0000-4000-8000-000000000002",
+      "level": "n5",
+      "subject": "vocabulary",
+      "title": "N5 vocabulary · demonstration",
+      "questions": [
+        {
+          "prompt": "「水」の{意味|いみ}はどれですか。",
+          "options": ["water", "train", "book", "friend"],
+          "correctIndex": 0,
+          "explanation": "水 (みず) means water. Learn it together with a useful example sentence.",
+          "japaneseExplanation": "「水」は「みず」と{読|よ}みます。",
+          "translation": "水を飲みます。 — I drink water.",
+          "id": "92000000-0000-4000-8000-000000000011",
+          "optionIds": [
+            "93000000-0000-4000-8000-000000000041",
+            "93000000-0000-4000-8000-000000000042",
+            "93000000-0000-4000-8000-000000000043",
+            "93000000-0000-4000-8000-000000000044"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "91000000-0000-4000-8000-000000000003",
+      "level": "n5",
+      "subject": "kanji",
+      "title": "N5 kanji · demonstration",
+      "questions": [
+        {
+          "prompt": "「日曜日」はどう{読|よ}みますか。",
+          "options": ["にちようび", "げつようび", "かようび", "すいようび"],
+          "correctIndex": 0,
+          "explanation": "日曜日 is read にちようび and means Sunday. 月曜日 is Monday; 火曜日 is Tuesday; 水曜日 is Wednesday.",
+          "japaneseExplanation": "「{日曜日|にちようび}」は{曜日|ようび}の{名前|なまえ}です。",
+          "translation": "It is Sunday.",
+          "id": "92000000-0000-4000-8000-000000000012",
+          "optionIds": [
+            "93000000-0000-4000-8000-000000000045",
+            "93000000-0000-4000-8000-000000000046",
+            "93000000-0000-4000-8000-000000000047",
+            "93000000-0000-4000-8000-000000000048"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "91000000-0000-4000-8000-000000000004",
+      "level": "n5",
+      "subject": "reading",
+      "title": "N5 reading · demonstration",
+      "questions": [
+        {
+          "prompt": "{田中|たなか}さんは{七時|しちじ}に{起|お}きて、{八時|はちじ}に{学校|がっこう}へ{行|い}きます。{学校|がっこう}へ{行|い}くのは{何時|なんじ}ですか。",
+          "options": ["六時", "七時", "八時", "九時"],
+          "correctIndex": 2,
+          "explanation": "The passage distinguishes getting up at seven from going to school at eight. The question asks about the school departure, so 八時 is correct.",
+          "japaneseExplanation": "{学校|がっこう}へ{行|い}くのは{八時|はちじ}です。",
+          "translation": "Tanaka goes to school at eight.",
+          "id": "92000000-0000-4000-8000-000000000013",
+          "optionIds": [
+            "93000000-0000-4000-8000-000000000049",
+            "93000000-0000-4000-8000-000000000050",
+            "93000000-0000-4000-8000-000000000051",
+            "93000000-0000-4000-8000-000000000052"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "91000000-0000-4000-8000-000000000005",
+      "level": "n4",
+      "subject": "grammar",
+      "title": "N4 grammar · 10 demonstration questions",
+      "questions": [
+        {
+          "prompt": "{日本|にほん}へ{行|い}った ___ があります。",
+          "options": ["こと", "もの", "ところ", "ため"],
+          "correctIndex": 0,
+          "translation": "I have been to Japan.",
+          "explanation": "Verb past plain form + ことがある describes a past experience. 行ったことがあります means ‘have been’. The other nouns do not form this experience pattern.",
+          "japaneseExplanation": "「{動詞|どうし}のた{形|けい}＋ことがある」は、{経験|けいけん}を{表|あらわ}します。",
+          "id": "92000000-0000-4000-8000-000000000014",
+          "optionIds": [
+            "93000000-0000-4000-8000-000000000053",
+            "93000000-0000-4000-8000-000000000054",
+            "93000000-0000-4000-8000-000000000055",
+            "93000000-0000-4000-8000-000000000056"
+          ]
+        },
+        {
+          "prompt": "{毎朝|まいあさ}、{音楽|おんがく}を{聞|き}き ___ {朝|あさ}ご{飯|はん}を{作|つく}ります。",
+          "options": ["まで", "ながら", "ため", "ほど"],
+          "correctIndex": 1,
+          "translation": "Every morning, I make breakfast while listening to music.",
+          "explanation": "Attach ながら to the verb’s ます-stem: 聞きます → 聞きながら. It expresses two simultaneous actions by the same person; the main action follows.",
+          "japaneseExplanation": "「{動詞|どうし}のます{形|けい}の{語幹|ごかん}＋ながら」は、{二|ふた}つの{動作|どうさ}を{同時|どうじ}にすることを{表|あらわ}します。",
+          "id": "92000000-0000-4000-8000-000000000015",
+          "optionIds": [
+            "93000000-0000-4000-8000-000000000057",
+            "93000000-0000-4000-8000-000000000058",
+            "93000000-0000-4000-8000-000000000059",
+            "93000000-0000-4000-8000-000000000060"
+          ]
+        },
+        {
+          "prompt": "{宿題|しゅくだい}をして ___ 、テレビを{見|み}ます。",
+          "options": ["まで", "より", "から", "ほど"],
+          "correctIndex": 2,
+          "translation": "I will watch TV after doing my homework.",
+          "explanation": "Verb て-form + から places the second action after completion of the first. してから means ‘after doing’. The other options cannot follow して in this sentence.",
+          "japaneseExplanation": "「て{形|けい}＋から」は、{先|さき}にすることと、その{後|あと}にすることの{順番|じゅんばん}を{表|あらわ}します。",
+          "id": "92000000-0000-4000-8000-000000000016",
+          "optionIds": [
+            "93000000-0000-4000-8000-000000000061",
+            "93000000-0000-4000-8000-000000000062",
+            "93000000-0000-4000-8000-000000000063",
+            "93000000-0000-4000-8000-000000000064"
+          ]
+        },
+        {
+          "prompt": "ここで{写真|しゃしん}を{撮|と}って ___ ですか。",
+          "options": ["ある", "いる", "する", "もいい"],
+          "correctIndex": 3,
+          "translation": "May I take a photograph here?",
+          "explanation": "Verb て-form + もいいですか asks permission. 撮ってもいいですか means ‘May I take a photograph?’ The other choices do not form a permission question.",
+          "japaneseExplanation": "「て{形|けい}＋もいいですか」は、{許可|きょか}を{求|もと}める{表現|ひょうげん}です。",
+          "id": "92000000-0000-4000-8000-000000000017",
+          "optionIds": [
+            "93000000-0000-4000-8000-000000000065",
+            "93000000-0000-4000-8000-000000000066",
+            "93000000-0000-4000-8000-000000000067",
+            "93000000-0000-4000-8000-000000000068"
+          ]
+        },
+        {
+          "prompt": "{明日|あした}は{試験|しけん}ですから、{勉強|べんきょう}しなければ ___ 。",
+          "options": ["なりません", "ありません", "できません", "しません"],
+          "correctIndex": 0,
+          "translation": "I have an exam tomorrow, so I must study.",
+          "explanation": "Verb ない-form without い + ければなりません expresses obligation. しなければなりません means ‘must do’. なりません completes this fixed construction.",
+          "japaneseExplanation": "「なければなりません」は、{必要|ひつよう}なことや{義務|ぎむ}を{表|あらわ}します。",
+          "id": "92000000-0000-4000-8000-000000000018",
+          "optionIds": [
+            "93000000-0000-4000-8000-000000000069",
+            "93000000-0000-4000-8000-000000000070",
+            "93000000-0000-4000-8000-000000000071",
+            "93000000-0000-4000-8000-000000000072"
+          ]
+        },
+        {
+          "prompt": "{病気|びょうき}なので、{今日|きょう}は{学校|がっこう}を{休|やす}む ___ です。",
+          "options": ["ながら", "つもり", "だけで", "までに"],
+          "correctIndex": 1,
+          "translation": "Because I am ill, I intend to stay home from school today.",
+          "explanation": "Verb dictionary form + つもりです states an intention. 休むつもりです means ‘intend to be absent’. ながら requires a ます-stem; the other choices do not form the required predicate.",
+          "japaneseExplanation": "「{辞書形|じしょけい}＋つもりです」は、{自分|じぶん}の{意志|いし}や{予定|よてい}を{表|あらわ}します。",
+          "id": "92000000-0000-4000-8000-000000000019",
+          "optionIds": [
+            "93000000-0000-4000-8000-000000000073",
+            "93000000-0000-4000-8000-000000000074",
+            "93000000-0000-4000-8000-000000000075",
+            "93000000-0000-4000-8000-000000000076"
+          ]
+        },
+        {
+          "prompt": "この{本|ほん}は{字|じ}が{大|おお}きくて、{読|よ}み ___ です。",
+          "options": ["ながら", "たいな", "やすい", "すぎな"],
+          "correctIndex": 2,
+          "translation": "This book has large print and is easy to read.",
+          "explanation": "Verb ます-stem + やすい means ‘easy to do’. 読みやすい describes readability. ながら cannot be followed by です this way; たいな and すぎな are not valid endings here.",
+          "japaneseExplanation": "「ます{形|けい}の{語幹|ごかん}＋やすい」は、その{動作|どうさ}が{簡単|かんたん}だという{意味|いみ}です。",
+          "id": "92000000-0000-4000-8000-000000000020",
+          "optionIds": [
+            "93000000-0000-4000-8000-000000000077",
+            "93000000-0000-4000-8000-000000000078",
+            "93000000-0000-4000-8000-000000000079",
+            "93000000-0000-4000-8000-000000000080"
+          ]
+        },
+        {
+          "prompt": "{昨日|きのう}、ケーキを{食|た}べ ___ 、おなかが{痛|いた}くなりました。",
+          "options": ["すぎます", "すぎた", "すぎる", "すぎて"],
+          "correctIndex": 3,
+          "translation": "Yesterday I ate too much cake and got a stomachache.",
+          "explanation": "Verb ます-stem + すぎる means to do too much. Use its て-form, すぎて, to connect the excessive eating to the following consequence. すぎます, すぎる and すぎた do not supply that linking form.",
+          "japaneseExplanation": "「ます{形|けい}の{語幹|ごかん}＋すぎる」は、{程度|ていど}が{多|おお}すぎることを{表|あらわ}します。",
+          "id": "92000000-0000-4000-8000-000000000021",
+          "optionIds": [
+            "93000000-0000-4000-8000-000000000081",
+            "93000000-0000-4000-8000-000000000082",
+            "93000000-0000-4000-8000-000000000083",
+            "93000000-0000-4000-8000-000000000084"
+          ]
+        },
+        {
+          "prompt": "{雨|あめ}が{降|ふ}り ___ ですから、{傘|かさ}を{持|も}っていきましょう。",
+          "options": ["そう", "ながら", "たいな", "やすく"],
+          "correctIndex": 0,
+          "translation": "It looks as though it will rain, so let’s take an umbrella.",
+          "explanation": "Verb ます-stem + そうです expresses an appearance or imminent event based on what one observes. 降りそうです means ‘looks like it will rain’. The verb stem cannot take the other choices here.",
+          "japaneseExplanation": "「ます{形|けい}の{語幹|ごかん}＋そうです」は、{見|み}た{様子|ようす}から{判断|はんだん}する{表現|ひょうげん}です。",
+          "id": "92000000-0000-4000-8000-000000000022",
+          "optionIds": [
+            "93000000-0000-4000-8000-000000000085",
+            "93000000-0000-4000-8000-000000000086",
+            "93000000-0000-4000-8000-000000000087",
+            "93000000-0000-4000-8000-000000000088"
+          ]
+        },
+        {
+          "prompt": "{日本語|にほんご}が{上手|じょうず}に{話|はな}せる ___ なりたいです。",
+          "options": ["ために", "ように", "ことに", "そうに"],
+          "correctIndex": 1,
+          "translation": "I want to become able to speak Japanese well.",
+          "explanation": "Potential verb + ようになる expresses gaining an ability. 話せるようになりたい means ‘want to become able to speak’. The other choices do not express this change in ability.",
+          "japaneseExplanation": "「{可能|かのう}{動詞|どうし}＋ようになる」は、できなかったことができる{変化|へんか}を{表|あらわ}します。",
+          "id": "92000000-0000-4000-8000-000000000023",
+          "optionIds": [
+            "93000000-0000-4000-8000-000000000089",
+            "93000000-0000-4000-8000-000000000090",
+            "93000000-0000-4000-8000-000000000091",
+            "93000000-0000-4000-8000-000000000092"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "91000000-0000-4000-8000-000000000006",
+      "level": "n4",
+      "subject": "vocabulary",
+      "title": "N4 vocabulary · demonstration",
+      "questions": [
+        {
+          "prompt": "「予定」の{意味|いみ}はどれですか。",
+          "options": ["weather", "schedule; plan", "company", "meal"],
+          "correctIndex": 1,
+          "explanation": "予定 (よてい) means a schedule or plan. Learn it together with a useful example sentence.",
+          "japaneseExplanation": "「予定」は「よてい」と{読|よ}みます。",
+          "translation": "予定を確認します。 — I check the schedule.",
+          "id": "92000000-0000-4000-8000-000000000024",
+          "optionIds": [
+            "93000000-0000-4000-8000-000000000093",
+            "93000000-0000-4000-8000-000000000094",
+            "93000000-0000-4000-8000-000000000095",
+            "93000000-0000-4000-8000-000000000096"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "91000000-0000-4000-8000-000000000007",
+      "level": "n4",
+      "subject": "kanji",
+      "title": "N4 kanji · demonstration",
+      "questions": [
+        {
+          "prompt": "「会社」はどう{読|よ}みますか。",
+          "options": ["がっこう", "かいしゃ", "でんしゃ", "しゃしん"],
+          "correctIndex": 1,
+          "explanation": "会社 is read かいしゃ and means company. 学校 is school, 電車 is train, and 写真 is photograph.",
+          "japaneseExplanation": "「{会社|かいしゃ}」で{働|はたら}いています。",
+          "translation": "I work at a company.",
+          "id": "92000000-0000-4000-8000-000000000025",
+          "optionIds": [
+            "93000000-0000-4000-8000-000000000097",
+            "93000000-0000-4000-8000-000000000098",
+            "93000000-0000-4000-8000-000000000099",
+            "93000000-0000-4000-8000-000000000100"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "91000000-0000-4000-8000-000000000008",
+      "level": "n4",
+      "subject": "reading",
+      "title": "N4 reading · demonstration",
+      "questions": [
+        {
+          "prompt": "{明日|あした}の{会議|かいぎ}は{二時|にじ}からの{予定|よてい}でしたが、{三時|さんじ}に{変|か}わりました。{場所|ばしょ}は{同|おな}じです。{何|なに}が{変|か}わりましたか。",
+          "options": ["場所", "参加者", "日付", "時間"],
+          "correctIndex": 3,
+          "explanation": "The meeting time changes from two to three, while 場所は同じ explicitly says the place stays the same. There is no stated change to the people or date.",
+          "japaneseExplanation": "{二時|にじ}から{三時|さんじ}に{時間|じかん}が{変|か}わりました。",
+          "translation": "The time changed.",
+          "id": "92000000-0000-4000-8000-000000000026",
+          "optionIds": [
+            "93000000-0000-4000-8000-000000000101",
+            "93000000-0000-4000-8000-000000000102",
+            "93000000-0000-4000-8000-000000000103",
+            "93000000-0000-4000-8000-000000000104"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+node_modules/
+.next/
+out/
+coverage/
+playwright-report/
+test-results/
+.env*
+!.env.example
+*.tsbuildinfo
+*.log
+.pnpm-store/
+outputs/
+
+# Local work, certificates, and exported data
+/work/
+.vercel/
+*.pem
+*.key
+*.pfx
+*.p12
+*.dump
+*.sqlite*
+*.bak
